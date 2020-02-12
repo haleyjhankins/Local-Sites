@@ -1,0 +1,37 @@
+/**
+ * Breadcrumb styles
+ * ----------------------------------------------------------------------------
+**/
+
+.breadcrumbs-wrap {
+  background-color: #f5f5f5;
+  position: relative;
+}
+
+ul.breadcrumbs {
+  margin-bottom: 0;
+  border-color: transparent;
+  li {
+    height: 100%;
+
+  }
+}
+
+.breadcrumbs > *:before {
+  content: "\f105";
+  color: $primaryColor;
+  margin: 0 0.75rem;
+  position: relative;
+  top: 0px;
+  font-size: 11px;
+  font-weight: 300;
+  font-family: FontAwesome;
+}
+
+.breadcrumbs >* a, .breadcrumbs  strong {
+  font-size: 17px;
+  line-height: 30px;
+  font-weight: 700;
+  text-transform: none;
+  color: $primaryColor;
+}

@@ -1,0 +1,20 @@
+/**
+ * List styles
+ * ----------------------------------------------------------------------------
+**/
+
+.centered-list {
+  display: inline-block;
+  li {
+    display: inline-block;
+    float: none;
+    margin: 0 28px;
+  }
+  li:first-child {
+    margin-left: 0;
+  }
+  li:last-child {
+    margin-right: 0;
+
+  }
+}

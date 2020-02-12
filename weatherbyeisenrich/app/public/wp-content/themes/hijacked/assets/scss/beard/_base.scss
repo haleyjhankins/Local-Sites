@@ -1,0 +1,33 @@
+// Site-wide Spacing
+// ------------------------------------------------------------------------------------ */
+$site-width: 126.5rem !default;
+.site-width { max-width: $site-width; }
+
+// Base Typeface Definitions
+//-------------------------------------------------------------------------- */
+$sans-serif: 'Helvetica Neue', Helvetica, Arial, sans-serif !default;
+.sans-serif {
+  font-family: $sans-serif;
+}
+
+$serif: Merriweather, Georgia, serif !default;
+.serif {
+  font-family: $serif;
+}
+
+$code: Menlo, Consolas, Monaco, 'Andale Mono', monospace !default;
+.code {
+  font-family: $code;
+}
+
+// Base Elements
+//-------------------------------------------------------------------------- */
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  height: 100%;
+}

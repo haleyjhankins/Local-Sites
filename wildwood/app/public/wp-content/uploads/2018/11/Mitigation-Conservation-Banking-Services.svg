@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="102px" viewBox="0 0 142 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Mitigation / Conservation Banking Services</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 72 0 72 79 0 79"></polygon>
+    </defs>
+    <g id="Mitigation-/-Conservation-Banking-Services" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3" transform="translate(35.000000, 12.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M63.8699535,0 C63.8699535,0 56.8925262,7.32178721 32.247481,13.3638877 C5.36792087,19.9542543 -3.51273114,56.4370972 25.7077873,62.551821 C25.9119036,62.7928346 26.1152225,63.0330502 26.3285081,63.2804483 C11.9869488,74.9033715 5.82199982,72.7745506 1.9996039,73.8012528 C-1.95474999,74.8630696 0.263419686,80.2691175 5.95435645,78.7244754 C10.4441169,77.5058401 23.0965344,69.1373993 28.2365167,65.6598596 C35.9726027,58.5308035 49.3067367,44.6896768 53.8104504,30.3764986 C53.8104504,30.3764986 54.5404052,47.4254212 32.4751184,69.475377 C51.9813773,85.7936771 64.9244213,64.3586253 64.9244213,64.3586253 C81.4379052,43.6091057 63.8699535,0 63.8699535,0" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

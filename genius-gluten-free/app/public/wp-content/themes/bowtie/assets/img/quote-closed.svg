@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="54px" viewBox="0 0 55 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>quote-closed</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Round-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="Full-Design_02" transform="translate(-1089.000000, -5080.000000)" fill="#12366F">
+            <g id="meet-lucinda" transform="translate(0.000000, 5080.000000)">
+                <g id="lucinda-content" transform="translate(150.000000, 0.000000)">
+                    <g id="meet-lucinda-quote" transform="translate(97.000000, 0.000000)">
+                        <g id="Group-5">
+                            <path d="M852.072,53.528 C859.272,53.528 860.424,44.024 860.424,37.4 C860.424,10.904 869.064,14.36 869.064,5.144 C869.064,1.688 867.048,0.248 864.456,0.248 C856.968,0.248 842.568,12.632 842.568,29.336 C842.568,53.24 849.192,53.528 852.072,53.528 Z M880.008,53.528 C887.208,53.528 888.072,44.024 888.072,37.4 C888.072,10.904 897,14.36 897,5.144 C897,1.688 894.984,0.248 892.392,0.248 C884.904,0.248 870.504,12.632 870.504,29.336 C870.504,53.24 877.128,53.528 880.008,53.528 Z" id="quote-closed" transform="translate(869.784000, 26.888000) scale(-1, -1) translate(-869.784000, -26.888000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

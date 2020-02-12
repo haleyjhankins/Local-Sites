@@ -1,0 +1,40 @@
+// Configuration
+//-------------------------------------------------------------------------- */
+$beard-reset: true !default;
+
+/* Resets */
+@import 'beard/reset';
+
+/* Beard Components */
+// Import Colors
+// ------------------------------------------------------------------------------------ */
+@import 'beard/colors';
+
+// Import Mixins
+// ------------------------------------------------------------------------------------ */
+@import 'beard/mixins/appearance',
+'beard/mixins/media',
+'beard/mixins/clearfix',
+'beard/mixins/demarginize',
+'beard/mixins/font-size',
+'beard/mixins/user-drag';
+
+// Import Global
+//-------------------------------------------------------------------------- */
+@import 'beard/breakpoints',
+'beard/base',
+'beard/spacing',
+'beard/helpers',
+'beard/text-align',
+'beard/position',
+'beard/display';
+
+@import 'components/components';
+
+// Import Slick Carousel
+// ------------------------------------------------------------------------------------ */
+@import "../../node_modules/slick-carousel/slick/slick";
+
+// Import Lightbox
+// ------------------------------------------------------------------------------------ */
+@import "../lightbox/css/lightbox";

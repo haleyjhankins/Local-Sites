@@ -1,0 +1,125 @@
+/**
+ * Base style tags
+ * ----------------------------------------------------------------------------
+**/
+
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: 1.5px;
+}
+
+h1 {
+  font-family: $primaryFont;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 34px;
+  letter-spacing: .12em;
+}
+
+h2 {
+  font-family: $secondaryFont;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+}
+
+h3 {
+  font-family: $primaryFont;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 34px;
+  font-style: italic;
+  letter-spacing: .12em;
+
+}
+
+h4, h4 span {
+  font-family: $primaryFont;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  font-style: italic;
+  letter-spacing: .06em;
+}
+
+h5 {
+  font-family: $primaryFont;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 38px;
+  letter-spacing: .06em;
+}
+
+h6 {
+ font-family: $secondaryFont;
+ font-weight: 700;
+ font-size: 18px;
+ line-height: 20px;
+ text-transform: uppercase;
+ letter-spacing: .06em;
+}
+
+p, span, a {
+  font-family: $bodyFont;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: .06em;
+
+}
+
+ul {
+  list-style-type: disc;
+}
+
+li {
+  font-family: $bodyFont;
+  color: $black;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: .06em;
+
+}
+
+a {
+  color: $linkColor;
+  @include transition($transitionTime);
+
+  &:hover {
+    color: $linkHoverColor;
+  }
+}
+
+hr {
+  border-top: 1px solid $black;
+  margin: 0px auto 30px;
+}
+
+.hr--light {
+  border-top-color: $white;
+}
+
+.hr--dark {
+  border-top-color: #bcbcbc;
+}
+
+.hr--sm {
+  width: 150px;
+  max-width: 90%;
+}
+
+.hr--md {
+  width: 300px;
+  max-width: 90%;
+}
+
+.hr--lg {
+  width: 600px;
+  max-width: 90%;
+}
+
+section {
+  position: relative;
+}

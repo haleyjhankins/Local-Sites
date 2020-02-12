@@ -1,0 +1,139 @@
+/**
+* Major Elements and grid
+* ------------------------------------------------------------------------------
+**/
+
+// header
+
+.site-header {
+  padding: 22px 0;
+
+  ul {
+    margin: 0;
+
+    li {
+      font-family: $primaryFont;
+      font-weight: 700;
+      font-style: normal;
+    }
+
+    a {
+      text-transform: uppercase;
+      color: $black;
+      font-size: 16px;
+      line-height: 48px;
+      letter-spacing: .060rem;
+      font-weight: 700;
+    }
+  }
+
+  ul li ul.sub-menu, ul li ul.sub-menu {
+    @include transition($transitionTime);
+    visibility: hidden;
+    position: absolute;
+    z-index: 999;
+    top: 0px;
+    left: 50%;
+    width: 200px;
+    background: transparent;
+    color: transparent;
+    height: auto;
+    margin-left: -100px !important;
+    text-align: center;
+    li {
+      display: block;
+      text-align: center;
+      margin: 15px 0;
+    }
+    li a {
+      color: transparent;
+    }
+  }
+
+    ul li:hover ul.sub-menu, ul li:hover ul.sub-menu {
+     visibility: visible;
+     top: 139px;
+     background: #fff;
+     color: $darkGrey;
+     li a {
+      color: $darkGrey;
+    }
+
+  }
+
+}
+
+.header-section {
+  padding: 180px 0 80px;
+  position: relative;
+  top: 0;
+  width: 100%;
+}
+
+ .menu-item {
+  position: relative;
+}
+// end header
+
+
+
+// footer
+footer.site-footer {
+
+  p {
+    font-size: 16px;
+    line-height: 18px;
+    color: $black;
+    word-wrap: break-word;
+  }
+
+  .social-icons {
+
+    li {
+      @include transition($transitionTime);
+      margin-left: 0;
+      margin-right: 50px;
+          &:last-child {
+            margin-right: 0px;
+          }
+          &:hover {
+            opacity: 0.7;
+          }
+    }
+
+  }
+
+  .footer-links {
+      height: 36px;
+      li {
+        margin-left: 40px;
+      }
+      @media screen and (max-width: 640px) {
+        height: auto;
+      }
+  }
+
+  ul {
+        @media screen and (max-width: 640px) {
+        text-align: center !important;
+        li {
+            float: none !important;
+            display: inline-block;
+            margin: 0 10px 15px;
+          }
+        }
+    }
+} //end footer
+
+// page
+
+.content-area {
+  padding: 80px 0;
+  position: relative;
+  top: 0;
+}
+
+.banner-image {
+  height: 600px;
+  background-position: center center;
+}

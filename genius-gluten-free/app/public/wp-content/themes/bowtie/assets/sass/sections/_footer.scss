@@ -1,0 +1,28 @@
+footer {
+	background: color('primary', 'dark');
+	color: #fff;
+	padding: 2em 0;
+
+	a {
+		color: #fff;
+
+		&:hover {
+			color: color('accent');
+		}
+
+	}
+
+	.gluten-free {
+		max-width: 50px;
+	}
+
+	.row {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+
+		> *:nth-child(1), > *:nth-child(2) {
+			margin: 0 auto 0 0;
+		}
+	}
+}

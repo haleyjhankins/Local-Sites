@@ -1,0 +1,14 @@
+/**
+ * Pagination styles
+ * ----------------------------------------------------------------------------
+**/
+
+ul.pagination li a {
+  border-radius: 0;
+  color: $black;
+  font-weight: 300 !important;
+}
+
+ul.pagination li.current a {
+  background: $primaryColor;
+}

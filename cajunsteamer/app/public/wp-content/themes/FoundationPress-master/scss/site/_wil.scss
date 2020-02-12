@@ -1,0 +1,34 @@
+#menu-downloads {
+    ul {
+        list-style: none;
+        display: block;
+        position: relative
+    }
+}
+
+#menu-downloads ul li {
+    display: block;
+    position: relative;
+    float: left;
+    width: 30%;
+    a {
+        text-align: center;
+    }
+}
+
+.locations-list {
+    margin-top: 3%;
+    margin-bottom: 10%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.locations-list a.button {
+    margin: 0.3rem;
+}
+
+.locations-list a.button:hover {
+    color: #fff!important;
+    background-color: #b21515!important;
+}

@@ -1,0 +1,32 @@
+// Position Helpers
+// ------------------------------------------------------------------------------------
+.fl { float: left; }
+.fr { float: right; }
+.fn { float: none; }
+.vam { vertical-align: middle; }
+.pos-rel { position: relative; }
+.pos-abs { position: absolute; }
+.pos-static { position: static; }
+.pos-fixed { position: fixed; }
+
+// Responsive Display Helpers
+//-------------------------------------------------------------------------- */
+@each $key, $breakpoint in $breakpoints {
+  .#{$key}-fl {
+    @include media($breakpoint) {
+        float: left;
+    }
+  }
+
+  .#{$key}-fr {
+    @include media($breakpoint) {
+        float: right;
+    }
+  }
+
+  .#{$key}-fn {
+    @include media($breakpoint) {
+        float: none;
+    }
+  }
+}

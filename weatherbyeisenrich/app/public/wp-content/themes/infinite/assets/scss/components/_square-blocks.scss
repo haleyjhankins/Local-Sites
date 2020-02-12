@@ -1,0 +1,61 @@
+/**
+ * Square content styles
+ * ----------------------------------------------------------------------------
+**/
+
+.square-block__wrap {
+  padding: 0 !important;
+  padding-right: 1px !important;
+  &:last-child {
+    padding-right: 0px !important;
+  }
+}
+
+.square-block {
+  background-position: center center;
+  background-size: cover !important;
+  position: relative;
+  cursor: pointer;
+  transition: all .3s linear; 
+  overflow: hidden;
+  font-size: 32px;
+  letter-spacing: 1px;
+  &:after {
+    transition: all .3s linear;
+    content: '';
+    background: rgba(93,27,27,0.3);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+  }
+  &:before {
+    transition: all .3s linear;
+    content: '';
+    background: rgba(20,110,158,0.3);
+    position: absolute;
+    top: 0;
+    left: -100%;
+    height: 150%;
+    width: 100%;
+    transform: rotate(27deg);
+    transform-origin: top right;
+  }
+  &:hover:before {
+    left: -30%;
+  }
+  &:hover:after {
+    background: transparent;
+  }
+  div, img {
+    position: relative;
+    z-index: 10;
+    font-size: 32px;
+    font-family: $secondaryFont;
+    font-weight: 100;
+    letter-spacing: .12em;
+
+  }
+}

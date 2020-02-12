@@ -1,0 +1,304 @@
+p, label, h2 { font-family: "museo-slab" !important; }
+h1, h3, h4, h6 { font-family: 'Sue Ellen Francisco', cursive !important; text-transform: uppercase; }
+h5 { font-family: "museo-slab" !important; font-weight: 700!important; text-transform: uppercase; }
+ul #menu-main-menu-1 li a{ font-family: 'Sue Ellen Francisco', cursive !important; }
+
+h1.entry-title {color: #b21515; margin: 0 auto; position: relative; display: table; padding: 20px; text-transform: uppercase; font-size: 4.1em; text-align: center;}
+
+.dotted { background-image: url('http://cajunsteamer.wpengine.com/wp-content/themes/FoundationPress-master/img/dotted.png'); background-repeat: repeat-x;  }
+
+#nav-top { background-image: url('../img/header-top-bg.jpg'); min-height: 58px;}
+#nav { background-image: url('../img/nav_bg.jpg');   }
+#slider { background-image: url('../img/slider_bg.jpg');  }
+#calltoaction { background:#b21515; }
+#calltoaction-bottom { background-image: url('../img/calltoaction-footer-bg.png'); min-height:43px; }
+#main { background-image: url('../img/CajunSteamerbkg.jpg'); background-repeat: repeat; min-height: 492px; }
+.page-template-gallery-php #main, .page-template-events-php #main {min-height: 300px;}
+#main-bottom { background-image: url('../img/main-content-area-bg-footer.jpg'); min-height: 43px;  margin-bottom: -6px;}
+#signup-bg { background-image: url('../img/signup-bg.jpg'); min-height: 269px; }
+#footer { background-image: url('../img/footer-bg.jpg'); min-height: 280px;  }
+
+img.alignnone.good-times { margin: 0 auto; position: relative; display: -webkit-flex; }
+
+#homepage-hero {background: url("../img/slider_bg.jpg") repeat scroll 0 0; height: 100%;
+padding: 1.25rem 0;
+margin: -2rem 0 2.5rem;
+position: relative;
+text-align: left;
+min-height: auto;
+height:auto;
+height: 500px;
+display: -webkit-flex;
+}
+
+.menu-top { background: url('http://cajunsteamer.wpengine.com/wp-content/themes/FoundationPress-master/img/menu-header-bg.jpg') center bottom; background-size: cover; min-height:280px; margin-top:-32px;}
+.gallery-top { background: url('http://cajunsteamer.wpengine.com/wp-content/themes/FoundationPress-master/img/gallery-header-bg.jpg') center bottom; background-size: cover; min-height:280px; margin-top:-32px;}
+.events-top { background: url('http://cajunsteamer.wpengine.com/wp-content/themes/FoundationPress-master/img/events-header-bg.jpg') center bottom; background-size: cover; min-height:280px; margin-top:-32px;}
+.catering-top { background: url('http://cajunsteamer.wpengine.com/wp-content/themes/FoundationPress-master/img/catering-header-bg.jpg') center top; background-size: cover; min-height:280px; margin-top:-32px;}
+.locations-top { background: url('http://cajunsteamer.wpengine.com/wp-content/themes/FoundationPress-master/img/locations-header-bg.jpg') center bottom; background-size: cover; min-height:280px; margin-top:-32px;}
+.join-top { background: url('http://cajunsteamer.wpengine.com/wp-content/themes/FoundationPress-master/img/join-header-bg.jpg') center top; background-size: cover; min-height:280px; margin-top:-32px;}
+
+img.attachment-full.wp-post-image { overflow: visible;z-index: 9999;position: relative; margin-top: -59px;}
+
+div.top-bar-container.contain-to-grid.show-for-medium-up { background-image: url('../img/header-top-bg.jpg'); height: 107px; padding-top: 58px; }
+
+.button {
+	background-color:transparent !important;
+	-webkit-border-top-left-radius:0px !important;
+	-moz-border-radius-topleft:0px !important;
+	border-top-left-radius:0px !important;
+	-webkit-border-top-right-radius:0px !important;
+	-moz-border-radius-topright:0px !important;
+	border-top-right-radius:0px !important;
+	-webkit-border-bottom-right-radius:0px !important;
+	-moz-border-radius-bottomright:0px !important;
+	border-bottom-right-radius:0px !important;
+	-webkit-border-bottom-left-radius:0px !important;
+	-moz-border-radius-bottomleft:0px !important;
+	border-bottom-left-radius:0px !important;
+	text-indent:0 !important;
+	border:4px solid #b21515 !important;
+	display:inline-block !important;
+	font-family: "museo-slab" !important;
+	color: #b21515 !important;
+	font-size:1.3em !important;
+	font-weight:bold !important;
+	font-style:normal !important;
+	text-decoration:none !important;
+	text-align:center !important;
+	text-transform: uppercase;
+}
+
+.button:active {
+	position:relative;
+	top:1px;
+}
+
+/*------------------MIKE----------------------*/
+
+.caption { font-size: 9px!important; }
+.social-link { padding: 0 45px 0 0; margin-top: -4px; position: relative; display: inline-table; }
+.frame { background-image: url('../img/frame.png'); background-repeat: no-repeat; padding: 104px 0 60px 42px; }
+.menu-border { border-right: solid #b21515 2px; }
+figure { text-align: center; }
+.band { margin-top: -14px; }
+.blog-buttons { padding: 75px 0 0 0; }
+a { color:#0079a1; }
+
+/*------------------ADDISON----------------------*/
+#menu-main-menu-1 ul {
+	margin: 0 auto !important;
+  	text-align:left !important;
+  	width:858px !important;
+}
+
+.menu-item-27 a img {
+margin-top: -58px !important;
+}
+
+#homepage-hero > div {
+	margin-top: 22px;
+}
+
+#calltoaction {
+	margin-top: -40px;
+height: 100px;
+}
+
+#calltoaction .row {
+	padding-top: : -14px !important;
+	z-index: 9999;
+}
+
+.under-picture {
+	color: #b21515;
+	font-size: 24px;
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 20px;
+	font-family: 'Sue Ellen Francisco', cursive !important;
+}
+
+
+
+/*---------------JAYMES-------------------*/
+
+.location-content {
+	padding-top: 45px;
+}
+
+input[type="checkbox"] {
+	margin: 0 1px 1rem 0 !important;
+}
+
+#signup-bg p {
+	font-family: 'Sue Ellen Francisco', cursive !important;
+	color: #B21515;
+	text-align: center;
+	font-size: 60px;
+	margin-top: 10px;
+}
+
+#signup-bg input[type="email"] {
+	border: 1px solid #eae7e7;
+	box-shadow: none;
+	height: 65px;
+	font-size: 22px;
+	font-family: "museo-slab" !important;
+}
+
+
+#signup-bg input[type="submit"] {
+	line-height: 25px !important;
+	width: 100%;
+}
+
+.white {
+	color: white;
+}
+
+.no-padding {
+	padding: 0 !important;
+}
+
+.border-left-white {
+	border-left: 2px solid #fff;
+}
+
+#footer {
+	color: #FFF;
+	padding: 20px 0;
+}
+
+#footer h2 {
+	font-family: 'Sue Ellen Francisco', cursive !important;
+	font-size: 34px;
+	text-align: left !important;
+}
+
+#footer p {
+	font-size: 18px;
+	text-align: left !important;
+}
+
+#footer p b {
+	font-weight: 300;
+	font-size: 24px;
+}
+
+#copyright {
+	background-image: url('../img/footer-bg.jpg');
+	color: #fff;
+}
+
+#copyright p a {
+	color: #fff;
+	font-family: arial !important;
+}
+
+
+.menu-item-62 a:hover {
+	opacity: 1 !important;
+}
+
+
+.top-bar-section li.active:not(.has-form) a:not(.button), .top-bar-section li a:not(.button) {
+	padding: 0 15px !important;
+}
+
+
+.mobile-menu-container {
+	display: none;
+	text-align: center;
+	padding: 10px 0;
+	background: url('/wp-content/themes/FoundationPress-master/img/mobile-header-bg.jpg');
+}
+
+#footer a {
+	color: #FFF !important;
+}
+
+.page-template-menu-php h5, .page-template-menu-php p, .page-template-catering-php h5, .page-template-catering-php p {
+	text-align: center !important;
+}
+
+.tin-bg {
+	background: url('../img/header-top-bg.jpg');
+	height: 53px;
+}
+
+.menu-icon-open {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background: url('/wp-content/themes/FoundationPress-master/img/menu-icon-open.png') no-repeat;
+	height: 27px;
+	width: 32px;
+	cursor: pointer;
+	display: none;
+}
+
+.menu-icon-close {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	background: url('/wp-content/themes/FoundationPress-master/img/menu-icon-close.png') no-repeat;
+	height: 27px;
+	width: 32px;
+	cursor: pointer;
+}
+
+.mobile-menu {
+	display: none;
+	width: 100%;
+	background: rgba(175, 22, 16, 0.9);
+	position: absolute;
+	z-index: 99;
+	top: 0;
+	padding: 50px;
+}
+
+.mobile-menu ul {
+	list-style-type: none;
+}
+
+.mobile-menu ul li a {
+	font-family: 'Sue Ellen Francisco', cursive !important; text-transform: uppercase;
+	color: #FFF;
+	font-size: 34px;
+}
+
+.open {
+	display: block;
+}
+
+
+@media screen and (max-width:860px) {
+	div.top-bar-container.contain-to-grid.show-for-medium-up {
+		display: none !important;
+	}
+	.tab-bar.show-for-small-only {
+		display: none !important;
+	}
+	.mobile-menu-container {
+		display: block;
+	}
+	.menu-icon-open {
+		display: block;
+	}
+	#homepage-hero {
+		margin: 0;
+		height: 350px!important;
+	}
+
+	.menu-border { border: none; }
+	.lobster { overflow: hidden; visibility: none; }
+
+div.medium-6.columns.band-right.text-center.show-for-small-only { margin: 50px 0 10px 0; }
+#calltoaction { height: auto; }
+
+div.large-8.columns.border-left-white { border: none;}
+
+}
+
+

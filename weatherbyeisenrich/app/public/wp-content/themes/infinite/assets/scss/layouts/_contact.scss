@@ -1,0 +1,25 @@
+/**
+ * Contact Page styles
+ * ----------------------------------------------------------------------------
+**/
+.contactPage__form {
+	input[type="text"],input[type="email"], textarea {
+		border: 1px solid #c4c4c4;
+		border-radius: 2px;
+		@include transition($transitionTime);
+		color: $black;
+
+		&:focus {
+			border: 1px solid #3390ee;
+			background: $white;
+		}
+	}
+
+	textarea {
+		height: 228px;
+	}
+}
+
+.ajax-loader {
+	display: none;
+}

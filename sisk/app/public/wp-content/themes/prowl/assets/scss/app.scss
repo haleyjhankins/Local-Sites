@@ -1,0 +1,27 @@
+/* Foundation */
+@import "bower_components/foundation/scss/normalize"; // Your custom variables
+@import "bower_components/foundation/scss/foundation"; // Default settings file. Uncomment each setting you need to change
+
+/* Variables */
+@import "variables/variables"; // Your custom variables
+@import "variables/mixins"; // Our site mixins
+
+/* Site base */
+@import "structure/base"; // Your site structure, tags only!
+
+/* Site structure */
+@import "structure/layout"; // Your site structure, grid and major sections ex. header, footer, sidebar
+
+/* Kitchen Sink */
+@import "structure/modules"; // Customize Kitchen Sink and other elements
+
+/* Helpers */
+@import "structure/helpers"; // Custom classes for helpers
+
+/* Individual SASS Files */
+@import "custom/addison"; // Addison
+@import "custom/wil"; // Wil
+@import "custom/colin"; // Colin
+
+/* Media Queries */
+@import "structure/media-queries"; // Your site structure

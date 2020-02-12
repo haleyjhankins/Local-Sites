@@ -1,0 +1,15 @@
+<?php do_action('foundationPress_before_searchform'); ?>
+<form role="search" method="get" id="searchform" action="<?php echo home_url('/'); ?>">
+  <div class="row collapse">
+    <?php do_action('foundationPress_searchform_top'); ?>
+    <div class="columns">
+      <input type="text" value="" name="s" id="s" placeholder="<?php esc_attr_e('Search', 'FoundationPress'); ?>"><i class="fa fa-search search-magnify secondary-text"></i>
+    </div>
+    <?php do_action('foundationPress_searchform_before_search_button'); ?>
+    <div class="dn">
+      <input type="submit" id="searchsubmit">
+    </div>
+    <?php do_action('foundationPress_searchform_after_search_button'); ?>
+  </div>
+</form>
+<?php do_action('foundationPress_after_searchform'); ?>

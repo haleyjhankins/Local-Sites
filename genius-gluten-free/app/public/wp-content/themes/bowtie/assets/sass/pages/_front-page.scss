@@ -1,0 +1,22 @@
+.quick-search--wrapper {
+  display: flex;
+  align-items: center;
+  max-width: 400px;
+  margin: 2rem auto 0;
+
+  .quick-search--field {
+    flex-grow: 1;
+    border: 0;
+    border-radius: 6px;
+    box-shadow: none;
+    border: 2px solid color('accent');
+    padding: 0.5rem 1rem;
+    height: auto;
+  }
+
+  .quick-search--submit {
+    white-space: nowrap;
+    margin-left: 1rem;
+  }
+
+}

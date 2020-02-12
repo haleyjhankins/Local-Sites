@@ -1,0 +1,16 @@
+/**
+ * Awards Page styles
+ * ----------------------------------------------------------------------------
+**/
+.awardsPage {
+	background: url('/wp-content/uploads/2015/06/awards-bg.jpg') no-repeat center center;
+	background-size: cover;
+
+	.slick-prev:before {
+		content: url("../img/left-arrow-white.png");
+	}
+
+	.slick-next:before {
+		content: url("../img/right-arrow-white.png");
+	}
+}

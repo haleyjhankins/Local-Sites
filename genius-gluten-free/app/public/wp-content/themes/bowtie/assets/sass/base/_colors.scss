@@ -1,0 +1,102 @@
+////////////////////////////////////////////////////////////////////////////////
+// Color palette function
+////////////////////////////////////////////////////////////////////////////////
+
+$colors: (
+  'accent': (
+    base: rgba(73, 161, 223, 1),
+    light: rgba(176, 213, 236, 1)
+  ),
+  'primary': (
+    light: rgba(18, 54, 111, 0.7),
+    base: rgba(18, 54, 111, 1),
+    dark: rgba(9, 38, 84, 1),
+  ),
+  'grey': (
+   base: #797979,
+   light: #9B9B9B,
+   xlight: #F3F3F3
+  ),
+  'purple': (
+    base: #4E4084,
+    light: #587BB4,
+  ),
+  'orange': (
+    base: #D74022,
+    light: #F0907B,
+  ),
+  'magenta': (
+    base: #6D3075,
+    light: #AA7BC9,
+    dark: #9873AC,
+  ),
+  'pink': (
+    base: #8E0B56,
+    light: #EF3FA9
+  ),
+  'green': (
+    base: #33783F,
+    light: #3FAE2A
+  ),
+  'toastie': (
+    base: #EF7622,
+    light: #FFB819
+  ),
+);
+
+@function color($color-name, $tone: base) {
+    @return map-get(map-get($colors, $color-name), $tone);
+}
+
+//usage
+// a {
+//   color: color('grey', 'dark');
+// }
+
+.bg-accent { background: color('accent'); }
+.bg-accent-light { background: color('accent','light'); }
+
+.bg-primary { background: color('primary'); }
+.bg-primary-light { background: color('primary','light'); }
+.bg-primary-dark { background: color('primary','dark'); }
+
+.bg-grey { background: color('grey'); }
+.bg-grey-light { background: color('grey','light'); }
+
+.bg-purple { background: color('purple'); }
+.bg-purple-light { background: color('purple', 'light'); }
+
+.bg-orange { background: color('orange'); }
+.bg-orange-light { background: color('orange','light'); }
+
+.bg-magenta { background: color('magenta'); }
+.bg-magenta-light { background: color('magenta','light'); }
+.bg-magenta-dark { background: color('magenta','dark'); }
+
+.bg-pink { background: color('pink'); }
+.bg-pink-light { background: color('pink','light'); }
+
+.bg-green { background: color('green'); }
+.bg-green-light { background: color('green','light'); }
+
+.bg-toastie { background: color('toastie'); }
+.bg-toastie-light { background: color('toastie','light'); }
+
+
+
+.text--accent { color: color('accent')!important; }
+.text--accent-light { color: color('accent','light')!important; }
+
+.text--primary { color: color('primary')!important; }
+.text--primary-light { color: color('primary','light')!important; }
+.text--primary-dark { color: color('primary','dark')!important; }
+
+.text--grey { color: color('grey')!important; }
+.text--grey-light { color: color('grey','light')!important; }
+
+.text--purple { color: color('purple')!important; }
+.text--orange { color: color('orange')!important; }
+.text--magenta { color: color('magenta')!important; }
+.text--green { color: color('green')!important; }
+
+.text--white { color: #fff!important; }

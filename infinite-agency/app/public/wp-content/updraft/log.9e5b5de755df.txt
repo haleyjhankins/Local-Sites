@@ -1,0 +1,1845 @@
+0000.002 (0) Opened log file at time: Wed, 22 Jan 2014 20:05:44 +0000
+0000.002 (0) UpdraftPlus WordPress backup plugin (http://updraftplus.com): 1.8.5 WP: 3.8 PHP: 5.3.5 (Linux theinfiniteagency.com 2.6.18-028stab101.1 #1 SMP Sun Jun 24 19:50:48 MSD 2012 x86_64) MySQL: 5.1.54 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 42.9M | 43.3M) multisite: N mcrypt: Y ZipArchive::addFile: Y W3TC/ObjectCache: N
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 34939.1 Mb
+0000.008 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.023 (0) Requesting semaphore lock (fd)
+0000.024 (0) Set semaphore last lock (fd) time to 2014-01-22 20:05:44
+0000.025 (0) Semaphore lock (fd) complete
+0000.028 (0) Backup run: resumption=0, nonce=9e5b5de755df, begun at=1390421144 (0s ago), job type=backup
+0000.029 (0) Scheduling a resumption (1) after 300 seconds (1390421444) in case this run gets aborted
+0000.064 (0) Checking if we have a zip executable available
+0000.067 (0) Creation of backups of directories: beginning
+0000.070 (0) Beginning creation of dump of plugins (split every: 800 Mb)
+0002.210 (0) Total entities for the zip file: 390 directories, 2466 files, 35.2 Mb
+0002.215 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1.5 seconds have passed since the last write (0 Mb, 1 (1) files added so far); re-opening (prior size: 0 Kb)
+0002.274 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 100 files added (on-disk size: 77.1 Kb)
+0002.329 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 200 files added (on-disk size: 77.1 Kb)
+0002.393 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 300 files added (on-disk size: 77.1 Kb)
+0002.448 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 400 files added (on-disk size: 77.1 Kb)
+0002.495 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 500 files added (on-disk size: 77.1 Kb)
+0002.497 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (6.4 Mb, 2466 files batched, 501 (502) added so far); re-opening (prior size: 77.1 Kb)
+0005.541 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 600 files added (on-disk size: 2198.1 Kb)
+0005.606 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 700 files added (on-disk size: 2198.1 Kb)
+0005.686 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 800 files added (on-disk size: 2198.1 Kb)
+0005.749 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 900 files added (on-disk size: 2198.1 Kb)
+0005.818 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1000 files added (on-disk size: 2198.1 Kb)
+0005.821 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.5 Mb, 2466 files batched, 501 (1003) added so far); re-opening (prior size: 2198.1 Kb)
+0007.669 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1100 files added (on-disk size: 4916.2 Kb)
+0007.763 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1200 files added (on-disk size: 4916.2 Kb)
+0007.832 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1300 files added (on-disk size: 4916.2 Kb)
+0007.904 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1400 files added (on-disk size: 4916.2 Kb)
+0007.975 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1500 files added (on-disk size: 4916.2 Kb)
+0007.978 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.1 Mb, 2466 files batched, 501 (1504) added so far); re-opening (prior size: 4916.2 Kb)
+0010.590 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1600 files added (on-disk size: 6510.8 Kb)
+0010.632 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1700 files added (on-disk size: 6510.8 Kb)
+0010.678 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1800 files added (on-disk size: 6510.8 Kb)
+0010.718 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 1900 files added (on-disk size: 6510.8 Kb)
+0010.770 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 2000 files added (on-disk size: 6510.8 Kb)
+0010.773 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.1 Mb, 2466 files batched, 501 (2005) added so far); re-opening (prior size: 6510.8 Kb)
+0016.717 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 2100 files added (on-disk size: 13063.4 Kb)
+0016.793 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 2200 files added (on-disk size: 13063.4 Kb)
+0016.864 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 2300 files added (on-disk size: 13063.4 Kb)
+0016.930 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip.tmp: 2400 files added (on-disk size: 13063.4 Kb)
+0019.779 (0) Created plugins zip (0) - 15276.1 Kb in 19.7 s (775.3 Kb/s) (SHA1 checksum: 17b4f4265f325006f84c45cf0c9733e5e31f6327)
+0019.781 (0) Beginning creation of dump of themes (split every: 800 Mb)
+0019.987 (0) Total entities for the zip file: 48 directories, 327 files, 56.8 Mb
+0020.046 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-themes.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0020.083 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 Mb added on this batch (27.8 Mb, 327 files batched, 182 (182) added so far); re-opening (prior size: 0 Kb)
+0022.689 (0) A useful amount of data was added after this amount of zip processing: 2.9 s (normalised: 2.6 s, rate: 9743.1 Kb/s)
+0022.694 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.9180469512939, normalised_time=2.6275068962101, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=59861460)
+0022.703 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-themes.zip.tmp: 200 files added (on-disk size: 25910.8 Kb)
+0022.737 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-themes.zip.tmp: 300 files added (on-disk size: 25910.8 Kb)
+0027.745 (0) Created themes zip (0) - 55104.5 Kb in 8 s (6921.1 Kb/s) (SHA1 checksum: d92d970923d8e40812d4856079d2ad32b207a6fb)
+0027.747 (0) Looking for candidates to back up in: /var/www/vhosts/theflipgroup.com/wordpress/wp-content/uploads
+0027.748 (0) finding files: 01-125x125.jpg: adding to list
+0027.748 (0) finding files: 01-150x150.jpg: adding to list
+0027.749 (0) finding files: 01-300x100.jpg: adding to list
+0027.749 (0) finding files: 01-300x300.jpg: adding to list
+0027.750 (0) finding files: 01-612x300.jpg: adding to list
+0027.750 (0) finding files: 01-612x364.jpg: adding to list
+0027.750 (0) finding files: 01.jpg: adding to list
+0027.751 (0) finding files: 02-125x125.jpg: adding to list
+0027.751 (0) finding files: 02-150x150.jpg: adding to list
+0027.752 (0) finding files: 02-300x100.jpg: adding to list
+0027.752 (0) finding files: 02-300x300.jpg: adding to list
+0027.752 (0) finding files: 02-612x300.jpg: adding to list
+0027.756 (0) finding files: 02-612x364.jpg: adding to list
+0027.757 (0) finding files: 02.jpg: adding to list
+0027.757 (0) finding files: 03-125x125.jpg: adding to list
+0027.757 (0) finding files: 03-150x150.jpg: adding to list
+0027.758 (0) finding files: 03-300x100.jpg: adding to list
+0027.758 (0) finding files: 03-300x300.jpg: adding to list
+0027.759 (0) finding files: 03-612x300.jpg: adding to list
+0027.759 (0) finding files: 03-612x364.jpg: adding to list
+0027.760 (0) finding files: 03.jpg: adding to list
+0027.760 (0) finding files: 04-125x125.jpg: adding to list
+0027.760 (0) finding files: 04-150x150.jpg: adding to list
+0027.761 (0) finding files: 04-300x100.jpg: adding to list
+0027.761 (0) finding files: 04-300x300.jpg: adding to list
+0027.762 (0) finding files: 04-612x300.jpg: adding to list
+0027.762 (0) finding files: 04-612x364.jpg: adding to list
+0027.762 (0) finding files: 04.jpg: adding to list
+0027.767 (0) finding files: 05-125x125.jpg: adding to list
+0027.768 (0) finding files: 05-150x150.jpg: adding to list
+0027.768 (0) finding files: 05-300x100.jpg: adding to list
+0027.769 (0) finding files: 05-300x300.jpg: adding to list
+0027.769 (0) finding files: 05-612x300.jpg: adding to list
+0027.770 (0) finding files: 05-612x364.jpg: adding to list
+0027.770 (0) finding files: 05.jpg: adding to list
+0027.771 (0) finding files: 06-125x125.jpg: adding to list
+0027.772 (0) finding files: 06-150x150.jpg: adding to list
+0027.772 (0) finding files: 06-300x100.jpg: adding to list
+0027.773 (0) finding files: 06-300x300.jpg: adding to list
+0027.773 (0) finding files: 06-612x300.jpg: adding to list
+0027.774 (0) finding files: 06-612x364.jpg: adding to list
+0027.774 (0) finding files: 06.jpg: adding to list
+0027.775 (0) finding files: 07-125x125.jpg: adding to list
+0027.776 (0) finding files: 07-150x150.jpg: adding to list
+0027.776 (0) finding files: 07-300x100.jpg: adding to list
+0027.777 (0) finding files: 07-300x300.jpg: adding to list
+0027.777 (0) finding files: 07-612x300.jpg: adding to list
+0027.778 (0) finding files: 07-612x364.jpg: adding to list
+0027.778 (0) finding files: 07.jpg: adding to list
+0027.779 (0) finding files: 08-125x125.jpg: adding to list
+0027.780 (0) finding files: 08-150x150.jpg: adding to list
+0027.780 (0) finding files: 08-300x100.jpg: adding to list
+0027.781 (0) finding files: 08-300x300.jpg: adding to list
+0027.781 (0) finding files: 08-612x300.jpg: adding to list
+0027.782 (0) finding files: 08-612x364.jpg: adding to list
+0027.782 (0) finding files: 08.jpg: adding to list
+0027.783 (0) finding files: 09-125x125.jpg: adding to list
+0027.784 (0) finding files: 09-150x150.jpg: adding to list
+0027.784 (0) finding files: 09-300x100.jpg: adding to list
+0027.785 (0) finding files: 09-300x300.jpg: adding to list
+0027.785 (0) finding files: 09-612x300.jpg: adding to list
+0027.786 (0) finding files: 09-612x364.jpg: adding to list
+0027.787 (0) finding files: 09.jpg: adding to list
+0027.787 (0) finding files: 2013: adding to list
+0027.788 (0) finding files: Advantage-HIO-1024x284.jpg: adding to list
+0027.788 (0) finding files: Advantage-HIO-125x125.jpg: adding to list
+0027.789 (0) finding files: Advantage-HIO-150x150.jpg: adding to list
+0027.790 (0) finding files: Advantage-HIO-300x100.jpg: adding to list
+0027.790 (0) finding files: Advantage-HIO-300x83.jpg: adding to list
+0027.791 (0) finding files: Advantage-HIO-540x150.jpg: adding to list
+0027.791 (0) finding files: Advantage-HIO-639x300.jpg: adding to list
+0027.792 (0) finding files: Advantage-HIO-970x364.jpg: adding to list
+0027.792 (0) finding files: Advantage-HIO.jpg: adding to list
+0027.793 (0) finding files: AdvantageHIO_02-1024x256.jpg: adding to list
+0027.794 (0) finding files: AdvantageHIO_02-125x125.jpg: adding to list
+0027.794 (0) finding files: AdvantageHIO_02-150x150.jpg: adding to list
+0027.795 (0) finding files: AdvantageHIO_02-300x100.jpg: adding to list
+0027.795 (0) finding files: AdvantageHIO_02-300x75.jpg: adding to list
+0027.796 (0) finding files: AdvantageHIO_02-600x150.jpg: adding to list
+0027.796 (0) finding files: AdvantageHIO_02-639x300.jpg: adding to list
+0027.797 (0) finding files: AdvantageHIO_02-970x300.jpg: adding to list
+0027.798 (0) finding files: AdvantageHIO_02.jpg: adding to list
+0027.798 (0) finding files: AdvantageHIO_05-125x125.png: adding to list
+0027.799 (0) finding files: AdvantageHIO_05-150x150.png: adding to list
+0027.799 (0) finding files: AdvantageHIO_05-300x100.png: adding to list
+0027.800 (0) finding files: AdvantageHIO_05-449x150.png: adding to list
+0027.801 (0) finding files: AdvantageHIO_05-639x300.png: adding to list
+0027.801 (0) finding files: AdvantageHIO_05.png: adding to list
+0027.802 (0) finding files: AdvantageHIO_08-125x125.jpg: adding to list
+0027.802 (0) finding files: AdvantageHIO_08-150x150.jpg: adding to list
+0027.803 (0) finding files: AdvantageHIO_08-222x150.jpg: adding to list
+0027.803 (0) finding files: AdvantageHIO_08-300x100.jpg: adding to list
+0027.804 (0) finding files: AdvantageHIO_08-300x201.jpg: adding to list
+0027.805 (0) finding files: AdvantageHIO_08-465x300.jpg: adding to list
+0027.805 (0) finding files: AdvantageHIO_08.jpg: adding to list
+0027.806 (0) finding files: AdvantageHIO_10-125x125.jpg: adding to list
+0027.806 (0) finding files: AdvantageHIO_10-150x150.jpg: adding to list
+0027.807 (0) finding files: AdvantageHIO_10-222x150.jpg: adding to list
+0027.808 (0) finding files: AdvantageHIO_10-300x100.jpg: adding to list
+0027.808 (0) finding files: AdvantageHIO_10-300x201.jpg: adding to list
+0027.809 (0) finding files: AdvantageHIO_10-465x300.jpg: adding to list
+0027.809 (0) finding files: AdvantageHIO_10.jpg: adding to list
+0027.810 (0) finding files: alltex-home-125x125.jpg: adding to list
+0027.810 (0) finding files: alltex-home-150x150.jpg: adding to list
+0027.811 (0) finding files: alltex-home-274x150.jpg: adding to list
+0027.812 (0) finding files: alltex-home-300x100.jpg: adding to list
+0027.812 (0) finding files: alltex-home-300x164.jpg: adding to list
+0027.813 (0) finding files: alltex-home-618x300.jpg: adding to list
+0027.813 (0) finding files: alltex-home.jpg: adding to list
+0027.814 (0) finding files: amanda-125x125.jpg: adding to list
+0027.815 (0) finding files: amanda-150x150.jpg: adding to list
+0027.815 (0) finding files: amanda-153x150.jpg: adding to list
+0027.816 (0) finding files: amanda-300x100.jpg: adding to list
+0027.816 (0) finding files: amanda-300x292.jpg: adding to list
+0027.817 (0) finding files: amanda-396x300.jpg: adding to list
+0027.817 (0) finding files: amanda-396x364.jpg: adding to list
+0027.818 (0) finding files: amanda.jpg: adding to list
+0027.818 (0) finding files: Award-125x116.png: adding to list
+0027.818 (0) finding files: Award-150x116.png: adding to list
+0027.819 (0) finding files: Award-300x100.png: adding to list
+0027.819 (0) finding files: Award-300x37.png: adding to list
+0027.820 (0) finding files: Award-600x74.png: adding to list
+0027.820 (0) finding files: Award-639x116.png: adding to list
+0027.821 (0) finding files: Award.png: adding to list
+0027.821 (0) finding files: BankruptcyLit-125x125.jpg: adding to list
+0027.821 (0) finding files: BankruptcyLit-150x150.jpg: adding to list
+0027.822 (0) finding files: BankruptcyLit-300x100.jpg: adding to list
+0027.822 (0) finding files: BankruptcyLit-300x106.jpg: adding to list
+0027.823 (0) finding files: BankruptcyLit-423x150.jpg: adding to list
+0027.823 (0) finding files: BankruptcyLit-639x300.jpg: adding to list
+0027.824 (0) finding files: BankruptcyLit.jpg: adding to list
+0027.824 (0) finding files: Bennigans-1024x284.jpg: adding to list
+0027.824 (0) finding files: Bennigans-125x125.jpg: adding to list
+0027.825 (0) finding files: Bennigans-150x150.jpg: adding to list
+0027.825 (0) finding files: Bennigans-300x100.jpg: adding to list
+0027.826 (0) finding files: Bennigans-300x83.jpg: adding to list
+0027.826 (0) finding files: Bennigans-540x150.jpg: adding to list
+0027.827 (0) finding files: Bennigans-639x300.jpg: adding to list
+0027.827 (0) finding files: Bennigans-970x364.jpg: adding to list
+0027.827 (0) finding files: Bennigans.jpg: adding to list
+0027.828 (0) finding files: Beverage-Metrics_1-1024x284.jpg: adding to list
+0027.828 (0) finding files: Beverage-Metrics_1-125x125.jpg: adding to list
+0027.829 (0) finding files: Beverage-Metrics_1-150x150.jpg: adding to list
+0027.829 (0) finding files: Beverage-Metrics_1-300x100.jpg: adding to list
+0027.830 (0) finding files: Beverage-Metrics_1-300x83.jpg: adding to list
+0027.830 (0) finding files: Beverage-Metrics_1-540x150.jpg: adding to list
+0027.831 (0) finding files: Beverage-Metrics_1-639x300.jpg: adding to list
+0027.831 (0) finding files: Beverage-Metrics_1-970x364.jpg: adding to list
+0027.831 (0) finding files: Beverage-Metrics_1.jpg: adding to list
+0027.832 (0) finding files: Beverage-Metrics_2-1024x284.jpg: adding to list
+0027.832 (0) finding files: Beverage-Metrics_2-125x125.jpg: adding to list
+0027.833 (0) finding files: Beverage-Metrics_2-150x150.jpg: adding to list
+0027.833 (0) finding files: Beverage-Metrics_2-300x100.jpg: adding to list
+0027.834 (0) finding files: Beverage-Metrics_2-300x83.jpg: adding to list
+0027.834 (0) finding files: Beverage-Metrics_2-540x150.jpg: adding to list
+0027.835 (0) finding files: Beverage-Metrics_2-639x300.jpg: adding to list
+0027.835 (0) finding files: Beverage-Metrics_2-970x364.jpg: adding to list
+0027.835 (0) finding files: Beverage-Metrics_2.jpg: adding to list
+0027.836 (0) finding files: bg.png: adding to list
+0027.836 (0) finding files: BM_HEADER-1024x385.png: adding to list
+0027.837 (0) finding files: BM_HEADER-125x125.png: adding to list
+0027.837 (0) finding files: BM_HEADER-150x150.png: adding to list
+0027.838 (0) finding files: BM_HEADER-300x100.png: adding to list
+0027.838 (0) finding files: BM_HEADER-300x112.png: adding to list
+0027.838 (0) finding files: BM_HEADER-398x150.png: adding to list
+0027.839 (0) finding files: BM_HEADER-639x300.png: adding to list
+0027.839 (0) finding files: BM_HEADER-970x364.png: adding to list
+0027.840 (0) finding files: BM_HEADER.png: adding to list
+0027.840 (0) finding files: Boardroom2-125x125.jpg: adding to list
+0027.841 (0) finding files: Boardroom2-150x150.jpg: adding to list
+0027.841 (0) finding files: Boardroom2-300x100.jpg: adding to list
+0027.841 (0) finding files: Boardroom2-300x106.jpg: adding to list
+0027.842 (0) finding files: Boardroom2-423x150.jpg: adding to list
+0027.842 (0) finding files: Boardroom2-639x300.jpg: adding to list
+0027.843 (0) finding files: Boardroom2.jpg: adding to list
+0027.843 (0) finding files: Business-Card-0379-2013-12-05_1-125x125.png: adding to list
+0027.844 (0) finding files: Business-Card-0379-2013-12-05_1-150x150.png: adding to list
+0027.844 (0) finding files: Business-Card-0379-2013-12-05_1-219x150.png: adding to list
+0027.845 (0) finding files: Business-Card-0379-2013-12-05_1-300x100.png: adding to list
+0027.845 (0) finding files: Business-Card-0379-2013-12-05_1-300x205.png: adding to list
+0027.845 (0) finding files: Business-Card-0379-2013-12-05_1-458x300.png: adding to list
+0027.846 (0) finding files: Business-Card-0379-2013-12-05_1.png: adding to list
+0027.846 (0) finding files: clear-bottom-1024x10.png: adding to list
+0027.847 (0) finding files: clear-bottom-125x24.png: adding to list
+0027.847 (0) finding files: clear-bottom-150x24.png: adding to list
+0027.848 (0) finding files: clear-bottom-300x24.png: adding to list
+0027.848 (0) finding files: clear-bottom-300x3.png: adding to list
+0027.849 (0) finding files: clear-bottom-600x6.png: adding to list
+0027.849 (0) finding files: clear-bottom-639x24.png: adding to list
+0027.850 (0) finding files: clear-bottom-970x24.png: adding to list
+0027.850 (0) finding files: clear-bottom.png: adding to list
+0027.851 (0) finding files: communicate-125x125.png: adding to list
+0027.851 (0) finding files: communicate-150x150.png: adding to list
+0027.851 (0) finding files: communicate-247x100.png: adding to list
+0027.852 (0) finding files: communicate.png: adding to list
+0027.852 (0) finding files: create-125x125.png: adding to list
+0027.853 (0) finding files: create-150x150.png: adding to list
+0027.853 (0) finding files: create-247x100.png: adding to list
+0027.854 (0) finding files: create.png: adding to list
+0027.854 (0) finding files: Creative-Example-1024x240.png: adding to list
+0027.854 (0) finding files: Creative-Example-125x125.png: adding to list
+0027.855 (0) finding files: Creative-Example-150x150.png: adding to list
+0027.859 (0) finding files: Creative-Example-300x100.png: adding to list
+0027.859 (0) finding files: Creative-Example-300x70.png: adding to list
+0027.860 (0) finding files: Creative-Example-600x140.png: adding to list
+0027.860 (0) finding files: Creative-Example-639x300.png: adding to list
+0027.861 (0) finding files: Creative-Example-970x300.png: adding to list
+0027.861 (0) finding files: Creative-Example.png: adding to list
+0027.861 (0) finding files: define-125x125.png: adding to list
+0027.862 (0) finding files: define-150x150.png: adding to list
+0027.862 (0) finding files: define-247x100.png: adding to list
+0027.863 (0) finding files: define.png: adding to list
+0027.863 (0) finding files: discover-125x125.png: adding to list
+0027.864 (0) finding files: discover-150x150.png: adding to list
+0027.864 (0) finding files: discover-247x100.png: adding to list
+0027.865 (0) finding files: discover.png: adding to list
+0027.865 (0) finding files: El-Fenix-1024x284.jpg: adding to list
+0027.865 (0) finding files: El-Fenix-125x125.jpg: adding to list
+0027.866 (0) finding files: El-Fenix-150x150.jpg: adding to list
+0027.867 (0) finding files: El-Fenix-300x100.jpg: adding to list
+0027.867 (0) finding files: El-Fenix-300x83.jpg: adding to list
+0027.868 (0) finding files: El-Fenix-540x150.jpg: adding to list
+0027.868 (0) finding files: El-Fenix-639x300.jpg: adding to list
+0027.869 (0) finding files: El-Fenix-970x364.jpg: adding to list
+0027.870 (0) finding files: El-Fenix.jpg: adding to list
+0027.870 (0) finding files: El-Fenix1-1024x284.jpg: adding to list
+0027.871 (0) finding files: El-Fenix1-125x125.jpg: adding to list
+0027.872 (0) finding files: El-Fenix1-150x150.jpg: adding to list
+0027.872 (0) finding files: El-Fenix1-300x100.jpg: adding to list
+0027.873 (0) finding files: El-Fenix1-300x83.jpg: adding to list
+0027.874 (0) finding files: El-Fenix1-540x150.jpg: adding to list
+0027.878 (0) finding files: El-Fenix1-639x300.jpg: adding to list
+0027.878 (0) finding files: El-Fenix1-970x364.jpg: adding to list
+0027.879 (0) finding files: El-Fenix1.jpg: adding to list
+0027.879 (0) finding files: git-125x125.jpg: adding to list
+0027.880 (0) finding files: git-150x150.jpg: adding to list
+0027.880 (0) finding files: git-153x150.jpg: adding to list
+0027.880 (0) finding files: git-300x100.jpg: adding to list
+0027.881 (0) finding files: git-300x292.jpg: adding to list
+0027.881 (0) finding files: git-396x300.jpg: adding to list
+0027.882 (0) finding files: git-396x364.jpg: adding to list
+0027.883 (0) finding files: git.jpg: adding to list
+0027.883 (0) finding files: green-bottom-1024x10.png: adding to list
+0027.887 (0) finding files: green-bottom-125x24.png: adding to list
+0027.887 (0) finding files: green-bottom-150x24.png: adding to list
+0027.888 (0) finding files: green-bottom-300x24.png: adding to list
+0027.888 (0) finding files: green-bottom-300x3.png: adding to list
+0027.888 (0) finding files: green-bottom-600x6.png: adding to list
+0027.889 (0) finding files: green-bottom-639x24.png: adding to list
+0027.890 (0) finding files: green-bottom-970x24.png: adding to list
+0027.890 (0) finding files: green-bottom.png: adding to list
+0027.891 (0) finding files: Group-1-125x125.jpg: adding to list
+0027.891 (0) finding files: Group-1-150x150.jpg: adding to list
+0027.892 (0) finding files: Group-1-225x150.jpg: adding to list
+0027.893 (0) finding files: Group-1-300x100.jpg: adding to list
+0027.893 (0) finding files: Group-1.jpg: adding to list
+0027.894 (0) finding files: Group-11-125x125.jpg: adding to list
+0027.895 (0) finding files: Group-11-150x150.jpg: adding to list
+0027.895 (0) finding files: Group-11-300x100.jpg: adding to list
+0027.896 (0) finding files: Group-11-300x95.jpg: adding to list
+0027.897 (0) finding files: Group-11-472x150.jpg: adding to list
+0027.897 (0) finding files: Group-11.jpg: adding to list
+0027.898 (0) finding files: Group-12-125x125.jpg: adding to list
+0027.899 (0) finding files: Group-12-134x150.jpg: adding to list
+0027.899 (0) finding files: Group-12-150x150.jpg: adding to list
+0027.900 (0) finding files: Group-12-269x300.jpg: adding to list
+0027.901 (0) finding files: Group-12-300x100.jpg: adding to list
+0027.901 (0) finding files: Group-12-465x300.jpg: adding to list
+0027.902 (0) finding files: Group-12-465x364.jpg: adding to list
+0027.903 (0) finding files: Group-12.jpg: adding to list
+0027.903 (0) finding files: Group-13-112x150.jpg: adding to list
+0027.904 (0) finding files: Group-13-125x125.jpg: adding to list
+0027.905 (0) finding files: Group-13-150x150.jpg: adding to list
+0027.906 (0) finding files: Group-13-225x300.jpg: adding to list
+0027.907 (0) finding files: Group-13-300x100.jpg: adding to list
+0027.908 (0) finding files: grow.png: adding to list
+0027.909 (0) finding files: Group-13-300x300.jpg: adding to list
+0027.910 (0) finding files: Group-13-300x364.jpg: adding to list
+0027.911 (0) finding files: Group-13.jpg: adding to list
+0027.912 (0) finding files: Group-2-125x125.jpg: adding to list
+0027.913 (0) finding files: Group-2-150x150.jpg: adding to list
+0027.913 (0) finding files: Group-2-240x150.jpg: adding to list
+0027.914 (0) finding files: Group-2-300x100.jpg: adding to list
+0027.915 (0) finding files: Group-2-300x187.jpg: adding to list
+0027.916 (0) finding files: Group-2.jpg: adding to list
+0027.920 (0) finding files: Group-21-125x125.jpg: adding to list
+0027.921 (0) finding files: Group-21-150x150.jpg: adding to list
+0027.921 (0) finding files: Group-21-225x150.jpg: adding to list
+0027.922 (0) finding files: Group-21-300x100.jpg: adding to list
+0027.923 (0) finding files: Group-21.jpg: adding to list
+0027.924 (0) finding files: Group-22-120x150.jpg: adding to list
+0027.925 (0) finding files: Group-22-125x125.jpg: adding to list
+0027.926 (0) finding files: Group-22-150x150.jpg: adding to list
+0027.927 (0) finding files: Group-22-240x300.jpg: adding to list
+0027.928 (0) finding files: Group-22-300x100.jpg: adding to list
+0027.929 (0) finding files: Group-22-320x300.jpg: adding to list
+0027.930 (0) finding files: Group-22-320x364.jpg: adding to list
+0027.931 (0) finding files: Group-22.jpg: adding to list
+0027.932 (0) finding files: Group-23-112x150.jpg: adding to list
+0027.932 (0) finding files: Group-23-125x125.jpg: adding to list
+0027.933 (0) finding files: Group-23-150x150.jpg: adding to list
+0027.934 (0) finding files: Group-23-225x300.jpg: adding to list
+0027.935 (0) finding files: Group-23-300x100.jpg: adding to list
+0027.936 (0) finding files: Group-23-300x300.jpg: adding to list
+0027.937 (0) finding files: Group-23-300x364.jpg: adding to list
+0027.938 (0) finding files: Group-23.jpg: adding to list
+0027.939 (0) finding files: Group-24-125x125.jpg: adding to list
+0027.939 (0) finding files: Group-24-150x150.jpg: adding to list
+0027.940 (0) finding files: Group-24-225x150.jpg: adding to list
+0027.941 (0) finding files: Group-24-300x100.jpg: adding to list
+0027.942 (0) finding files: Group-24.jpg: adding to list
+0027.943 (0) finding files: Group-3-125x125.jpg: adding to list
+0027.944 (0) finding files: Group-3-150x150.jpg: adding to list
+0027.945 (0) finding files: Group-3-225x150.jpg: adding to list
+0027.946 (0) finding files: Group-3-300x100.jpg: adding to list
+0027.947 (0) finding files: Group-3.jpg: adding to list
+0027.948 (0) finding files: Group-31-112x150.jpg: adding to list
+0027.949 (0) finding files: Group-31-125x125.jpg: adding to list
+0027.949 (0) finding files: Group-31-150x150.jpg: adding to list
+0027.950 (0) finding files: Group-31-225x300.jpg: adding to list
+0027.951 (0) finding files: Group-31-300x100.jpg: adding to list
+0027.952 (0) finding files: Group-31-300x300.jpg: adding to list
+0027.953 (0) finding files: Group-31-300x364.jpg: adding to list
+0027.954 (0) finding files: Group-31.jpg: adding to list
+0027.955 (0) finding files: grow-125x125.png: adding to list
+0027.956 (0) finding files: grow-150x150.png: adding to list
+0027.957 (0) finding files: grow-247x100.png: adding to list
+0027.957 (0) finding files: Hanging-125x125.png: adding to list
+0027.958 (0) finding files: Hanging-150x150.png: adding to list
+0027.959 (0) finding files: Hanging-225x150.png: adding to list
+0027.960 (0) finding files: Hanging-300x100.png: adding to list
+0027.961 (0) finding files: Hanging-300x200.png: adding to list
+0027.962 (0) finding files: Hanging-465x300.png: adding to list
+0027.963 (0) finding files: Hanging.png: adding to list
+0027.964 (0) finding files: Header-1024x256.jpg: adding to list
+0027.965 (0) finding files: Header-1024x385.png: adding to list
+0027.966 (0) finding files: Header-125x125.jpg: adding to list
+0027.967 (0) finding files: Header-125x125.png: adding to list
+0027.967 (0) finding files: Header-150x150.jpg: adding to list
+0027.968 (0) finding files: Header-150x150.png: adding to list
+0027.969 (0) finding files: Header-300x100.jpg: adding to list
+0027.970 (0) finding files: Header-300x100.png: adding to list
+0027.971 (0) finding files: Header-300x112.png: adding to list
+0027.972 (0) finding files: Header-300x75.jpg: adding to list
+0027.973 (0) finding files: Header-398x150.png: adding to list
+0027.974 (0) finding files: Header-600x150.jpg: adding to list
+0027.975 (0) finding files: Header-639x300.jpg: adding to list
+0027.976 (0) finding files: Header-639x300.png: adding to list
+0027.977 (0) finding files: Header-970x300.jpg: adding to list
+0027.977 (0) finding files: Header-970x364.png: adding to list
+0027.978 (0) finding files: Header.jpg: adding to list
+0027.979 (0) finding files: Header.png: adding to list
+0027.980 (0) finding files: Header1-1024x256.jpg: adding to list
+0027.981 (0) finding files: Header1-125x125.jpg: adding to list
+0027.982 (0) finding files: Header1-150x150.jpg: adding to list
+0027.983 (0) finding files: Header1-300x100.jpg: adding to list
+0027.984 (0) finding files: Header1-300x75.jpg: adding to list
+0027.985 (0) finding files: Header1-600x150.jpg: adding to list
+0027.986 (0) finding files: Header1-639x300.jpg: adding to list
+0027.987 (0) finding files: Header1-970x300.jpg: adding to list
+0027.987 (0) finding files: Header1.jpg: adding to list
+0027.988 (0) finding files: Header2-1024x256.jpg: adding to list
+0027.989 (0) finding files: Header2-125x125.jpg: adding to list
+0027.990 (0) finding files: Header2-150x150.jpg: adding to list
+0027.991 (0) finding files: Header2-300x100.jpg: adding to list
+0027.992 (0) finding files: Header2-300x75.jpg: adding to list
+0027.993 (0) finding files: Header2-600x150.jpg: adding to list
+0027.994 (0) finding files: Header2-639x300.jpg: adding to list
+0027.995 (0) finding files: Header2-970x300.jpg: adding to list
+0027.996 (0) finding files: Header2.jpg: adding to list
+0027.997 (0) finding files: Header_1-1024x256.jpg: adding to list
+0027.997 (0) finding files: Header_1-125x125.jpg: adding to list
+0027.998 (0) finding files: Header_1-150x150.jpg: adding to list
+0027.999 (0) finding files: Header_1-300x100.jpg: adding to list
+0028.000 (0) finding files: Header_1-300x75.jpg: adding to list
+0028.001 (0) finding files: Header_1-600x150.jpg: adding to list
+0028.002 (0) finding files: Header_1-639x300.jpg: adding to list
+0028.003 (0) finding files: Header_1-970x300.jpg: adding to list
+0028.004 (0) finding files: Header_1.jpg: adding to list
+0028.005 (0) finding files: Header_11-1024x256.jpg: adding to list
+0028.006 (0) finding files: Header_11-125x125.jpg: adding to list
+0028.007 (0) finding files: Header_11-150x150.jpg: adding to list
+0028.008 (0) finding files: Header_11-300x100.jpg: adding to list
+0028.008 (0) finding files: Header_11-300x75.jpg: adding to list
+0028.010 (0) finding files: Header_11-600x150.jpg: adding to list
+0028.010 (0) finding files: Header_11-639x300.jpg: adding to list
+0028.011 (0) finding files: Header_11-970x300.jpg: adding to list
+0028.011 (0) finding files: Header_11.jpg: adding to list
+0028.012 (0) finding files: Icon-125x125.jpg: adding to list
+0028.012 (0) finding files: Icon-150x150.jpg: adding to list
+0028.013 (0) finding files: Icon-300x100.jpg: adding to list
+0028.014 (0) finding files: Icon-300x300.jpg: adding to list
+0028.014 (0) finding files: Icon-330x300.jpg: adding to list
+0028.015 (0) finding files: Icon.jpg: adding to list
+0028.016 (0) finding files: IMG_77081-125x125.jpg: adding to list
+0028.016 (0) finding files: IMG_77081-150x150.jpg: adding to list
+0028.017 (0) finding files: IMG_77081-224x150.jpg: adding to list
+0028.018 (0) finding files: IMG_77081-300x100.jpg: adding to list
+0028.018 (0) finding files: IMG_77081-300x200.jpg: adding to list
+0028.019 (0) finding files: IMG_77081-639x300.jpg: adding to list
+0028.019 (0) finding files: IMG_77081-970x364.jpg: adding to list
+0028.020 (0) finding files: IMG_77081.jpg: adding to list
+0028.020 (0) finding files: infinite-friends-125x125.jpg: adding to list
+0028.021 (0) finding files: infinite-friends-150x150.jpg: adding to list
+0028.022 (0) finding files: infinite-friends-273x150.jpg: adding to list
+0028.022 (0) finding files: infinite-friends-300x100.jpg: adding to list
+0028.023 (0) finding files: infinite-friends-300x164.jpg: adding to list
+0028.023 (0) finding files: infinite-friends-620x300.jpg: adding to list
+0028.024 (0) finding files: infinite-friends.jpg: adding to list
+0028.024 (0) finding files: Interactive-Example-1024x240.png: adding to list
+0028.025 (0) finding files: Interactive-Example-125x125.png: adding to list
+0028.026 (0) finding files: Interactive-Example-150x150.png: adding to list
+0028.026 (0) finding files: Interactive-Example-300x100.png: adding to list
+0028.027 (0) finding files: Interactive-Example-300x70.png: adding to list
+0028.027 (0) finding files: Interactive-Example-600x140.png: adding to list
+0028.028 (0) finding files: Interactive-Example-639x300.png: adding to list
+0028.028 (0) finding files: Interactive-Example-970x300.png: adding to list
+0028.029 (0) finding files: Interactive-Example.png: adding to list
+0028.030 (0) finding files: kyle-125x125.jpg: adding to list
+0028.030 (0) finding files: kyle-150x150.jpg: adding to list
+0028.031 (0) finding files: kyle-153x150.jpg: adding to list
+0028.031 (0) finding files: kyle-300x100.jpg: adding to list
+0028.032 (0) finding files: kyle-300x292.jpg: adding to list
+0028.032 (0) finding files: kyle-396x300.jpg: adding to list
+0028.033 (0) finding files: kyle-396x364.jpg: adding to list
+0028.034 (0) finding files: kyle.jpg: adding to list
+0028.034 (0) finding files: La-Ventana-125x125.jpg: adding to list
+0028.035 (0) finding files: La-Ventana-150x150.jpg: adding to list
+0028.035 (0) finding files: La-Ventana-179x300.jpg: adding to list
+0028.036 (0) finding files: La-Ventana-300x100.jpg: adding to list
+0028.036 (0) finding files: La-Ventana-613x1024.jpg: adding to list
+0028.037 (0) finding files: La-Ventana-639x300.jpg: adding to list
+0028.038 (0) finding files: La-Ventana-89x150.jpg: adding to list
+0028.038 (0) finding files: La-Ventana-940x364.jpg: adding to list
+0028.039 (0) finding files: La-Ventana.jpg: adding to list
+0028.039 (0) finding files: La-Ventana1-1024x284.jpg: adding to list
+0028.040 (0) finding files: La-Ventana1-125x125.jpg: adding to list
+0028.041 (0) finding files: La-Ventana1-150x150.jpg: adding to list
+0028.041 (0) finding files: La-Ventana1-300x100.jpg: adding to list
+0028.042 (0) finding files: La-Ventana1-300x83.jpg: adding to list
+0028.042 (0) finding files: La-Ventana1-540x150.jpg: adding to list
+0028.043 (0) finding files: La-Ventana1-639x300.jpg: adding to list
+0028.043 (0) finding files: La-Ventana1-970x364.jpg: adding to list
+0028.044 (0) finding files: La-Ventana1.jpg: adding to list
+0028.045 (0) finding files: LEFT-125x125.jpg: adding to list
+0028.045 (0) finding files: LEFT-150x150.jpg: adding to list
+0028.046 (0) finding files: Left-161x150.jpg: adding to list
+0028.046 (0) finding files: LEFT-232x150.jpg: adding to list
+0028.047 (0) finding files: LEFT-300x100.jpg: adding to list
+0028.048 (0) finding files: LEFT-300x193.jpg: adding to list
+0028.048 (0) finding files: Left-300x278.jpg: adding to list
+0028.049 (0) finding files: Left-465x300.jpg: adding to list
+0028.049 (0) finding files: Left-465x364.jpg: adding to list
+0028.050 (0) finding files: left-arrow.png: adding to list
+0028.050 (0) finding files: LEFT.jpg: adding to list
+0028.051 (0) finding files: LEFT1-125x125.jpg: adding to list
+0028.052 (0) finding files: LEFT1-150x150.jpg: adding to list
+0028.052 (0) finding files: LEFT1-232x150.jpg: adding to list
+0028.053 (0) finding files: LEFT1-300x100.jpg: adding to list
+0028.053 (0) finding files: LEFT1-300x193.jpg: adding to list
+0028.054 (0) finding files: LEFT1.jpg: adding to list
+0028.054 (0) finding files: LEFT2-125x125.jpg: adding to list
+0028.055 (0) finding files: LEFT2-150x150.jpg: adding to list
+0028.056 (0) finding files: LEFT2-174x150.jpg: adding to list
+0028.056 (0) finding files: LEFT2-300x100.jpg: adding to list
+0028.057 (0) finding files: LEFT2-300x257.jpg: adding to list
+0028.057 (0) finding files: LEFT2-465x300.jpg: adding to list
+0028.058 (0) finding files: LEFT2-465x364.jpg: adding to list
+0028.059 (0) finding files: LEFT2.jpg: adding to list
+0028.059 (0) finding files: LEFT_1-125x125.jpg: adding to list
+0028.060 (0) finding files: LEFT_1-150x150.jpg: adding to list
+0028.060 (0) finding files: Left_1-188x150.jpg: adding to list
+0028.061 (0) finding files: LEFT_1-232x150.jpg: adding to list
+0028.061 (0) finding files: LEFT_1-300x100.jpg: adding to list
+0028.062 (0) finding files: LEFT_1-300x193.jpg: adding to list
+0028.062 (0) finding files: Left_1-300x239.jpg: adding to list
+0028.063 (0) finding files: Left_1-465x300.jpg: adding to list
+0028.064 (0) finding files: Left_1-465x364.jpg: adding to list
+0028.064 (0) finding files: LEFT_1.jpg: adding to list
+0028.065 (0) finding files: LEFT_11-125x125.jpg: adding to list
+0028.065 (0) finding files: LEFT_11-150x150.jpg: adding to list
+0028.066 (0) finding files: LEFT_11-232x150.jpg: adding to list
+0028.066 (0) finding files: LEFT_11-300x100.jpg: adding to list
+0028.067 (0) finding files: LEFT_11-300x193.jpg: adding to list
+0028.068 (0) finding files: LEFT_11.jpg: adding to list
+0028.068 (0) finding files: Left_2-125x125.jpg: adding to list
+0028.069 (0) finding files: Left_2-150x150.jpg: adding to list
+0028.069 (0) finding files: Left_2-188x150.jpg: adding to list
+0028.070 (0) finding files: Left_2-300x100.jpg: adding to list
+0028.071 (0) finding files: Left_2-300x239.jpg: adding to list
+0028.071 (0) finding files: Left_2-465x300.jpg: adding to list
+0028.072 (0) finding files: Left_2-465x364.jpg: adding to list
+0028.072 (0) finding files: Left_2.jpg: adding to list
+0028.073 (0) finding files: lenses-125x125.jpg: adding to list
+0028.073 (0) finding files: lenses-150x150.jpg: adding to list
+0028.074 (0) finding files: lenses-159x150.jpg: adding to list
+0028.074 (0) finding files: lenses-300x100.jpg: adding to list
+0028.075 (0) finding files: lenses-300x282.jpg: adding to list
+0028.076 (0) finding files: lenses-469x300.jpg: adding to list
+0028.076 (0) finding files: lenses-469x364.jpg: adding to list
+0028.077 (0) finding files: lenses.jpg: adding to list
+0028.077 (0) finding files: Lewisville-VW_1-1024x284.jpg: adding to list
+0028.078 (0) finding files: Lewisville-VW_1-125x125.jpg: adding to list
+0028.078 (0) finding files: Lewisville-VW_1-150x150.jpg: adding to list
+0028.079 (0) finding files: Lewisville-VW_1-300x100.jpg: adding to list
+0028.080 (0) finding files: Lewisville-VW_1-300x83.jpg: adding to list
+0028.080 (0) finding files: Lewisville-VW_1-540x150.jpg: adding to list
+0028.081 (0) finding files: Lewisville-VW_1-639x300.jpg: adding to list
+0028.081 (0) finding files: Lewisville-VW_1-970x364.jpg: adding to list
+0028.082 (0) finding files: Lewisville-VW_1.jpg: adding to list
+0028.082 (0) finding files: Logo-125x125.png: adding to list
+0028.083 (0) finding files: logo-125x89.png: adding to list
+0028.084 (0) finding files: Logo-150x150.png: adding to list
+0028.084 (0) finding files: Logo-300x100.png: adding to list
+0028.085 (0) finding files: Logo-449x150.png: adding to list
+0028.085 (0) finding files: Logo-639x300.png: adding to list
+0028.086 (0) finding files: logo-small-125x25.png: adding to list
+0028.087 (0) finding files: logo-small-150x25.png: adding to list
+0028.087 (0) finding files: logo-small.png: adding to list
+0028.088 (0) finding files: Logo.png: adding to list
+0028.088 (0) finding files: Logo1-125x125.png: adding to list
+0028.089 (0) finding files: Logo1-150x150.png: adding to list
+0028.089 (0) finding files: Logo1-300x100.png: adding to list
+0028.090 (0) finding files: Logo1-300x111.png: adding to list
+0028.091 (0) finding files: Logo1-402x150.png: adding to list
+0028.091 (0) finding files: Logo1-639x300.png: adding to list
+0028.092 (0) finding files: Logo1.png: adding to list
+0028.092 (0) finding files: Logo2-125x125.png: adding to list
+0028.093 (0) finding files: Logo2-150x150.png: adding to list
+0028.093 (0) finding files: Logo2-300x100.png: adding to list
+0028.094 (0) finding files: Logo2-449x150.png: adding to list
+0028.095 (0) finding files: Logo2-639x300.png: adding to list
+0028.095 (0) finding files: Logo2.png: adding to list
+0028.096 (0) finding files: Logo3-125x125.png: adding to list
+0028.096 (0) finding files: Logo3-150x150.png: adding to list
+0028.097 (0) finding files: Logo3-300x100.png: adding to list
+0028.097 (0) finding files: Logo3-300x95.png: adding to list
+0028.098 (0) finding files: Logo3-470x150.png: adding to list
+0028.099 (0) finding files: Logo3-639x300.png: adding to list
+0028.099 (0) finding files: Logo3.png: adding to list
+0028.100 (0) finding files: Logo_ALT-125x125.png: adding to list
+0028.100 (0) finding files: Logo_ALT-150x150.png: adding to list
+0028.101 (0) finding files: Logo_ALT-300x100.png: adding to list
+0028.101 (0) finding files: Logo_ALT-300x135.png: adding to list
+0028.102 (0) finding files: Logo_ALT-333x150.png: adding to list
+0028.102 (0) finding files: Logo_ALT-639x300.png: adding to list
+0028.103 (0) finding files: Logo_ALT-940x364.png: adding to list
+0028.104 (0) finding files: Logo_ALT.png: adding to list
+0028.104 (0) finding files: LV-Header-1024x256.png: adding to list
+0028.105 (0) finding files: LV-Header-125x125.png: adding to list
+0028.105 (0) finding files: LV-Header-150x150.png: adding to list
+0028.106 (0) finding files: LV-Header-300x100.png: adding to list
+0028.106 (0) finding files: LV-Header-300x75.png: adding to list
+0028.107 (0) finding files: LV-Header-600x150.png: adding to list
+0028.107 (0) finding files: LV-Header-639x300.png: adding to list
+0028.108 (0) finding files: LV-Header-970x300.png: adding to list
+0028.109 (0) finding files: LV-Header.png: adding to list
+0028.109 (0) finding files: LVW-billboard1_1-copy-125x125.jpg: adding to list
+0028.110 (0) finding files: LVW-billboard1_1-copy-150x150.jpg: adding to list
+0028.110 (0) finding files: LVW-billboard1_1-copy-268x150.jpg: adding to list
+0028.111 (0) finding files: LVW-billboard1_1-copy-300x100.jpg: adding to list
+0028.111 (0) finding files: LVW-billboard1_1-copy-300x167.jpg: adding to list
+0028.112 (0) finding files: LVW-billboard1_1-copy-639x300.jpg: adding to list
+0028.112 (0) finding files: LVW-billboard1_1-copy-940x364.jpg: adding to list
+0028.113 (0) finding files: LVW-billboard2_1.jpg: adding to list
+0028.114 (0) finding files: LVW-billboard1_1-copy.jpg: adding to list
+0028.114 (0) finding files: LVW-billboard2_1-125x125.jpg: adding to list
+0028.115 (0) finding files: LVW-billboard2_1-150x150.jpg: adding to list
+0028.115 (0) finding files: LVW-billboard2_1-268x150.jpg: adding to list
+0028.116 (0) finding files: LVW-billboard2_1-300x100.jpg: adding to list
+0028.117 (0) finding files: LVW-billboard2_1-300x167.jpg: adding to list
+0028.117 (0) finding files: LVW-billboard2_1-639x300.jpg: adding to list
+0028.118 (0) finding files: LVW-billboard2_1-940x364.jpg: adding to list
+0028.118 (0) finding files: LVW_Web-125x125.jpg: adding to list
+0028.119 (0) finding files: LVW_Web-150x150.jpg: adding to list
+0028.119 (0) finding files: LVW_Web-188x300.jpg: adding to list
+0028.120 (0) finding files: LVW_Web-300x100.jpg: adding to list
+0028.121 (0) finding files: LVW_Web-639x300.jpg: adding to list
+0028.121 (0) finding files: LVW_Web-642x1024.jpg: adding to list
+0028.122 (0) finding files: LVW_Web-940x364.jpg: adding to list
+0028.122 (0) finding files: LVW_Web-94x150.jpg: adding to list
+0028.123 (0) finding files: LVW_Web.jpg: adding to list
+0028.123 (0) finding files: Meso-Maya-125x125.jpg: adding to list
+0028.124 (0) finding files: Meso-Maya-150x150.jpg: adding to list
+0028.125 (0) finding files: Meso-Maya-179x300.jpg: adding to list
+0028.125 (0) finding files: Meso-Maya-300x100.jpg: adding to list
+0028.125 (0) finding files: Meso-Maya-613x1024.jpg: adding to list
+0028.126 (0) finding files: Meso-Maya-639x300.jpg: adding to list
+0028.126 (0) finding files: Meso-Maya-89x150.jpg: adding to list
+0028.127 (0) finding files: Meso-Maya-940x364.jpg: adding to list
+0028.127 (0) finding files: Meso-Maya.jpg: adding to list
+0028.128 (0) finding files: Meso-Maya1-1024x284.jpg: adding to list
+0028.128 (0) finding files: Meso-Maya1-125x125.jpg: adding to list
+0028.128 (0) finding files: Meso-Maya1-150x150.jpg: adding to list
+0028.129 (0) finding files: Meso-Maya1-300x100.jpg: adding to list
+0028.129 (0) finding files: Meso-Maya1-300x83.jpg: adding to list
+0028.130 (0) finding files: Meso-Maya1-540x150.jpg: adding to list
+0028.130 (0) finding files: Meso-Maya1-639x300.jpg: adding to list
+0028.130 (0) finding files: Meso-Maya1-970x364.jpg: adding to list
+0028.131 (0) finding files: Meso-Maya1.jpg: adding to list
+0028.131 (0) finding files: Motive-Example-1024x240.png: adding to list
+0028.136 (0) finding files: Motive-Example-125x125.png: adding to list
+0028.136 (0) finding files: Motive-Example-150x150.png: adding to list
+0028.137 (0) finding files: Motive-Example-300x100.png: adding to list
+0028.138 (0) finding files: Motive-Example-300x70.png: adding to list
+0028.138 (0) finding files: Motive-Example-600x140.png: adding to list
+0028.139 (0) finding files: Motive-Example-639x300.png: adding to list
+0028.139 (0) finding files: Motive-Example-970x300.png: adding to list
+0028.140 (0) finding files: Motive-Example.png: adding to list
+0028.141 (0) finding files: Norman1-125x125.jpg: adding to list
+0028.141 (0) finding files: Norman1-150x150.jpg: adding to list
+0028.142 (0) finding files: Norman1-300x100.jpg: adding to list
+0028.143 (0) finding files: Norman1-300x106.jpg: adding to list
+0028.143 (0) finding files: Norman1-422x150.jpg: adding to list
+0028.144 (0) finding files: Norman1.jpg: adding to list
+0028.144 (0) finding files: ollie-125x125.jpg: adding to list
+0028.145 (0) finding files: ollie-150x150.jpg: adding to list
+0028.146 (0) finding files: ollie-153x150.jpg: adding to list
+0028.146 (0) finding files: ollie-300x100.jpg: adding to list
+0028.147 (0) finding files: ollie-300x292.jpg: adding to list
+0028.147 (0) finding files: ollie-396x300.jpg: adding to list
+0028.148 (0) finding files: ollie-396x364.jpg: adding to list
+0028.148 (0) finding files: ollie.jpg: adding to list
+0028.149 (0) finding files: pat-125x125.jpg: adding to list
+0028.150 (0) finding files: pat-150x150.jpg: adding to list
+0028.150 (0) finding files: pat-153x150.jpg: adding to list
+0028.151 (0) finding files: pat-300x100.jpg: adding to list
+0028.151 (0) finding files: pat-300x292.jpg: adding to list
+0028.152 (0) finding files: pat-396x300.jpg: adding to list
+0028.152 (0) finding files: pat-396x364.jpg: adding to list
+0028.153 (0) finding files: pat.jpg: adding to list
+0028.153 (0) finding files: pattern.png: adding to list
+0028.154 (0) finding files: PB_Header2-1024x385.jpg: adding to list
+0028.155 (0) finding files: PB_Header2-125x125.jpg: adding to list
+0028.155 (0) finding files: PB_Header2-150x150.jpg: adding to list
+0028.156 (0) finding files: PB_Header2-300x100.jpg: adding to list
+0028.156 (0) finding files: PB_Header2-300x112.jpg: adding to list
+0028.157 (0) finding files: PB_Header2-398x150.jpg: adding to list
+0028.158 (0) finding files: PB_Header2-639x300.jpg: adding to list
+0028.158 (0) finding files: PB_Header2-970x364.jpg: adding to list
+0028.159 (0) finding files: PB_Header2.jpg: adding to list
+0028.159 (0) finding files: people-products-125x124.jpg: adding to list
+0028.160 (0) finding files: people-products-150x124.jpg: adding to list
+0028.160 (0) finding files: people-products-220x100.jpg: adding to list
+0028.161 (0) finding files: people-products.jpg: adding to list
+0028.162 (0) finding files: petey-125x125.jpg: adding to list
+0028.162 (0) finding files: petey-150x150.jpg: adding to list
+0028.163 (0) finding files: petey-153x150.jpg: adding to list
+0028.163 (0) finding files: petey-300x100.jpg: adding to list
+0028.164 (0) finding files: petey-300x292.jpg: adding to list
+0028.164 (0) finding files: petey-396x300.jpg: adding to list
+0028.165 (0) finding files: petey-396x364.jpg: adding to list
+0028.166 (0) finding files: petey.jpg: adding to list
+0028.166 (0) finding files: Post-01-125x125.jpg: adding to list
+0028.167 (0) finding files: Post-01-150x150.jpg: adding to list
+0028.167 (0) finding files: Post-01-225x150.jpg: adding to list
+0028.168 (0) finding files: Post-01-300x100.jpg: adding to list
+0028.168 (0) finding files: Post-01-300x199.jpg: adding to list
+0028.169 (0) finding files: Post-01-465x300.jpg: adding to list
+0028.170 (0) finding files: Post-01.jpg: adding to list
+0028.170 (0) finding files: Post-011-125x125.jpg: adding to list
+0028.171 (0) finding files: Post-011-150x150.jpg: adding to list
+0028.171 (0) finding files: Post-011-300x100.jpg: adding to list
+0028.172 (0) finding files: Post-011-300x300.jpg: adding to list
+0028.172 (0) finding files: Post-011-465x300.jpg: adding to list
+0028.173 (0) finding files: Post-011-465x364.jpg: adding to list
+0028.173 (0) finding files: Post-011.jpg: adding to list
+0028.174 (0) finding files: Post-02-125x125.jpg: adding to list
+0028.175 (0) finding files: Post-02-150x150.jpg: adding to list
+0028.175 (0) finding files: Post-02-225x150.jpg: adding to list
+0028.176 (0) finding files: Post-02-300x100.jpg: adding to list
+0028.177 (0) finding files: Post-02-300x199.jpg: adding to list
+0028.177 (0) finding files: Post-02-465x300.jpg: adding to list
+0028.178 (0) finding files: Post-02.jpg: adding to list
+0028.178 (0) finding files: Post-021-125x125.jpg: adding to list
+0028.179 (0) finding files: Post-021-150x150.jpg: adding to list
+0028.180 (0) finding files: Post-021-300x100.jpg: adding to list
+0028.180 (0) finding files: Post-021-300x300.jpg: adding to list
+0028.181 (0) finding files: Post-021-465x300.jpg: adding to list
+0028.181 (0) finding files: Post-021-465x364.jpg: adding to list
+0028.182 (0) finding files: Post-021.jpg: adding to list
+0028.182 (0) finding files: Post-03-125x125.jpg: adding to list
+0028.183 (0) finding files: Post-03-150x150.jpg: adding to list
+0028.184 (0) finding files: Post-03-300x100.jpg: adding to list
+0028.184 (0) finding files: Post-03-300x300.jpg: adding to list
+0028.185 (0) finding files: Post-03-465x300.jpg: adding to list
+0028.185 (0) finding files: Post-03-465x364.jpg: adding to list
+0028.186 (0) finding files: Post-03.jpg: adding to list
+0028.186 (0) finding files: Post-031-125x125.jpg: adding to list
+0028.187 (0) finding files: Post-031-150x150.jpg: adding to list
+0028.188 (0) finding files: Post-031-300x100.jpg: adding to list
+0028.188 (0) finding files: Post-031-300x300.jpg: adding to list
+0028.189 (0) finding files: Post-031-465x300.jpg: adding to list
+0028.189 (0) finding files: Post-031-465x364.jpg: adding to list
+0028.190 (0) finding files: Post-031.jpg: adding to list
+0028.190 (0) finding files: Post-04-125x125.jpg: adding to list
+0028.191 (0) finding files: Post-04-150x150.jpg: adding to list
+0028.192 (0) finding files: Post-04-300x100.jpg: adding to list
+0028.192 (0) finding files: Post-04-300x300.jpg: adding to list
+0028.193 (0) finding files: Post-04-465x300.jpg: adding to list
+0028.193 (0) finding files: Post-04-465x364.jpg: adding to list
+0028.194 (0) finding files: Post-04.jpg: adding to list
+0028.194 (0) finding files: Post-041-125x125.jpg: adding to list
+0028.195 (0) finding files: Post-041-150x150.jpg: adding to list
+0028.196 (0) finding files: Post-041-300x100.jpg: adding to list
+0028.196 (0) finding files: Post-041-300x300.jpg: adding to list
+0028.197 (0) finding files: Post-041-465x300.jpg: adding to list
+0028.197 (0) finding files: Post-041.jpg: adding to list
+0028.198 (0) finding files: Post-041-465x364.jpg: adding to list
+0028.199 (0) finding files: Post01-125x125.jpg: adding to list
+0028.199 (0) finding files: Post01-150x150.jpg: adding to list
+0028.200 (0) finding files: Post01-300x100.jpg: adding to list
+0028.200 (0) finding files: Post01-300x300.jpg: adding to list
+0028.201 (0) finding files: Post01-639x300.jpg: adding to list
+0028.201 (0) finding files: Post01-800x364.jpg: adding to list
+0028.202 (0) finding files: Post01.jpg: adding to list
+0028.203 (0) finding files: Post02-125x125.jpg: adding to list
+0028.203 (0) finding files: Post02-150x150.jpg: adding to list
+0028.204 (0) finding files: Post02-300x100.jpg: adding to list
+0028.204 (0) finding files: Post02-300x300.jpg: adding to list
+0028.205 (0) finding files: Post02-639x300.jpg: adding to list
+0028.206 (0) finding files: Post02-800x364.jpg: adding to list
+0028.206 (0) finding files: Post02.jpg: adding to list
+0028.207 (0) finding files: Post03-125x125.jpeg: adding to list
+0028.207 (0) finding files: Post03-150x150.jpeg: adding to list
+0028.208 (0) finding files: Post03-300x100.jpeg: adding to list
+0028.209 (0) finding files: Post03-300x300.jpeg: adding to list
+0028.209 (0) finding files: Post03-639x300.jpeg: adding to list
+0028.210 (0) finding files: Post03-800x364.jpeg: adding to list
+0028.210 (0) finding files: Post03.jpeg: adding to list
+0028.211 (0) finding files: Post04-125x125.jpg: adding to list
+0028.211 (0) finding files: Post04-150x150.jpg: adding to list
+0028.212 (0) finding files: Post04-300x100.jpg: adding to list
+0028.213 (0) finding files: Post04-300x300.jpg: adding to list
+0028.213 (0) finding files: Post04-639x300.jpg: adding to list
+0028.214 (0) finding files: Post04-970x364.jpg: adding to list
+0028.214 (0) finding files: Post04.jpg: adding to list
+0028.215 (0) finding files: Poster-125x125.jpg: adding to list
+0028.216 (0) finding files: Poster-150x150.jpg: adding to list
+0028.216 (0) finding files: Poster-224x150.jpg: adding to list
+0028.217 (0) finding files: Poster-300x100.jpg: adding to list
+0028.217 (0) finding files: Poster-300x200.jpg: adding to list
+0028.218 (0) finding files: Poster-639x300.jpg: adding to list
+0028.218 (0) finding files: Poster-940x364.jpg: adding to list
+0028.219 (0) finding files: Poster.jpg: adding to list
+0028.220 (0) finding files: posterholding-125x125.png: adding to list
+0028.220 (0) finding files: posterholding-150x150.png: adding to list
+0028.221 (0) finding files: posterholding-225x150.png: adding to list
+0028.221 (0) finding files: posterholding-300x100.png: adding to list
+0028.222 (0) finding files: posterholding-300x200.png: adding to list
+0028.223 (0) finding files: posterholding-465x300.png: adding to list
+0028.223 (0) finding files: posterholding.png: adding to list
+0028.224 (0) finding files: potential-pride-125x124.jpg: adding to list
+0028.224 (0) finding files: potential-pride-150x124.jpg: adding to list
+0028.225 (0) finding files: potential-pride-220x100.jpg: adding to list
+0028.225 (0) finding files: potential-pride.jpg: adding to list
+0028.226 (0) finding files: purpose-duty-125x124.jpg: adding to list
+0028.227 (0) finding files: purpose-duty-150x124.jpg: adding to list
+0028.227 (0) finding files: purpose-duty-220x100.jpg: adding to list
+0028.228 (0) finding files: purpose-duty.jpg: adding to list
+0028.228 (0) finding files: Results-125x125.png: adding to list
+0028.229 (0) finding files: Results-150x150.png: adding to list
+0028.230 (0) finding files: Results-300x100.png: adding to list
+0028.230 (0) finding files: Results-300x87.png: adding to list
+0028.231 (0) finding files: Results-512x150.png: adding to list
+0028.231 (0) finding files: Results-639x281.png: adding to list
+0028.232 (0) finding files: Results.png: adding to list
+0028.232 (0) finding files: RIGHT-125x125.jpg: adding to list
+0028.233 (0) finding files: RIGHT-150x150.jpg: adding to list
+0028.234 (0) finding files: Right-161x150.jpg: adding to list
+0028.234 (0) finding files: RIGHT-232x150.jpg: adding to list
+0028.235 (0) finding files: RIGHT-300x100.jpg: adding to list
+0028.235 (0) finding files: RIGHT-300x193.jpg: adding to list
+0028.236 (0) finding files: Right-300x278.jpg: adding to list
+0028.237 (0) finding files: Right-465x300.jpg: adding to list
+0028.237 (0) finding files: Right-465x364.jpg: adding to list
+0028.238 (0) finding files: right-arrow.png: adding to list
+0028.238 (0) finding files: RIGHT.jpg: adding to list
+0028.239 (0) finding files: RIGHT1-125x125.jpg: adding to list
+0028.239 (0) finding files: RIGHT1-150x150.jpg: adding to list
+0028.240 (0) finding files: RIGHT1-232x150.jpg: adding to list
+0028.241 (0) finding files: RIGHT1-300x100.jpg: adding to list
+0028.241 (0) finding files: RIGHT1-300x193.jpg: adding to list
+0028.242 (0) finding files: RIGHT1.jpg: adding to list
+0028.242 (0) finding files: RIGHT2-125x125.jpg: adding to list
+0028.243 (0) finding files: RIGHT2-150x150.jpg: adding to list
+0028.243 (0) finding files: RIGHT2-174x150.jpg: adding to list
+0028.244 (0) finding files: RIGHT2-300x100.jpg: adding to list
+0028.245 (0) finding files: RIGHT2-300x257.jpg: adding to list
+0028.245 (0) finding files: RIGHT2-465x300.jpg: adding to list
+0028.246 (0) finding files: RIGHT2-465x364.jpg: adding to list
+0028.246 (0) finding files: RIGHT2.jpg: adding to list
+0028.247 (0) finding files: RIGHT_1-125x125.jpg: adding to list
+0028.248 (0) finding files: RIGHT_1-150x150.jpg: adding to list
+0028.248 (0) finding files: Right_1-185x150.jpg: adding to list
+0028.249 (0) finding files: RIGHT_1-232x150.jpg: adding to list
+0028.249 (0) finding files: RIGHT_1-300x100.jpg: adding to list
+0028.250 (0) finding files: RIGHT_1-300x193.jpg: adding to list
+0028.250 (0) finding files: Right_1-300x242.jpg: adding to list
+0028.251 (0) finding files: Right_1-465x300.jpg: adding to list
+0028.251 (0) finding files: Right_1-465x364.jpg: adding to list
+0028.252 (0) finding files: RIGHT_1.jpg: adding to list
+0028.253 (0) finding files: RIGHT_11-125x125.jpg: adding to list
+0028.253 (0) finding files: RIGHT_11-150x150.jpg: adding to list
+0028.254 (0) finding files: RIGHT_11-232x150.jpg: adding to list
+0028.254 (0) finding files: RIGHT_11-300x100.jpg: adding to list
+0028.255 (0) finding files: RIGHT_11-300x193.jpg: adding to list
+0028.256 (0) finding files: RIGHT_11.jpg: adding to list
+0028.256 (0) finding files: Right_2-125x125.jpg: adding to list
+0028.257 (0) finding files: Right_2-150x150.jpg: adding to list
+0028.257 (0) finding files: Right_2-188x150.jpg: adding to list
+0028.258 (0) finding files: Right_2-300x100.jpg: adding to list
+0028.258 (0) finding files: Right_2-300x239.jpg: adding to list
+0028.259 (0) finding files: Right_2-465x300.jpg: adding to list
+0028.260 (0) finding files: Right_2-465x364.jpg: adding to list
+0028.260 (0) finding files: Right_2.jpg: adding to list
+0028.261 (0) finding files: services-slider-1024x678.jpg: adding to list
+0028.262 (0) finding files: services-slider-125x125.jpg: adding to list
+0028.262 (0) finding files: services-slider-150x150.jpg: adding to list
+0028.263 (0) finding files: services-slider-226x150.jpg: adding to list
+0028.263 (0) finding files: services-slider-300x100.jpg: adding to list
+0028.264 (0) finding files: services-slider-300x198.jpg: adding to list
+0028.265 (0) finding files: services-slider-639x300.jpg: adding to list
+0028.265 (0) finding files: services-slider-970x364.jpg: adding to list
+0028.266 (0) finding files: services-slider.jpg: adding to list
+0028.266 (0) finding files: shamoun-norman-logo-125x125.jpg: adding to list
+0028.267 (0) finding files: shamoun-norman-logo-150x150.jpg: adding to list
+0028.267 (0) finding files: shamoun-norman-logo-300x100.jpg: adding to list
+0028.268 (0) finding files: shamoun-norman-logo-300x120.jpg: adding to list
+0028.269 (0) finding files: shamoun-norman-logo-375x150.jpg: adding to list
+0028.269 (0) finding files: shamoun-norman-logo-639x300.jpg: adding to list
+0028.270 (0) finding files: shamoun-norman-logo-970x364.jpg: adding to list
+0028.270 (0) finding files: shamoun-norman-logo.jpg: adding to list
+0028.271 (0) finding files: Shamoun-Norman_1-1024x284.jpg: adding to list
+0028.271 (0) finding files: Shamoun-Norman_1-125x125.jpg: adding to list
+0028.272 (0) finding files: Shamoun-Norman_1-150x150.jpg: adding to list
+0028.273 (0) finding files: Shamoun-Norman_1-300x100.jpg: adding to list
+0028.273 (0) finding files: Shamoun-Norman_1-300x83.jpg: adding to list
+0028.274 (0) finding files: Shamoun-Norman_1-540x150.jpg: adding to list
+0028.274 (0) finding files: Shamoun-Norman_1-639x300.jpg: adding to list
+0028.275 (0) finding files: Shamoun-Norman_1-970x364.jpg: adding to list
+0028.275 (0) finding files: Shamoun-Norman_1.jpg: adding to list
+0028.276 (0) finding files: Shamoun1-125x125.jpg: adding to list
+0028.277 (0) finding files: Shamoun1-150x150.jpg: adding to list
+0028.277 (0) finding files: Shamoun1-300x100.jpg: adding to list
+0028.278 (0) finding files: Shamoun1-300x106.jpg: adding to list
+0028.278 (0) finding files: Shamoun1-422x150.jpg: adding to list
+0028.279 (0) finding files: Shamoun1.jpg: adding to list
+0028.280 (0) finding files: shay-125x125.jpg: adding to list
+0028.280 (0) finding files: shay-150x150.jpg: adding to list
+0028.281 (0) finding files: shay-153x150.jpg: adding to list
+0028.281 (0) finding files: shay-300x100.jpg: adding to list
+0028.282 (0) finding files: shay-300x292.jpg: adding to list
+0028.283 (0) finding files: shay-396x300.jpg: adding to list
+0028.283 (0) finding files: shay-396x364.jpg: adding to list
+0028.284 (0) finding files: shay.jpg: adding to list
+0028.284 (0) finding files: SN-letterhead-envelop-109x150.jpg: adding to list
+0028.285 (0) finding files: SN-letterhead-envelop-125x125.jpg: adding to list
+0028.285 (0) finding files: SN-letterhead-envelop-150x150.jpg: adding to list
+0028.286 (0) finding files: SN-letterhead-envelop-219x300.jpg: adding to list
+0028.287 (0) finding files: SN-letterhead-envelop-300x100.jpg: adding to list
+0028.291 (0) finding files: SN-letterhead-envelop-379x300.jpg: adding to list
+0028.291 (0) finding files: SN-letterhead-envelop-379x364.jpg: adding to list
+0028.292 (0) finding files: SN-letterhead-envelop.jpg: adding to list
+0028.292 (0) finding files: SNLegal-Header-1024x385.png: adding to list
+0028.292 (0) finding files: SNLegal-Header-125x125.png: adding to list
+0028.293 (0) finding files: SNLegal-Header-150x150.png: adding to list
+0028.293 (0) finding files: SNLegal-Header-300x100.png: adding to list
+0028.294 (0) finding files: SNLegal-Header-300x112.png: adding to list
+0028.294 (0) finding files: SNLegal-Header-398x150.png: adding to list
+0028.294 (0) finding files: SNLegal-Header-639x300.png: adding to list
+0028.295 (0) finding files: SNLegal-Header-970x364.png: adding to list
+0028.295 (0) finding files: SNLegal-Header.png: adding to list
+0028.295 (0) finding files: Spree-1024x284.jpg: adding to list
+0028.296 (0) finding files: Spree-125x125.jpg: adding to list
+0028.296 (0) finding files: Spree-150x150.jpg: adding to list
+0028.297 (0) finding files: Spree-300x100.jpg: adding to list
+0028.297 (0) finding files: Spree-300x83.jpg: adding to list
+0028.297 (0) finding files: Spree-540x150.jpg: adding to list
+0028.298 (0) finding files: Spree-639x300.jpg: adding to list
+0028.298 (0) finding files: Spree-970x364.jpg: adding to list
+0028.299 (0) finding files: Spree.jpg: adding to list
+0028.299 (0) finding files: SpreeWEB-125x125.jpg: adding to list
+0028.300 (0) finding files: SpreeWEB-150x150.jpg: adding to list
+0028.300 (0) finding files: SpreeWEB-300x100.jpg: adding to list
+0028.300 (0) finding files: SpreeWEB-320x1024.jpg: adding to list
+0028.301 (0) finding files: SpreeWEB-47x150.jpg: adding to list
+0028.301 (0) finding files: SpreeWEB-639x300.jpg: adding to list
+0028.302 (0) finding files: SpreeWEB-940x364.jpg: adding to list
+0028.302 (0) finding files: SpreeWEB-94x300.jpg: adding to list
+0028.302 (0) finding files: SpreeWEB.jpg: adding to list
+0028.303 (0) finding files: SpreeWEB2-120x150.jpg: adding to list
+0028.303 (0) finding files: SpreeWEB2-125x125.jpg: adding to list
+0028.304 (0) finding files: SpreeWEB2-150x150.jpg: adding to list
+0028.304 (0) finding files: SpreeWEB2-240x300.jpg: adding to list
+0028.304 (0) finding files: SpreeWEB2-300x100.jpg: adding to list
+0028.305 (0) finding files: SpreeWEB2-639x300.jpg: adding to list
+0028.305 (0) finding files: SpreeWEB2-821x1024.jpg: adding to list
+0028.306 (0) finding files: SpreeWEB2-940x364.jpg: adding to list
+0028.306 (0) finding files: SpreeWEB2.jpg: adding to list
+0028.306 (0) finding files: Starbase-1024x284.jpg: adding to list
+0028.307 (0) finding files: Starbase-125x125.jpg: adding to list
+0028.307 (0) finding files: Starbase-150x150.jpg: adding to list
+0028.308 (0) finding files: Starbase-300x100.jpg: adding to list
+0028.308 (0) finding files: Starbase-300x83.jpg: adding to list
+0028.308 (0) finding files: Starbase-540x150.jpg: adding to list
+0028.309 (0) finding files: Starbase-639x300.jpg: adding to list
+0028.309 (0) finding files: Starbase-970x364.jpg: adding to list
+0028.310 (0) finding files: Starbase.jpg: adding to list
+0028.310 (0) finding files: Sticker-Photo-125x125.jpg: adding to list
+0028.311 (0) finding files: Sticker-Photo-150x150.jpg: adding to list
+0028.311 (0) finding files: Sticker-Photo-222x150.jpg: adding to list
+0028.311 (0) finding files: Sticker-Photo-300x100.jpg: adding to list
+0028.312 (0) finding files: Sticker-Photo-300x201.jpg: adding to list
+0028.312 (0) finding files: Sticker-Photo-465x300.jpg: adding to list
+0028.313 (0) finding files: Sticker-Photo.jpg: adding to list
+0028.313 (0) finding files: strength-weakness-125x124.jpg: adding to list
+0028.313 (0) finding files: strength-weakness-150x124.jpg: adding to list
+0028.314 (0) finding files: strength-weakness-220x100.jpg: adding to list
+0028.314 (0) finding files: strength-weakness.jpg: adding to list
+0028.315 (0) finding files: the-infinite-agency-dallas-logo-125x34.png: adding to list
+0028.315 (0) finding files: the-infinite-agency-dallas-logo-150x34.png: adding to list
+0028.315 (0) finding files: the-infinite-agency-dallas-logo-300x33.png: adding to list
+0028.316 (0) finding files: the-infinite-agency-dallas-logo-300x34.png: adding to list
+0028.316 (0) finding files: the-infinite-agency-dallas-logo.png: adding to list
+0028.317 (0) finding files: the-pilates-barre-logo-125x125.jpg: adding to list
+0028.317 (0) finding files: the-pilates-barre-logo-150x150.jpg: adding to list
+0028.318 (0) finding files: the-pilates-barre-logo-300x100.jpg: adding to list
+0028.318 (0) finding files: the-pilates-barre-logo-300x120.jpg: adding to list
+0028.318 (0) finding files: the-pilates-barre-logo-375x150.jpg: adding to list
+0028.319 (0) finding files: the-pilates-barre-logo-639x300.jpg: adding to list
+0028.319 (0) finding files: the-pilates-barre-logo-970x364.jpg: adding to list
+0028.319 (0) finding files: the-pilates-barre-logo-dev-125x125.jpg: adding to list
+0028.320 (0) finding files: the-pilates-barre-logo-dev-150x150.jpg: adding to list
+0028.320 (0) finding files: the-pilates-barre-logo-dev-224x150.jpg: adding to list
+0028.321 (0) finding files: the-pilates-barre-logo-dev-300x100.jpg: adding to list
+0028.321 (0) finding files: the-pilates-barre-logo-dev-300x200.jpg: adding to list
+0028.321 (0) finding files: the-pilates-barre-logo-dev-639x300.jpg: adding to list
+0028.322 (0) finding files: the-pilates-barre-logo-dev-970x364.jpg: adding to list
+0028.322 (0) finding files: the-pilates-barre-logo-dev.jpg: adding to list
+0028.323 (0) finding files: the-pilates-barre-logo.jpg: adding to list
+0028.323 (0) finding files: The-PilatesBarre_1-1024x284.jpg: adding to list
+0028.323 (0) finding files: The-PilatesBarre_1-125x125.jpg: adding to list
+0028.324 (0) finding files: The-PilatesBarre_1-150x150.jpg: adding to list
+0028.324 (0) finding files: The-PilatesBarre_1-300x100.jpg: adding to list
+0028.325 (0) finding files: The-PilatesBarre_1-300x83.jpg: adding to list
+0028.325 (0) finding files: The-PilatesBarre_1-540x150.jpg: adding to list
+0028.326 (0) finding files: The-PilatesBarre_1-639x300.jpg: adding to list
+0028.326 (0) finding files: The-PilatesBarre_1-970x364.jpg: adding to list
+0028.326 (0) finding files: The-PilatesBarre_1.jpg: adding to list
+0028.327 (0) finding files: The-Shops-at-Park-Lane-1024x284.jpg: adding to list
+0028.327 (0) finding files: The-Shops-at-Park-Lane-125x125.jpg: adding to list
+0028.328 (0) finding files: The-Shops-at-Park-Lane-150x150.jpg: adding to list
+0028.328 (0) finding files: The-Shops-at-Park-Lane-300x100.jpg: adding to list
+0028.328 (0) finding files: The-Shops-at-Park-Lane-300x83.jpg: adding to list
+0028.329 (0) finding files: The-Shops-at-Park-Lane-540x150.jpg: adding to list
+0028.329 (0) finding files: The-Shops-at-Park-Lane-639x300.jpg: adding to list
+0028.330 (0) finding files: The-Shops-at-Park-Lane-970x364.jpg: adding to list
+0028.330 (0) finding files: The-Shops-at-Park-Lane.jpg: adding to list
+0028.330 (0) finding files: top-section-bg-1024x477.jpg: adding to list
+0028.331 (0) finding files: top-section-bg-125x125.jpg: adding to list
+0028.331 (0) finding files: top-section-bg-150x150.jpg: adding to list
+0028.332 (0) finding files: top-section-bg-300x100.jpg: adding to list
+0028.332 (0) finding files: top-section-bg-300x140.jpg: adding to list
+0028.332 (0) finding files: top-section-bg-321x150.jpg: adding to list
+0028.333 (0) finding files: top-section-bg-639x300.jpg: adding to list
+0028.333 (0) finding files: top-section-bg-970x364.jpg: adding to list
+0028.334 (0) finding files: top-section-bg.jpg: adding to list
+0028.334 (0) finding files: trust-control-125x124.jpg: adding to list
+0028.334 (0) finding files: trust-control-150x124.jpg: adding to list
+0028.335 (0) finding files: trust-control-220x100.jpg: adding to list
+0028.335 (0) finding files: trust-control.jpg: adding to list
+0028.336 (0) finding files: Unknown-1-125x125.jpeg: adding to list
+0028.336 (0) finding files: Unknown-1-150x150.jpeg: adding to list
+0028.336 (0) finding files: Unknown-1-300x100.jpeg: adding to list
+0028.337 (0) finding files: Unknown-1-300x300.jpeg: adding to list
+0028.337 (0) finding files: Unknown-1-330x300.jpeg: adding to list
+0028.338 (0) finding files: Unknown-1.jpeg: adding to list
+0028.338 (0) finding files: Unknown-10-125x125.jpeg: adding to list
+0028.339 (0) finding files: Unknown-10-150x150.jpeg: adding to list
+0028.339 (0) finding files: Unknown-10-300x100.jpeg: adding to list
+0028.339 (0) finding files: Unknown-10-300x300.jpeg: adding to list
+0028.340 (0) finding files: Unknown-10-330x300.jpeg: adding to list
+0028.340 (0) finding files: Unknown-10.jpeg: adding to list
+0028.341 (0) finding files: Unknown-125x125.png: adding to list
+0028.341 (0) finding files: Unknown-150x150.png: adding to list
+0028.341 (0) finding files: Unknown-2-125x125.jpeg: adding to list
+0028.342 (0) finding files: Unknown-2-150x150.jpeg: adding to list
+0028.342 (0) finding files: Unknown-2-300x100.jpeg: adding to list
+0028.343 (0) finding files: Unknown-2-300x300.jpeg: adding to list
+0028.343 (0) finding files: Unknown-2-330x300.jpeg: adding to list
+0028.343 (0) finding files: Unknown-2.jpeg: adding to list
+0028.344 (0) finding files: Unknown-3-125x125.jpeg: adding to list
+0028.344 (0) finding files: Unknown-3-150x150.jpeg: adding to list
+0028.345 (0) finding files: Unknown-3-300x100.jpeg: adding to list
+0028.345 (0) finding files: Unknown-3-300x300.jpeg: adding to list
+0028.349 (0) finding files: Unknown-3-330x300.jpeg: adding to list
+0028.349 (0) finding files: Unknown-3.jpeg: adding to list
+0028.349 (0) finding files: Unknown-300x100.png: adding to list
+0028.350 (0) finding files: Unknown-300x300.png: adding to list
+0028.350 (0) finding files: Unknown-350x300.png: adding to list
+0028.351 (0) finding files: Unknown-4-125x125.jpeg: adding to list
+0028.351 (0) finding files: Unknown-4-150x150.jpeg: adding to list
+0028.351 (0) finding files: Unknown-4-300x100.jpeg: adding to list
+0028.352 (0) finding files: Unknown-4-300x300.jpeg: adding to list
+0028.352 (0) finding files: Unknown-4-330x300.jpeg: adding to list
+0028.353 (0) finding files: Unknown-4.jpeg: adding to list
+0028.353 (0) finding files: Unknown-5-125x125.jpeg: adding to list
+0028.353 (0) finding files: Unknown-5-150x150.jpeg: adding to list
+0028.354 (0) finding files: Unknown-5-300x100.jpeg: adding to list
+0028.354 (0) finding files: Unknown-5-300x300.jpeg: adding to list
+0028.355 (0) finding files: Unknown-5-330x300.jpeg: adding to list
+0028.355 (0) finding files: Unknown-5.jpeg: adding to list
+0028.356 (0) finding files: Unknown-6-125x125.jpeg: adding to list
+0028.356 (0) finding files: Unknown-6-150x150.jpeg: adding to list
+0028.356 (0) finding files: Unknown-6-300x100.jpeg: adding to list
+0028.357 (0) finding files: Unknown-6-300x300.jpeg: adding to list
+0028.357 (0) finding files: Unknown-6-330x300.jpeg: adding to list
+0028.358 (0) finding files: Unknown-6.jpeg: adding to list
+0028.358 (0) finding files: Unknown-7-125x125.jpeg: adding to list
+0028.358 (0) finding files: Unknown-7-150x150.jpeg: adding to list
+0028.359 (0) finding files: Unknown-7-300x100.jpeg: adding to list
+0028.359 (0) finding files: Unknown-7-300x300.jpeg: adding to list
+0028.360 (0) finding files: Unknown-7-330x300.jpeg: adding to list
+0028.360 (0) finding files: Unknown-7.jpeg: adding to list
+0028.360 (0) finding files: Unknown-8-125x125.jpeg: adding to list
+0028.361 (0) finding files: Unknown-8-150x150.jpeg: adding to list
+0028.361 (0) finding files: Unknown-8-300x100.jpeg: adding to list
+0028.362 (0) finding files: Unknown-8-300x300.jpeg: adding to list
+0028.362 (0) finding files: Unknown-8-330x300.jpeg: adding to list
+0028.363 (0) finding files: Unknown-8.jpeg: adding to list
+0028.363 (0) finding files: Unknown-9-125x125.jpeg: adding to list
+0028.363 (0) finding files: Unknown-9-150x150.jpeg: adding to list
+0028.364 (0) finding files: Unknown-9-300x100.jpeg: adding to list
+0028.364 (0) finding files: Unknown-9-300x300.jpeg: adding to list
+0028.365 (0) finding files: Unknown-9-330x300.jpeg: adding to list
+0028.365 (0) finding files: Unknown-9.jpeg: adding to list
+0028.365 (0) finding files: Unknown.png: adding to list
+0028.366 (0) finding files: Website-125x125.jpg: adding to list
+0028.366 (0) finding files: Website-125x125.png: adding to list
+0028.367 (0) finding files: Website-132x150.jpg: adding to list
+0028.367 (0) finding files: Website-150x150.jpg: adding to list
+0028.367 (0) finding files: Website-150x150.png: adding to list
+0028.368 (0) finding files: Website-185x300.png: adding to list
+0028.368 (0) finding files: Website-264x300.jpg: adding to list
+0028.369 (0) finding files: Website-300x100.jpg: adding to list
+0028.369 (0) finding files: Website-300x100.png: adding to list
+0028.369 (0) finding files: Website-634x1024.png: adding to list
+0028.370 (0) finding files: Website-639x300.jpg: adding to list
+0028.370 (0) finding files: Website-639x300.png: adding to list
+0028.371 (0) finding files: Website-902x1024.jpg: adding to list
+0028.371 (0) finding files: Website-92x150.png: adding to list
+0028.371 (0) finding files: Website-940x364.jpg: adding to list
+0028.372 (0) finding files: Website-940x364.png: adding to list
+0028.372 (0) finding files: Website.jpg: adding to list
+0028.373 (0) finding files: Website.png: adding to list
+0028.373 (0) finding files: Website1-101x150.png: adding to list
+0028.374 (0) finding files: Website1-125x125.jpg: adding to list
+0028.374 (0) finding files: Website1-125x125.png: adding to list
+0028.374 (0) finding files: Website1-150x150.jpg: adding to list
+0028.375 (0) finding files: Website1-150x150.png: adding to list
+0028.375 (0) finding files: Website1-202x300.png: adding to list
+0028.376 (0) finding files: Website1-300x100.jpg: adding to list
+0028.376 (0) finding files: Website1-300x100.png: adding to list
+0028.376 (0) finding files: Website1-311x1024.jpg: adding to list
+0028.377 (0) finding files: Website1-45x150.jpg: adding to list
+0028.377 (0) finding files: Website1-639x300.jpg: adding to list
+0028.378 (0) finding files: Website1-639x300.png: adding to list
+0028.378 (0) finding files: Website1-691x1024.png: adding to list
+0028.378 (0) finding files: Website1-91x300.jpg: adding to list
+0028.379 (0) finding files: Website1-940x364.jpg: adding to list
+0028.379 (0) finding files: Website1-940x364.png: adding to list
+0028.380 (0) finding files: Website1.jpg: adding to list
+0028.380 (0) finding files: Website1.png: adding to list
+0028.380 (0) finding files: Website2-125x125.jpg: adding to list
+0028.381 (0) finding files: Website2-150x150.jpg: adding to list
+0028.381 (0) finding files: Website2-193x300.jpg: adding to list
+0028.382 (0) finding files: Website2-300x100.jpg: adding to list
+0028.382 (0) finding files: Website2-639x300.jpg: adding to list
+0028.383 (0) finding files: Website2-661x1024.jpg: adding to list
+0028.383 (0) finding files: Website2-960x364.jpg: adding to list
+0028.383 (0) finding files: Website2-96x150.jpg: adding to list
+0028.384 (0) finding files: Website2.jpg: adding to list
+0028.384 (0) finding files: Website3-125x125.jpg: adding to list
+0028.385 (0) finding files: Website3-150x150.jpg: adding to list
+0028.385 (0) finding files: Website3-179x300.jpg: adding to list
+0028.386 (0) finding files: Website3-300x100.jpg: adding to list
+0028.386 (0) finding files: Website3-613x1024.jpg: adding to list
+0028.386 (0) finding files: Website3-639x300.jpg: adding to list
+0028.387 (0) finding files: Website3-89x150.jpg: adding to list
+0028.387 (0) finding files: Website3-940x364.jpg: adding to list
+0028.388 (0) finding files: Website3.jpg: adding to list
+0028.388 (0) finding files: Website4-125x125.jpg: adding to list
+0028.389 (0) finding files: Website4-150x150.jpg: adding to list
+0028.389 (0) finding files: Website4-153x300.jpg: adding to list
+0028.389 (0) finding files: Website4-300x100.jpg: adding to list
+0028.390 (0) finding files: Website4-522x1024.jpg: adding to list
+0028.390 (0) finding files: Website4-639x300.jpg: adding to list
+0028.391 (0) finding files: Website4-76x150.jpg: adding to list
+0028.391 (0) finding files: Website4-960x364.jpg: adding to list
+0028.392 (0) finding files: Website4.jpg: adding to list
+0028.392 (0) finding files: Website5.jpg: adding to list
+0028.392 (0) finding files: Website5-125x125.jpg: adding to list
+0028.393 (0) finding files: Website5-150x150.jpg: adding to list
+0028.393 (0) finding files: Website5-179x300.jpg: adding to list
+0028.394 (0) finding files: Website5-300x100.jpg: adding to list
+0028.394 (0) finding files: Website5-613x1024.jpg: adding to list
+0028.394 (0) finding files: Website5-639x300.jpg: adding to list
+0028.395 (0) finding files: Website5-89x150.jpg: adding to list
+0028.395 (0) finding files: Website5-940x364.jpg: adding to list
+0028.396 (0) finding files: widget-1-125x125.jpg: adding to list
+0028.396 (0) finding files: widget-1-150x150.jpg: adding to list
+0028.397 (0) finding files: widget-1-240x150.jpg: adding to list
+0028.397 (0) finding files: widget-1-300x100.jpg: adding to list
+0028.397 (0) finding files: widget-1-300x187.jpg: adding to list
+0028.398 (0) finding files: widget-1-510x300.jpg: adding to list
+0028.398 (0) finding files: widget-1.jpg: adding to list
+0028.399 (0) finding files: widget-2-125x125.jpg: adding to list
+0028.399 (0) finding files: widget-2-150x150.jpg: adding to list
+0028.399 (0) finding files: widget-2-240x150.jpg: adding to list
+0028.400 (0) finding files: widget-2-300x100.jpg: adding to list
+0028.400 (0) finding files: widget-2-300x187.jpg: adding to list
+0028.401 (0) finding files: widget-2-510x300.jpg: adding to list
+0028.401 (0) finding files: widget-2.jpg: adding to list
+0028.401 (0) finding files: widget-3-125x125.jpg: adding to list
+0028.402 (0) finding files: widget-3-150x150.jpg: adding to list
+0028.402 (0) finding files: widget-3-240x150.jpg: adding to list
+0028.403 (0) finding files: widget-3-300x100.jpg: adding to list
+0028.403 (0) finding files: widget-3-300x187.jpg: adding to list
+0028.403 (0) finding files: widget-3-510x300.jpg: adding to list
+0028.404 (0) finding files: widget-3.jpg: adding to list
+0028.404 (0) finding files: Workout-Photo-125x125.jpg: adding to list
+0028.405 (0) finding files: Workout-Photo-150x150.jpg: adding to list
+0028.405 (0) finding files: Workout-Photo-282x150.jpg: adding to list
+0028.405 (0) finding files: Workout-Photo-300x100.jpg: adding to list
+0028.406 (0) finding files: Workout-Photo-300x159.jpg: adding to list
+0028.406 (0) finding files: Workout-Photo-639x300.jpg: adding to list
+0028.407 (0) finding files: Workout-Photo-940x364.jpg: adding to list
+0028.407 (0) finding files: Workout-Photo.jpg: adding to list
+0028.408 (0) finding files: The-PilatesBarre-Ext-01.jpg: adding to list
+0028.408 (0) finding files: The-PilatesBarre-Ext-01-150x150.jpg: adding to list
+0028.408 (0) finding files: The-PilatesBarre-Ext-01-300x193.jpg: adding to list
+0028.409 (0) finding files: The-PilatesBarre-Ext-01-232x150.jpg: adding to list
+0028.409 (0) finding files: The-PilatesBarre-Ext-01-300x100.jpg: adding to list
+0028.410 (0) finding files: The-PilatesBarre-Ext-01-125x125.jpg: adding to list
+0028.410 (0) finding files: The-PilatesBarre-Int-02.jpg: adding to list
+0028.410 (0) finding files: The-PilatesBarre-Int-02-150x150.jpg: adding to list
+0028.411 (0) finding files: The-PilatesBarre-Int-02-300x193.jpg: adding to list
+0028.411 (0) finding files: The-PilatesBarre-Int-02-232x150.jpg: adding to list
+0028.412 (0) finding files: The-PilatesBarre-Int-02-300x100.jpg: adding to list
+0028.412 (0) finding files: The-PilatesBarre-Int-02-125x125.jpg: adding to list
+0028.412 (0) finding files: The-PilatesBarre-Int-01.jpg: adding to list
+0028.413 (0) finding files: The-PilatesBarre-Int-01-150x150.jpg: adding to list
+0028.413 (0) finding files: The-PilatesBarre-Int-01-300x193.jpg: adding to list
+0028.414 (0) finding files: The-PilatesBarre-Int-01-232x150.jpg: adding to list
+0028.414 (0) finding files: The-PilatesBarre-Int-01-300x100.jpg: adding to list
+0028.414 (0) finding files: The-PilatesBarre-Int-01-125x125.jpg: adding to list
+0028.415 (0) finding files: The-PilatesBarre-Ext-02.jpg: adding to list
+0028.415 (0) finding files: The-PilatesBarre-Ext-02-150x150.jpg: adding to list
+0028.416 (0) finding files: The-PilatesBarre-Ext-02-300x193.jpg: adding to list
+0028.416 (0) finding files: The-PilatesBarre-Ext-02-232x150.jpg: adding to list
+0028.417 (0) finding files: The-PilatesBarre-Ext-02-300x100.jpg: adding to list
+0028.417 (0) finding files: The-PilatesBarre-Ext-02-125x125.jpg: adding to list
+0028.417 (0) finding files: Bennigans-Menu-01.jpg: adding to list
+0028.418 (0) finding files: Bennigans-Menu-01-150x150.jpg: adding to list
+0028.418 (0) finding files: Bennigans-Menu-01-300x239.jpg: adding to list
+0028.419 (0) finding files: Bennigans-Menu-01-465x300.jpg: adding to list
+0028.419 (0) finding files: Bennigans-Menu-01-465x364.jpg: adding to list
+0028.419 (0) finding files: Bennigans-Menu-01-188x150.jpg: adding to list
+0028.420 (0) finding files: Bennigans-Menu-01-300x100.jpg: adding to list
+0028.420 (0) finding files: Bennigans-Menu-01-125x125.jpg: adding to list
+0028.421 (0) finding files: Bennigans-Drink-Menu-Open.jpg: adding to list
+0028.421 (0) finding files: Bennigans-Drink-Menu-Open-150x150.jpg: adding to list
+0028.421 (0) finding files: Bennigans-Drink-Menu-Open-300x242.jpg: adding to list
+0028.422 (0) finding files: Bennigans-Drink-Menu-Open-465x300.jpg: adding to list
+0028.422 (0) finding files: Bennigans-Drink-Menu-Open-465x364.jpg: adding to list
+0028.423 (0) finding files: Bennigans-Drink-Menu-Open-185x150.jpg: adding to list
+0028.423 (0) finding files: Bennigans-Drink-Menu-Open-300x100.jpg: adding to list
+0028.423 (0) finding files: Bennigans-Drink-Menu-Open-125x125.jpg: adding to list
+0028.424 (0) finding files: Bennigans-Tshirt.jpg: adding to list
+0028.424 (0) finding files: Bennigans-Tshirt-150x150.jpg: adding to list
+0028.425 (0) finding files: Bennigans-Tshirt-300x278.jpg: adding to list
+0028.425 (0) finding files: Bennigans-Tshirt-465x300.jpg: adding to list
+0028.426 (0) finding files: Bennigans-Tshirt-465x364.jpg: adding to list
+0028.426 (0) finding files: Bennigans-Tshirt-161x150.jpg: adding to list
+0028.426 (0) finding files: Bennigans-Tshirt-300x100.jpg: adding to list
+0028.427 (0) finding files: Bennigans-Tshirt-125x125.jpg: adding to list
+0028.427 (0) finding files: Bennigans-Tshirt-02.jpg: adding to list
+0028.428 (0) finding files: Bennigans-Tshirt-02-150x150.jpg: adding to list
+0028.428 (0) finding files: Bennigans-Tshirt-02-300x278.jpg: adding to list
+0028.428 (0) finding files: Bennigans-Tshirt-02-465x300.jpg: adding to list
+0028.429 (0) finding files: Bennigans-Tshirt-02-465x364.jpg: adding to list
+0028.429 (0) finding files: Bennigans-Tshirt-02-161x150.jpg: adding to list
+0028.430 (0) finding files: Bennigans-Tshirt-02-300x100.jpg: adding to list
+0028.430 (0) finding files: Bennigans-Tshirt-02-125x125.jpg: adding to list
+0028.430 (0) finding files: Beverage-Metrics-Logo.png: adding to list
+0028.431 (0) finding files: Beverage-Metrics-Logo-150x150.png: adding to list
+0028.431 (0) finding files: Beverage-Metrics-Logo-300x100.png: adding to list
+0028.432 (0) finding files: Beverage-Metrics-Logo-639x300.png: adding to list
+0028.432 (0) finding files: Beverage-Metrics-Logo-449x150.png: adding to list
+0028.432 (0) finding files: Beverage-Metrics-Logo-125x125.png: adding to list
+0028.433 (0) finding files: dee-lincolns-header.jpg: adding to list
+0028.433 (0) finding files: dee-lincolns-header-150x150.jpg: adding to list
+0028.434 (0) finding files: dee-lincolns-header-300x83.jpg: adding to list
+0028.434 (0) finding files: dee-lincolns-header-1024x284.jpg: adding to list
+0028.435 (0) finding files: dee-lincolns-header-639x300.jpg: adding to list
+0028.435 (0) finding files: dee-lincolns-header-970x364.jpg: adding to list
+0028.435 (0) finding files: dee-lincolns-header-540x150.jpg: adding to list
+0028.436 (0) finding files: dee-lincolns-header-300x100.jpg: adding to list
+0028.436 (0) finding files: dee-lincolns-header-125x125.jpg: adding to list
+0028.437 (0) finding files: dee-lincoln-cover.jpg: adding to list
+0028.437 (0) finding files: dee-lincoln-cover-150x150.jpg: adding to list
+0028.437 (0) finding files: dee-lincoln-cover-300x300.jpg: adding to list
+0028.438 (0) finding files: dee-lincoln-cover-440x300.jpg: adding to list
+0028.438 (0) finding files: dee-lincoln-cover-440x364.jpg: adding to list
+0028.439 (0) finding files: dee-lincoln-cover-300x100.jpg: adding to list
+0028.439 (0) finding files: dee-lincoln-cover-125x125.jpg: adding to list
+0028.440 (0) finding files: dee-lincolns-logo.png: adding to list
+0028.440 (0) finding files: dee-lincolns-logo-150x150.png: adding to list
+0028.440 (0) finding files: dee-lincolns-logo-300x117.png: adding to list
+0028.441 (0) finding files: dee-lincolns-logo-1024x400.png: adding to list
+0028.441 (0) finding files: dee-lincolns-logo-639x300.png: adding to list
+0028.442 (0) finding files: dee-lincolns-logo-970x364.png: adding to list
+0028.442 (0) finding files: dee-lincolns-logo-384x150.png: adding to list
+0028.442 (0) finding files: dee-lincolns-logo-300x100.png: adding to list
+0028.443 (0) finding files: dee-lincolns-logo-125x125.png: adding to list
+0028.443 (0) finding files: dee-lincolns-9001.jpg: adding to list
+0028.444 (0) finding files: dee-lincolns-9001-150x150.jpg: adding to list
+0028.444 (0) finding files: dee-lincolns-9001-300x199.jpg: adding to list
+0028.444 (0) finding files: dee-lincolns-9001-1024x682.jpg: adding to list
+0028.445 (0) finding files: dee-lincolns-9001-639x300.jpg: adding to list
+0028.445 (0) finding files: dee-lincolns-9001-970x364.jpg: adding to list
+0028.446 (0) finding files: dee-lincolns-9001-225x150.jpg: adding to list
+0028.446 (0) finding files: dee-lincolns-9001-300x100.jpg: adding to list
+0028.446 (0) finding files: dee-lincolns-9001-125x125.jpg: adding to list
+0028.447 (0) finding files: dee-lincolns-9050.jpg: adding to list
+0028.447 (0) finding files: dee-lincolns-9050-150x150.jpg: adding to list
+0028.448 (0) finding files: dee-lincolns-9050-300x199.jpg: adding to list
+0028.448 (0) finding files: dee-lincolns-9050-1024x682.jpg: adding to list
+0028.449 (0) finding files: dee-lincolns-9050-639x300.jpg: adding to list
+0028.449 (0) finding files: dee-lincolns-9050-970x364.jpg: adding to list
+0028.449 (0) finding files: dee-lincolns-9050-225x150.jpg: adding to list
+0028.450 (0) finding files: dee-lincolns-9050-300x100.jpg: adding to list
+0028.450 (0) finding files: dee-lincolns-9050-125x125.jpg: adding to list
+0028.451 (0) finding files: dee-lincolns-9067.jpg: adding to list
+0028.451 (0) finding files: dee-lincolns-9067-150x150.jpg: adding to list
+0028.451 (0) finding files: dee-lincolns-9067-300x240.jpg: adding to list
+0028.452 (0) finding files: dee-lincolns-9067-1024x819.jpg: adding to list
+0028.452 (0) finding files: dee-lincolns-9067-639x300.jpg: adding to list
+0028.453 (0) finding files: dee-lincolns-9067-970x364.jpg: adding to list
+0028.453 (0) finding files: dee-lincolns-9067-187x150.jpg: adding to list
+0028.453 (0) finding files: dee-lincolns-9067-300x100.jpg: adding to list
+0028.454 (0) finding files: dee-lincolns-9067-125x125.jpg: adding to list
+0028.454 (0) finding files: dee-lincolns-9104.jpg: adding to list
+0028.455 (0) finding files: dee-lincolns-9104-150x150.jpg: adding to list
+0028.455 (0) finding files: dee-lincolns-9104-300x199.jpg: adding to list
+0028.455 (0) finding files: dee-lincolns-9104-1024x682.jpg: adding to list
+0028.456 (0) finding files: dee-lincolns-9104-639x300.jpg: adding to list
+0028.456 (0) finding files: dee-lincolns-9104-970x364.jpg: adding to list
+0028.457 (0) finding files: dee-lincolns-9104-225x150.jpg: adding to list
+0028.457 (0) finding files: dee-lincolns-9104-300x100.jpg: adding to list
+0028.458 (0) finding files: dee-lincolns-9104-125x125.jpg: adding to list
+0028.458 (0) finding files: dee-lincolns-9162.jpg: adding to list
+0028.458 (0) finding files: dee-lincolns-9162-150x150.jpg: adding to list
+0028.459 (0) finding files: dee-lincolns-9162-300x240.jpg: adding to list
+0028.459 (0) finding files: dee-lincolns-9162-1024x819.jpg: adding to list
+0028.460 (0) finding files: dee-lincolns-9162-639x300.jpg: adding to list
+0028.464 (0) finding files: dee-lincolns-9162-970x364.jpg: adding to list
+0028.464 (0) finding files: dee-lincolns-9162-187x150.jpg: adding to list
+0028.465 (0) finding files: dee-lincolns-9162-300x100.jpg: adding to list
+0028.465 (0) finding files: dee-lincolns-9162-125x125.jpg: adding to list
+0028.465 (0) finding files: dee-lincolns-9167.jpg: adding to list
+0028.466 (0) finding files: dee-lincolns-9167-150x150.jpg: adding to list
+0028.466 (0) finding files: dee-lincolns-9167-300x199.jpg: adding to list
+0028.467 (0) finding files: dee-lincolns-9167-1024x682.jpg: adding to list
+0028.467 (0) finding files: dee-lincolns-9167-639x300.jpg: adding to list
+0028.468 (0) finding files: dee-lincolns-9167-970x364.jpg: adding to list
+0028.468 (0) finding files: dee-lincolns-9167-225x150.jpg: adding to list
+0028.469 (0) finding files: dee-lincolns-9167-300x100.jpg: adding to list
+0028.469 (0) finding files: dee-lincolns-9167-125x125.jpg: adding to list
+0028.469 (0) finding files: dee-lincolns-9171.jpg: adding to list
+0028.470 (0) finding files: dee-lincolns-9171-150x150.jpg: adding to list
+0028.470 (0) finding files: dee-lincolns-9171-300x199.jpg: adding to list
+0028.471 (0) finding files: dee-lincolns-9171-1024x682.jpg: adding to list
+0028.472 (0) finding files: dee-lincolns-9171-639x300.jpg: adding to list
+0028.475 (0) finding files: dee-lincolns-9171-970x364.jpg: adding to list
+0028.475 (0) finding files: dee-lincolns-9171-225x150.jpg: adding to list
+0028.476 (0) finding files: dee-lincolns-9171-300x100.jpg: adding to list
+0028.476 (0) finding files: dee-lincolns-9171-125x125.jpg: adding to list
+0028.477 (0) finding files: dee-lincolns-90671.jpg: adding to list
+0028.477 (0) finding files: dee-lincolns-90671-150x150.jpg: adding to list
+0028.478 (0) finding files: dee-lincolns-90671-300x199.jpg: adding to list
+0028.478 (0) finding files: dee-lincolns-90671-1024x682.jpg: adding to list
+0028.478 (0) finding files: dee-lincolns-90671-639x300.jpg: adding to list
+0028.479 (0) finding files: dee-lincolns-90671-970x364.jpg: adding to list
+0028.479 (0) finding files: dee-lincolns-90671-225x150.jpg: adding to list
+0028.480 (0) finding files: dee-lincolns-90671-300x100.jpg: adding to list
+0028.480 (0) finding files: dee-lincolns-90671-125x125.jpg: adding to list
+0028.481 (0) finding files: dee-lincolns-91621.jpg: adding to list
+0028.481 (0) finding files: dee-lincolns-91621-150x150.jpg: adding to list
+0028.481 (0) finding files: dee-lincolns-91621-300x199.jpg: adding to list
+0028.482 (0) finding files: dee-lincolns-91621-1024x682.jpg: adding to list
+0028.482 (0) finding files: dee-lincolns-91621-639x300.jpg: adding to list
+0028.483 (0) finding files: dee-lincolns-91621-970x364.jpg: adding to list
+0028.483 (0) finding files: dee-lincolns-91621-225x150.jpg: adding to list
+0028.483 (0) finding files: dee-lincolns-91621-300x100.jpg: adding to list
+0028.484 (0) finding files: dee-lincolns-91621-125x125.jpg: adding to list
+0028.484 (0) finding files: dee-lincolns-9145.jpg: adding to list
+0028.485 (0) finding files: dee-lincolns-9145-150x150.jpg: adding to list
+0028.485 (0) finding files: dee-lincolns-9145-300x199.jpg: adding to list
+0028.486 (0) finding files: dee-lincolns-9145-1024x682.jpg: adding to list
+0028.486 (0) finding files: dee-lincolns-9145-639x300.jpg: adding to list
+0028.486 (0) finding files: dee-lincolns-9145-970x364.jpg: adding to list
+0028.487 (0) finding files: dee-lincolns-9145-225x150.jpg: adding to list
+0028.487 (0) finding files: dee-lincolns-9145-300x100.jpg: adding to list
+0028.488 (0) finding files: dee-lincolns-9145-125x125.jpg: adding to list
+0028.488 (0) finding files: dee-lincolns-logo1.png: adding to list
+0028.488 (0) finding files: bklyn-1834-logo.png: adding to list
+0028.489 (0) finding files: dee-lincolns-logo1-150x150.png: adding to list
+0028.489 (0) finding files: dee-lincolns-logo1-300x126.png: adding to list
+0028.490 (0) finding files: dee-lincolns-logo1-1024x431.png: adding to list
+0028.490 (0) finding files: dee-lincolns-logo1-639x300.png: adding to list
+0028.491 (0) finding files: dee-lincolns-logo1-970x364.png: adding to list
+0028.491 (0) finding files: dee-lincolns-logo1-356x150.png: adding to list
+0028.491 (0) finding files: dee-lincolns-logo1-300x100.png: adding to list
+0028.492 (0) finding files: dee-lincolns-logo1-125x125.png: adding to list
+0028.492 (0) finding files: bklyn-1834-logo-150x150.png: adding to list
+0028.493 (0) finding files: bklyn-1834-logo-300x121.png: adding to list
+0028.493 (0) finding files: bklyn-1834-logo-1024x414.png: adding to list
+0028.494 (0) finding files: bklyn-1834-logo-639x300.png: adding to list
+0028.494 (0) finding files: bklyn-1834-logo-970x364.png: adding to list
+0028.494 (0) finding files: bklyn-1834-logo-370x150.png: adding to list
+0028.495 (0) finding files: bklyn-1834-logo-300x100.png: adding to list
+0028.495 (0) finding files: bklyn-1834-logo-125x125.png: adding to list
+0028.496 (0) finding files: bklyn-1834-cover.jpg: adding to list
+0028.496 (0) finding files: bklyn-1834-cover-150x150.jpg: adding to list
+0028.496 (0) finding files: bklyn-1834-cover-300x300.jpg: adding to list
+0028.497 (0) finding files: bklyn-1834-cover-440x300.jpg: adding to list
+0028.497 (0) finding files: bklyn-1834-cover-440x364.jpg: adding to list
+0028.498 (0) finding files: bklyn-1834-cover-300x100.jpg: adding to list
+0028.498 (0) finding files: bklyn-1834-cover-125x125.jpg: adding to list
+0028.498 (0) finding files: bklyn-1834-header.jpg: adding to list
+0028.499 (0) finding files: bklyn-1834-header-150x150.jpg: adding to list
+0028.499 (0) finding files: bklyn-1834-header-300x83.jpg: adding to list
+0028.500 (0) finding files: bklyn-1834-header-1024x284.jpg: adding to list
+0028.500 (0) finding files: bklyn-1834-header-639x300.jpg: adding to list
+0028.501 (0) finding files: bklyn-1834-header-970x364.jpg: adding to list
+0028.501 (0) finding files: bklyn-1834-header-540x150.jpg: adding to list
+0028.501 (0) finding files: bklyn-1834-header-300x100.jpg: adding to list
+0028.502 (0) finding files: bklyn-1834-header-125x125.jpg: adding to list
+0028.502 (0) finding files: BKLYN1834-Website.jpg: adding to list
+0028.503 (0) finding files: BKLYN1834-Website-150x150.jpg: adding to list
+0028.503 (0) finding files: BKLYN1834-Website-157x300.jpg: adding to list
+0028.504 (0) finding files: BKLYN1834-Website-538x1024.jpg: adding to list
+0028.504 (0) finding files: BKLYN1834-Website-639x300.jpg: adding to list
+0028.504 (0) finding files: BKLYN1834-Website-970x364.jpg: adding to list
+0028.505 (0) finding files: BKLYN1834-Website-78x150.jpg: adding to list
+0028.505 (0) finding files: BKLYN1834-Website-300x100.jpg: adding to list
+0028.506 (0) finding files: BKLYN1834-Website-125x125.jpg: adding to list
+0028.506 (0) Beginning creation of dump of uploads (split every: 800 Mb)
+0029.105 (0) Total entities for the zip file: 3 directories, 1380 files, 63.2 Mb
+0029.137 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0029.161 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 200 files added (on-disk size: 0 Kb)
+0029.184 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 300 files added (on-disk size: 0 Kb)
+0029.209 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 400 files added (on-disk size: 0 Kb)
+0029.235 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 500 files added (on-disk size: 0 Kb)
+0029.235 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (18.1 Mb, 1380 files batched, 501 (501) added so far); re-opening (prior size: 0 Kb)
+0031.987 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 600 files added (on-disk size: 18183.9 Kb)
+0032.031 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 700 files added (on-disk size: 18183.9 Kb)
+0032.075 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 800 files added (on-disk size: 18183.9 Kb)
+0032.121 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 900 files added (on-disk size: 18183.9 Kb)
+0032.165 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 1000 files added (on-disk size: 18183.9 Kb)
+0032.167 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (20.3 Mb, 1380 files batched, 501 (1002) added so far); re-opening (prior size: 18183.9 Kb)
+0036.615 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 1100 files added (on-disk size: 38297 Kb)
+0036.658 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 1200 files added (on-disk size: 38297 Kb)
+0036.687 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip.tmp: 1300 files added (on-disk size: 38297 Kb)
+0044.850 (0) Created uploads zip (0) - 63014.9 Kb in 16.3 s (3856.2 Kb/s) (SHA1 checksum: 3ecbd611f47f8f891151caf81c4bc2b688ac75af)
+0044.853 (0) Beginning backup of other directories found in the content directory (index: 0)
+0044.854 (0) Looking for candidates to back up in: /var/www/vhosts/theflipgroup.com/wordpress/wp-content
+0044.855 (0) finding files: index.php: adding to list
+0044.855 (0) finding files: languages: adding to list
+0044.856 (0) finding files: plugins: skipping: this is the plugins directory
+0044.857 (0) finding files: themes: skipping: this is the themes directory
+0044.857 (0) finding files: upgrade: skipping: excluded by options
+0044.858 (0) finding files: uploads: skipping: this is the uploads directory
+0044.859 (0) finding files: uploads-old: adding to list
+0044.859 (0) finding files: updraft: skipping: this is the updraft directory
+0044.953 (0) Total entities for the zip file: 5 directories, 158 files, 17 Mb
+0044.996 (0) Zip: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-others.zip.tmp: 100 files added (on-disk size: 0 Kb)
+0049.041 (0) Created others zip (0) - 5008.2 Kb in 4.2 s (1199.1 Kb/s) (SHA1 checksum: 7bd8a8aa6eefef52eac71f2a047064bc1d02115f)
+0049.044 (0) Saving backup status to database (elements: 8)
+0049.045 (0) Beginning creation of database dump
+0049.106 (0) Table wp_options: Total expected rows (approximate): 263
+0049.138 (0) Table wp_options: Total rows added: 262 in 0.03 seconds
+0049.138 (0) Table wp_options: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_options.table.gz - 96 Kb)
+0049.141 (0) Table wp_users: Total expected rows (approximate): 7
+0049.143 (0) Table wp_users: Total rows added: 7 in 0.00 seconds
+0049.143 (0) Table wp_users: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_users.table.gz - 0 Kb)
+0049.146 (0) Table wp_usermeta: Total expected rows (approximate): 119
+0049.149 (0) Table wp_usermeta: Total rows added: 119 in 0.00 seconds
+0049.150 (0) Table wp_usermeta: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_usermeta.table.gz - 0 Kb)
+0049.152 (0) Table wp_commentmeta: Total expected rows (approximate): 58
+0049.164 (0) Table wp_commentmeta: Total rows added: 58 in 0.01 seconds
+0049.165 (0) Table wp_commentmeta: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_commentmeta.table.gz - 0 Kb)
+0049.169 (0) Table wp_comments: Total expected rows (approximate): 39
+0049.187 (0) Table wp_comments: Total rows added: 39 in 0.02 seconds
+0049.188 (0) Table wp_comments: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_comments.table.gz - 0 Kb)
+0049.196 (0) Table wp_links: Total expected rows (approximate): 0
+0049.198 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0049.199 (0) Table wp_links: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_links.table.gz - 0 Kb)
+0049.202 (0) Table wp_postmeta: Total expected rows (approximate): 1247
+0049.264 (0) Table wp_postmeta: Total rows added: 1247 in 0.06 seconds
+0049.265 (0) Table wp_postmeta: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_postmeta.table.gz - 16 Kb)
+0049.269 (0) Table wp_posts: Total expected rows (approximate): 252
+0049.315 (0) Table wp_posts: Total rows added: 252 in 0.05 seconds
+0049.316 (0) Table wp_posts: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_posts.table.gz - 0 Kb)
+0049.319 (0) Table wp_term_relationships: Total expected rows (approximate): 30
+0049.321 (0) Table wp_term_relationships: Total rows added: 30 in 0.00 seconds
+0049.322 (0) Table wp_term_relationships: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_term_relationships.table.gz - 0 Kb)
+0049.325 (0) Table wp_term_taxonomy: Total expected rows (approximate): 5
+0049.327 (0) Table wp_term_taxonomy: Total rows added: 5 in 0.00 seconds
+0049.327 (0) Table wp_term_taxonomy: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_term_taxonomy.table.gz - 0 Kb)
+0049.330 (0) Table wp_terms: Total expected rows (approximate): 5
+0049.332 (0) Table wp_terms: Total rows added: 5 in 0.00 seconds
+0049.332 (0) Table wp_terms: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_terms.table.gz - 0 Kb)
+0049.345 (0) Table wp_csp_access: Total expected rows (approximate): 1
+0049.358 (0) Table wp_csp_access: Total rows added: 1 in 0.01 seconds
+0049.358 (0) Table wp_csp_access: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_access.table.gz - 0 Kb)
+0049.370 (0) Table wp_csp_email_templates: Total expected rows (approximate): 4
+0049.380 (0) Table wp_csp_email_templates: Total rows added: 4 in 0.01 seconds
+0049.381 (0) Table wp_csp_email_templates: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_email_templates.table.gz - 0 Kb)
+0049.525 (0) Table wp_csp_files: Total expected rows (approximate): 0
+0049.528 (0) Table wp_csp_files: Total rows added: 0 in 0.00 seconds
+0049.528 (0) Table wp_csp_files: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_files.table.gz - 0 Kb)
+0049.531 (0) Table wp_csp_htmltype: Total expected rows (approximate): 18
+0049.532 (0) Table wp_csp_htmltype: Total rows added: 18 in 0.00 seconds
+0049.533 (0) Table wp_csp_htmltype: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_htmltype.table.gz - 0 Kb)
+0049.543 (0) Table wp_csp_log: Total expected rows (approximate): 0
+0049.544 (0) Table wp_csp_log: Total rows added: 0 in 0.00 seconds
+0049.545 (0) Table wp_csp_log: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_log.table.gz - 0 Kb)
+0049.547 (0) Table wp_csp_modules: Total expected rows (approximate): 16
+0049.549 (0) Table wp_csp_modules: Total rows added: 16 in 0.00 seconds
+0049.550 (0) Table wp_csp_modules: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_modules.table.gz - 0 Kb)
+0049.552 (0) Table wp_csp_modules_type: Total expected rows (approximate): 7
+0049.554 (0) Table wp_csp_modules_type: Total rows added: 7 in 0.00 seconds
+0049.554 (0) Table wp_csp_modules_type: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_modules_type.table.gz - 0 Kb)
+0049.563 (0) Table wp_csp_options: Total expected rows (approximate): 72
+0049.568 (0) Table wp_csp_options: Total rows added: 72 in 0.00 seconds
+0049.569 (0) Table wp_csp_options: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_options.table.gz - 0 Kb)
+0049.572 (0) Table wp_csp_options_categories: Total expected rows (approximate): 4
+0049.574 (0) Table wp_csp_options_categories: Total rows added: 4 in 0.00 seconds
+0049.575 (0) Table wp_csp_options_categories: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_options_categories.table.gz - 0 Kb)
+0049.585 (0) Table wp_csp_subscribers: Total expected rows (approximate): 0
+0049.596 (0) Table wp_csp_subscribers: Total rows added: 0 in 0.01 seconds
+0049.596 (0) Table wp_csp_subscribers: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_subscribers.table.gz - 0 Kb)
+0049.599 (0) Table wp_new_royalsliders: Total expected rows (approximate): 2
+0049.601 (0) Table wp_new_royalsliders: Total rows added: 2 in 0.00 seconds
+0049.602 (0) Table wp_new_royalsliders: finishing file (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_new_royalsliders.table.gz - 0 Kb)
+0049.605 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_options.table.gz (1/22): adding to final database dump
+0049.632 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_users.table.gz (2/22): adding to final database dump
+0049.633 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_usermeta.table.gz (3/22): adding to final database dump
+0049.634 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_commentmeta.table.gz (4/22): adding to final database dump
+0049.635 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_comments.table.gz (5/22): adding to final database dump
+0049.638 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_links.table.gz (6/22): adding to final database dump
+0049.639 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_postmeta.table.gz (7/22): adding to final database dump
+0049.656 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_posts.table.gz (8/22): adding to final database dump
+0049.662 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_term_relationships.table.gz (9/22): adding to final database dump
+0049.663 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_term_taxonomy.table.gz (10/22): adding to final database dump
+0049.664 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_terms.table.gz (11/22): adding to final database dump
+0049.664 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_access.table.gz (12/22): adding to final database dump
+0049.665 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_email_templates.table.gz (13/22): adding to final database dump
+0049.666 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_files.table.gz (14/22): adding to final database dump
+0049.667 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_htmltype.table.gz (15/22): adding to final database dump
+0049.668 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_log.table.gz (16/22): adding to final database dump
+0049.669 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_modules.table.gz (17/22): adding to final database dump
+0049.670 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_modules_type.table.gz (18/22): adding to final database dump
+0049.670 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_options.table.gz (19/22): adding to final database dump
+0049.672 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_options_categories.table.gz (20/22): adding to final database dump
+0049.672 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_csp_subscribers.table.gz (21/22): adding to final database dump
+0049.673 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db-table-wp_new_royalsliders.table.gz (22/22): adding to final database dump
+0049.675 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db.gz: finished writing out complete database file (144 Kb)
+0049.679 (0) Total database tables backed up: 22 (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db.gz: checksum (SHA1): 0c34fa94bc5b8a664ced1186634df7ac34c64278)
+0049.681 (0) Saving backup history
+0049.684 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0049.685 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0049.685 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0049.686 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-others.zip: others: This file has not yet been successfully uploaded: will queue
+0049.687 (0) backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db.gz: db: This file has not yet been successfully uploaded: will queue
+0049.688 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0049.690 (0) Cloud backup selection: ftp
+0049.690 (0) Beginning dispatch of backup to remote (ftp)
+0050.467 (0) FTP upload attempt: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip -> ftp://infinitebackup@173.201.145.128/InfiniteAgency/backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip
+0051.639 (0) Ftp chunked upload: 3.4 % uploaded
+0051.863 (0) Ftp chunked upload: 6.8 % uploaded
+0052.008 (0) Ftp chunked upload: 10.1 % uploaded
+0052.087 (0) Ftp chunked upload: 13.5 % uploaded
+0052.161 (0) Ftp chunked upload: 16.9 % uploaded
+0052.235 (0) Ftp chunked upload: 20.3 % uploaded
+0052.310 (0) Ftp chunked upload: 23.6 % uploaded
+0052.386 (0) Ftp chunked upload: 27 % uploaded
+0052.453 (0) Ftp chunked upload: 30.4 % uploaded
+0052.469 (0) Ftp chunked upload: 33.8 % uploaded
+0052.532 (0) Ftp chunked upload: 37.1 % uploaded
+0052.554 (0) Ftp chunked upload: 40.5 % uploaded
+0052.604 (0) Ftp chunked upload: 43.9 % uploaded
+0052.627 (0) Ftp chunked upload: 47.3 % uploaded
+0052.661 (0) Ftp chunked upload: 50.7 % uploaded
+0052.694 (0) Ftp chunked upload: 54 % uploaded
+0052.729 (0) Ftp chunked upload: 57.4 % uploaded
+0052.744 (0) Ftp chunked upload: 60.8 % uploaded
+0052.767 (0) Ftp chunked upload: 64.2 % uploaded
+0052.783 (0) Ftp chunked upload: 67.5 % uploaded
+0052.808 (0) Ftp chunked upload: 70.9 % uploaded
+0052.835 (0) Ftp chunked upload: 74.3 % uploaded
+0052.850 (0) Ftp chunked upload: 77.7 % uploaded
+0052.872 (0) Ftp chunked upload: 81 % uploaded
+0052.888 (0) Ftp chunked upload: 84.4 % uploaded
+0052.903 (0) Ftp chunked upload: 87.8 % uploaded
+0052.919 (0) Ftp chunked upload: 91.2 % uploaded
+0052.934 (0) Ftp chunked upload: 94.6 % uploaded
+0052.949 (0) Ftp chunked upload: 97.9 % uploaded
+0054.628 (0) FTP upload attempt successful (15276.1Kb in 4.16s)
+0054.629 (0) Recording as successfully uploaded: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip (a25d5415cd8ee92df7f15867089e8e7e)
+0054.636 (0) Deleting local file: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-plugins.zip: OK
+0054.637 (0) FTP upload attempt: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-themes.zip -> ftp://infinitebackup@173.201.145.128/InfiniteAgency/backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-themes.zip
+0055.570 (0) Ftp chunked upload: 0.9 % uploaded
+0055.732 (0) Ftp chunked upload: 1.9 % uploaded
+0055.826 (0) Ftp chunked upload: 2.8 % uploaded
+0055.921 (0) Ftp chunked upload: 3.7 % uploaded
+0055.977 (0) Ftp chunked upload: 4.7 % uploaded
+0056.038 (0) Ftp chunked upload: 5.6 % uploaded
+0056.075 (0) Ftp chunked upload: 6.6 % uploaded
+0056.125 (0) Ftp chunked upload: 7.5 % uploaded
+0056.146 (0) Ftp chunked upload: 8.4 % uploaded
+0056.195 (0) Ftp chunked upload: 9.4 % uploaded
+0056.219 (0) Ftp chunked upload: 10.3 % uploaded
+0056.240 (0) Ftp chunked upload: 11.2 % uploaded
+0056.279 (0) Ftp chunked upload: 12.2 % uploaded
+0056.302 (0) Ftp chunked upload: 13.1 % uploaded
+0056.345 (0) Ftp chunked upload: 14 % uploaded
+0056.368 (0) Ftp chunked upload: 15 % uploaded
+0056.383 (0) Ftp chunked upload: 15.9 % uploaded
+0056.398 (0) Ftp chunked upload: 16.9 % uploaded
+0056.428 (0) Ftp chunked upload: 17.8 % uploaded
+0056.446 (0) Ftp chunked upload: 18.7 % uploaded
+0056.462 (0) Ftp chunked upload: 19.7 % uploaded
+0056.476 (0) Ftp chunked upload: 20.6 % uploaded
+0056.513 (0) Ftp chunked upload: 21.5 % uploaded
+0056.540 (0) Ftp chunked upload: 22.5 % uploaded
+0056.562 (0) Ftp chunked upload: 23.4 % uploaded
+0056.581 (0) Ftp chunked upload: 24.3 % uploaded
+0056.601 (0) Ftp chunked upload: 25.3 % uploaded
+0056.700 (0) Ftp chunked upload: 26.2 % uploaded
+0060.584 (0) Ftp chunked upload: 27.1 % uploaded
+0060.597 (0) Ftp chunked upload: 28.1 % uploaded
+0060.610 (0) Ftp chunked upload: 29 % uploaded
+0062.281 (0) Ftp chunked upload: 30 % uploaded
+0062.293 (0) Ftp chunked upload: 30.9 % uploaded
+0063.165 (0) Ftp chunked upload: 31.8 % uploaded
+0063.397 (0) Ftp chunked upload: 32.8 % uploaded
+0063.524 (0) Ftp chunked upload: 33.7 % uploaded
+0063.629 (0) Ftp chunked upload: 34.6 % uploaded
+0063.682 (0) Ftp chunked upload: 35.6 % uploaded
+0065.316 (0) Ftp chunked upload: 36.5 % uploaded
+0065.330 (0) Ftp chunked upload: 37.4 % uploaded
+0065.345 (0) Ftp chunked upload: 38.4 % uploaded
+0065.360 (0) Ftp chunked upload: 39.3 % uploaded
+0065.377 (0) Ftp chunked upload: 40.3 % uploaded
+0066.156 (0) Ftp chunked upload: 41.2 % uploaded
+0066.391 (0) Ftp chunked upload: 42.1 % uploaded
+0066.473 (0) Ftp chunked upload: 43.1 % uploaded
+0067.891 (0) Ftp chunked upload: 44 % uploaded
+0068.373 (0) Ftp chunked upload: 44.9 % uploaded
+0068.696 (0) Ftp chunked upload: 45.9 % uploaded
+0068.713 (0) Ftp chunked upload: 46.8 % uploaded
+0068.726 (0) Ftp chunked upload: 47.7 % uploaded
+0069.263 (0) Ftp chunked upload: 48.7 % uploaded
+0069.771 (0) Ftp chunked upload: 49.6 % uploaded
+0069.887 (0) Ftp chunked upload: 50.6 % uploaded
+0069.967 (0) Ftp chunked upload: 51.5 % uploaded
+0070.304 (0) Ftp chunked upload: 52.4 % uploaded
+0071.245 (0) Ftp chunked upload: 53.4 % uploaded
+0073.184 (0) Ftp chunked upload: 54.3 % uploaded
+0073.196 (0) Ftp chunked upload: 55.2 % uploaded
+0073.210 (0) Ftp chunked upload: 56.2 % uploaded
+0073.222 (0) Ftp chunked upload: 57.1 % uploaded
+0074.260 (0) Ftp chunked upload: 58 % uploaded
+0074.456 (0) Ftp chunked upload: 59 % uploaded
+0074.569 (0) Ftp chunked upload: 59.9 % uploaded
+0074.679 (0) Ftp chunked upload: 60.9 % uploaded
+0074.758 (0) Ftp chunked upload: 61.8 % uploaded
+0074.839 (0) Ftp chunked upload: 62.7 % uploaded
+0074.918 (0) Ftp chunked upload: 63.7 % uploaded
+0074.996 (0) Ftp chunked upload: 64.6 % uploaded
+0075.075 (0) Ftp chunked upload: 65.5 % uploaded
+0075.151 (0) Ftp chunked upload: 66.5 % uploaded
+0075.227 (0) Ftp chunked upload: 67.4 % uploaded
+0075.304 (0) Ftp chunked upload: 68.3 % uploaded
+0075.383 (0) Ftp chunked upload: 69.3 % uploaded
+0075.459 (0) Ftp chunked upload: 70.2 % uploaded
+0075.538 (0) Ftp chunked upload: 71.1 % uploaded
+0075.618 (0) Ftp chunked upload: 72.1 % uploaded
+0075.694 (0) Ftp chunked upload: 73 % uploaded
+0075.772 (0) Ftp chunked upload: 74 % uploaded
+0075.850 (0) Ftp chunked upload: 74.9 % uploaded
+0075.934 (0) Ftp chunked upload: 75.8 % uploaded
+0076.013 (0) Ftp chunked upload: 76.8 % uploaded
+0076.084 (0) Ftp chunked upload: 77.7 % uploaded
+0076.159 (0) Ftp chunked upload: 78.6 % uploaded
+0076.236 (0) Ftp chunked upload: 79.6 % uploaded
+0076.336 (0) Ftp chunked upload: 80.5 % uploaded
+0076.414 (0) Ftp chunked upload: 81.4 % uploaded
+0076.491 (0) Ftp chunked upload: 82.4 % uploaded
+0076.568 (0) Ftp chunked upload: 83.3 % uploaded
+0076.646 (0) Ftp chunked upload: 84.3 % uploaded
+0076.726 (0) Ftp chunked upload: 85.2 % uploaded
+0076.803 (0) Ftp chunked upload: 86.1 % uploaded
+0076.881 (0) Ftp chunked upload: 87.1 % uploaded
+0076.958 (0) Ftp chunked upload: 88 % uploaded
+0077.035 (0) Ftp chunked upload: 88.9 % uploaded
+0077.141 (0) Ftp chunked upload: 89.9 % uploaded
+0077.219 (0) Ftp chunked upload: 90.8 % uploaded
+0077.296 (0) Ftp chunked upload: 91.7 % uploaded
+0077.373 (0) Ftp chunked upload: 92.7 % uploaded
+0077.451 (0) Ftp chunked upload: 93.6 % uploaded
+0077.528 (0) Ftp chunked upload: 94.6 % uploaded
+0078.066 (0) Ftp chunked upload: 95.5 % uploaded
+0078.079 (0) Ftp chunked upload: 96.4 % uploaded
+0078.092 (0) Ftp chunked upload: 97.4 % uploaded
+0078.108 (0) Ftp chunked upload: 98.3 % uploaded
+0078.128 (0) Ftp chunked upload: 99.2 % uploaded
+0080.058 (0) FTP upload attempt successful (55104.5Kb in 25.42s)
+0080.059 (0) Recording as successfully uploaded: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-themes.zip (94d4bdf4f5f32a64ccb6a2fce26c54d7)
+0080.076 (0) Deleting local file: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-themes.zip: OK
+0080.077 (0) FTP upload attempt: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip -> ftp://infinitebackup@173.201.145.128/InfiniteAgency/backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip
+0081.251 (0) Ftp chunked upload: 0.8 % uploaded
+0081.479 (0) Ftp chunked upload: 1.6 % uploaded
+0081.566 (0) Ftp chunked upload: 2.5 % uploaded
+0081.667 (0) Ftp chunked upload: 3.3 % uploaded
+0081.776 (0) Ftp chunked upload: 4.1 % uploaded
+0081.854 (0) Ftp chunked upload: 4.9 % uploaded
+0081.925 (0) Ftp chunked upload: 5.7 % uploaded
+0082.000 (0) Ftp chunked upload: 6.5 % uploaded
+0082.077 (0) Ftp chunked upload: 7.4 % uploaded
+0082.152 (0) Ftp chunked upload: 8.2 % uploaded
+0082.223 (0) Ftp chunked upload: 9 % uploaded
+0082.265 (0) Ftp chunked upload: 9.8 % uploaded
+0082.317 (0) Ftp chunked upload: 10.6 % uploaded
+0082.385 (0) Ftp chunked upload: 11.5 % uploaded
+0082.454 (0) Ftp chunked upload: 12.3 % uploaded
+0082.522 (0) Ftp chunked upload: 13.1 % uploaded
+0082.543 (0) Ftp chunked upload: 13.9 % uploaded
+0082.612 (0) Ftp chunked upload: 14.7 % uploaded
+0082.679 (0) Ftp chunked upload: 15.6 % uploaded
+0082.714 (0) Ftp chunked upload: 16.4 % uploaded
+0082.769 (0) Ftp chunked upload: 17.2 % uploaded
+0082.822 (0) Ftp chunked upload: 18 % uploaded
+0082.849 (0) Ftp chunked upload: 18.8 % uploaded
+0082.913 (0) Ftp chunked upload: 19.6 % uploaded
+0082.943 (0) Ftp chunked upload: 20.5 % uploaded
+0082.994 (0) Ftp chunked upload: 21.3 % uploaded
+0083.053 (0) Ftp chunked upload: 22.1 % uploaded
+0083.077 (0) Ftp chunked upload: 22.9 % uploaded
+0083.137 (0) Ftp chunked upload: 23.7 % uploaded
+0083.164 (0) Ftp chunked upload: 24.6 % uploaded
+0083.220 (0) Ftp chunked upload: 25.4 % uploaded
+0083.271 (0) Ftp chunked upload: 26.2 % uploaded
+0083.299 (0) Ftp chunked upload: 27 % uploaded
+0083.352 (0) Ftp chunked upload: 27.8 % uploaded
+0083.379 (0) Ftp chunked upload: 28.7 % uploaded
+0083.403 (0) Ftp chunked upload: 29.5 % uploaded
+0083.443 (0) Ftp chunked upload: 30.3 % uploaded
+0083.472 (0) Ftp chunked upload: 31.1 % uploaded
+0083.522 (0) Ftp chunked upload: 31.9 % uploaded
+0083.547 (0) Ftp chunked upload: 32.7 % uploaded
+0083.596 (0) Ftp chunked upload: 33.6 % uploaded
+0083.622 (0) Ftp chunked upload: 34.4 % uploaded
+0083.666 (0) Ftp chunked upload: 35.2 % uploaded
+0083.690 (0) Ftp chunked upload: 36 % uploaded
+0083.738 (0) Ftp chunked upload: 36.8 % uploaded
+0083.760 (0) Ftp chunked upload: 37.7 % uploaded
+0083.806 (0) Ftp chunked upload: 38.5 % uploaded
+0083.831 (0) Ftp chunked upload: 39.3 % uploaded
+0083.869 (0) Ftp chunked upload: 40.1 % uploaded
+0083.898 (0) Ftp chunked upload: 40.9 % uploaded
+0083.922 (0) Ftp chunked upload: 41.8 % uploaded
+0083.958 (0) Ftp chunked upload: 42.6 % uploaded
+0083.977 (0) Ftp chunked upload: 43.4 % uploaded
+0083.996 (0) Ftp chunked upload: 44.2 % uploaded
+0084.036 (0) Ftp chunked upload: 45 % uploaded
+0084.060 (0) Ftp chunked upload: 45.8 % uploaded
+0084.097 (0) Ftp chunked upload: 46.7 % uploaded
+0084.120 (0) Ftp chunked upload: 47.5 % uploaded
+0084.143 (0) Ftp chunked upload: 48.3 % uploaded
+0084.181 (0) Ftp chunked upload: 49.1 % uploaded
+0084.205 (0) Ftp chunked upload: 49.9 % uploaded
+0084.226 (0) Ftp chunked upload: 50.8 % uploaded
+0084.261 (0) Ftp chunked upload: 51.6 % uploaded
+0084.284 (0) Ftp chunked upload: 52.4 % uploaded
+0084.308 (0) Ftp chunked upload: 53.2 % uploaded
+0084.338 (0) Ftp chunked upload: 54 % uploaded
+0084.357 (0) Ftp chunked upload: 54.8 % uploaded
+0084.380 (0) Ftp chunked upload: 55.7 % uploaded
+0084.393 (0) Ftp chunked upload: 56.5 % uploaded
+0084.417 (0) Ftp chunked upload: 57.3 % uploaded
+0084.437 (0) Ftp chunked upload: 58.1 % uploaded
+0084.468 (0) Ftp chunked upload: 58.9 % uploaded
+0084.491 (0) Ftp chunked upload: 59.8 % uploaded
+0084.513 (0) Ftp chunked upload: 60.6 % uploaded
+0084.534 (0) Ftp chunked upload: 61.4 % uploaded
+0084.558 (0) Ftp chunked upload: 62.2 % uploaded
+0084.577 (0) Ftp chunked upload: 63 % uploaded
+0084.594 (0) Ftp chunked upload: 63.9 % uploaded
+0084.623 (0) Ftp chunked upload: 64.7 % uploaded
+0084.642 (0) Ftp chunked upload: 65.5 % uploaded
+0084.657 (0) Ftp chunked upload: 66.3 % uploaded
+0084.675 (0) Ftp chunked upload: 67.1 % uploaded
+0084.698 (0) Ftp chunked upload: 67.9 % uploaded
+0084.712 (0) Ftp chunked upload: 68.8 % uploaded
+0084.725 (0) Ftp chunked upload: 69.6 % uploaded
+0084.738 (0) Ftp chunked upload: 70.4 % uploaded
+0084.752 (0) Ftp chunked upload: 71.2 % uploaded
+0084.777 (0) Ftp chunked upload: 72 % uploaded
+0084.794 (0) Ftp chunked upload: 72.9 % uploaded
+0084.807 (0) Ftp chunked upload: 73.7 % uploaded
+0084.825 (0) Ftp chunked upload: 74.5 % uploaded
+0084.847 (0) Ftp chunked upload: 75.3 % uploaded
+0084.864 (0) Ftp chunked upload: 76.1 % uploaded
+0084.878 (0) Ftp chunked upload: 77 % uploaded
+0084.892 (0) Ftp chunked upload: 77.8 % uploaded
+0084.907 (0) Ftp chunked upload: 78.6 % uploaded
+0084.932 (0) Ftp chunked upload: 79.4 % uploaded
+0084.962 (0) Ftp chunked upload: 80.2 % uploaded
+0084.978 (0) Ftp chunked upload: 81 % uploaded
+0084.996 (0) Ftp chunked upload: 81.9 % uploaded
+0085.019 (0) Ftp chunked upload: 82.7 % uploaded
+0085.035 (0) Ftp chunked upload: 83.5 % uploaded
+0085.050 (0) Ftp chunked upload: 84.3 % uploaded
+0085.067 (0) Ftp chunked upload: 85.1 % uploaded
+0085.092 (0) Ftp chunked upload: 86 % uploaded
+0085.117 (0) Ftp chunked upload: 86.8 % uploaded
+0085.142 (0) Ftp chunked upload: 87.6 % uploaded
+0085.167 (0) Ftp chunked upload: 88.4 % uploaded
+0085.192 (0) Ftp chunked upload: 89.2 % uploaded
+0085.217 (0) Ftp chunked upload: 90.1 % uploaded
+0085.241 (0) Ftp chunked upload: 90.9 % uploaded
+0085.262 (0) Ftp chunked upload: 91.7 % uploaded
+0085.283 (0) Ftp chunked upload: 92.5 % uploaded
+0085.303 (0) Ftp chunked upload: 93.3 % uploaded
+0085.361 (0) Ftp chunked upload: 94.1 % uploaded
+0085.380 (0) Ftp chunked upload: 95 % uploaded
+0085.400 (0) Ftp chunked upload: 95.8 % uploaded
+0085.421 (0) Ftp chunked upload: 96.6 % uploaded
+0085.441 (0) Ftp chunked upload: 97.4 % uploaded
+0085.463 (0) Ftp chunked upload: 98.2 % uploaded
+0085.483 (0) Ftp chunked upload: 99.1 % uploaded
+0085.504 (0) Ftp chunked upload: 99.9 % uploaded
+0087.252 (0) FTP upload attempt successful (63014.9Kb in 7.17s)
+0087.253 (0) Recording as successfully uploaded: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip (a5bf45a04ff83c03e48f20fb97fedbd7)
+0087.271 (0) Deleting local file: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-uploads.zip: OK
+0087.272 (0) FTP upload attempt: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-others.zip -> ftp://infinitebackup@173.201.145.128/InfiniteAgency/backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-others.zip
+0088.686 (0) Ftp chunked upload: 10.3 % uploaded
+0088.915 (0) Ftp chunked upload: 20.6 % uploaded
+0089.059 (0) Ftp chunked upload: 30.9 % uploaded
+0089.138 (0) Ftp chunked upload: 41.2 % uploaded
+0089.217 (0) Ftp chunked upload: 51.5 % uploaded
+0089.287 (0) Ftp chunked upload: 61.8 % uploaded
+0089.360 (0) Ftp chunked upload: 72.1 % uploaded
+0092.752 (0) Ftp chunked upload: 82.4 % uploaded
+0098.012 (0) Ftp chunked upload: 92.7 % uploaded
+0099.126 (0) FTP upload attempt successful (5008.2Kb in 11.85s)
+0099.128 (0) Recording as successfully uploaded: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-others.zip (746e3921918581ab63dd218430fff402)
+0099.133 (0) Deleting local file: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-others.zip: OK
+0099.133 (0) FTP upload attempt: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db.gz -> ftp://infinitebackup@173.201.145.128/InfiniteAgency/backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db.gz
+0100.236 (0) FTP upload attempt successful (169Kb in 1.1s)
+0100.237 (0) Recording as successfully uploaded: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db.gz (26be6b4ac0f16793fb20593af494e696)
+0100.239 (0) Deleting local file: backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db.gz: OK
+0100.241 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0100.241 (0) Number of backup sets in history: 2
+0100.242 (0) Examining backup set with datestamp: 1390421144 (Jan 22 2014 20:05:44)
+0100.242 (0) 1390421144: db: this set includes a database (backup_2014-01-22-2005_Infinite_Agency_9e5b5de755df-db.gz); db count is now 1
+0100.244 (0) 1390421144: this backup set remains non-empty (1/1); will retain in history
+0100.244 (0) Examining backup set with datestamp: 1390261402 (Jan 20 2014 23:43:22)
+0100.244 (0) 1390261402: db: this set includes a database (backup_2014-01-20-2343_Infinite_Agency_c30af2002258-db.gz); db count is now 2
+0100.246 (0) 1390261402: this backup set remains non-empty (1/1); will retain in history
+0100.246 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0100.438 (0) Resume backup (9e5b5de755df, 0): finish run
+0100.440 (0) Decremented the semaphore (fd) by 1
+0100.441 (0) Semaphore (fd) unlocked
+0100.441 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0100.444 (0) No email will/can be sent - the user has not configured an email address.
+0100.445 (0) The backup apparently succeeded and is now complete

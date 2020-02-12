@@ -1,0 +1,24 @@
+/**
+ * Triangle styles
+ * ----------------------------------------------------------------------------
+**/
+
+.triangle-down {
+  @include triangleDownCenter(50px, 20px, $black);
+}
+
+.triangle-down-grey {
+  @include triangleDownCenter(50px, 20px, $darkGrey);
+}
+
+.triangle-up {
+  @include triangleUpCenter(50px, 20px, $black);
+}
+
+.triangle-right:after {
+  @include triangleRight(50px, 20px, $black);
+}
+
+.triangle-left:after {
+  @include triangleLeft(50px, 20px, $darkGrey);
+}

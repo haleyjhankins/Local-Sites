@@ -1,0 +1,20 @@
+.box{box-shadow: 1px 1px 10px rgba(0,0,0,.3);	-moz-box-shadow: 1px 1px 10px rgba(0,0,0,.3);-webkit-box-shadow: 1px 1px 10px rgba(0,0,0,.3);background:url('images/backgrounds/dark/background1.jpg') repeat;background-position:center top;	}
+
+#menu ul a{color:#ffffff; text-shadow:none}
+#menu ul ul{border:solid 1px #222222;box-shadow: 0px 0px 5px rgba(0,0,0,.75);	-moz-box-shadow: 0px 0px 5px rgba(0,0,0,.75);-webkit-box-shadow: 0px 0px 5px rgba(0,0,0,.75);	}
+#menu ul ul li{background-color:#111111;}
+#menu ul ul a{color:#ffffff;text-shadow:none}
+#menu ul ul a:hover{color:#ffffff;background: rgb(255, 255, 255);background: rgba(255, 255, 255, .1);}
+
+#menu ul .current > a, #menu ul .current-menu-item > a, #menu ul .current_page_item > a,#menu ul .current_page_parent > a, #menu ul .current-menu-parent > a{
+	color:#fff;text-shadow:none;
+}
+#menu ul .current ul a,  #menu ul .current-menu-item > ul a, #menu ul .current_page_item > ul a,#menu ul .current_page_parent >ul a, #menu ul .current-menu-parent >ul a{
+	color:#ffffff;background:none;
+}
+#menu ul .current > a:hover, #menu ul .current-menu-item > a:hover, #menu ul .current_page_item > a:hover,#menu ul .current_page_parent > a:hover, #menu ul .current-menu-parent > a:hover{
+	color:#ffffff;background: rgb(255, 255, 255);background: rgba(255, 255, 255, .1);
+}	
+.variating{text-shadow:none !important; color:#fff !Important}
+.filter li a, .filter li.active a, .filter li a:hover{text-shadow:#000 0px 2px 2px; color:#fff}
+.filter li a{color:#eee}

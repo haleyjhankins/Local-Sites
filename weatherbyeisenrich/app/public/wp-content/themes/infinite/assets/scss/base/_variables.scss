@@ -1,0 +1,102 @@
+/**
+ * Table of Contents
+ *
+ *  1.0 - Colors
+ *  2.0 - Fonts
+ *  3.0 - Transitions
+ *  4.0 - Elements
+
+ * ----------------------------------------------------------------------------
+ */
+
+
+
+/**
+ * 1.0 Colors
+ * ----------------------------------------------------------------------------
+ */
+
+ $primaryColor: #90292a;
+
+ $secondaryColor: #146e9e;
+
+ $altColor1: #0d2e43;
+
+ $altColor2: #90292a;
+
+ $linkColor: $primaryColor;
+
+ $linkHoverColor: $secondaryColor;
+
+ $buttonBorder: #0edfbf;
+
+ $buttonHoverBorder: #69eeda;
+
+ $darkestGrey: #333333;
+
+ $darkGrey: #404041;
+
+ $grey: #303030;
+
+ $lightGrey: #ececec;
+
+ $green: #70ac37;
+
+ $red: #fe230a;
+
+ $rgbaBlack: rgba(0,0,0,0.4);
+
+ $rgbaPrimary: rgba(90,33,73,0.7);
+
+ $black: #000;
+
+ $white: #fff;
+
+ $lightBlue: #afe0ee;
+
+
+
+/**
+ * 2.0 Fonts
+ * ----------------------------------------------------------------------------
+ */
+
+ $primaryFont: "adelle",serif;
+
+ $secondaryFont: "adelle-sans",sans-serif;
+
+ $proxima: "adelle",serif;
+
+ $proximaCond: "adelle-sans",sans-serif;
+
+ $bodyFont: "myriad-pro",sans-serif;
+
+
+ /**
+ * 3.0 Transitions
+ * ----------------------------------------------------------------------------
+ */
+
+ $transitionTime : .3s all;
+
+/**
+ * 4.0 Elements
+ * ----------------------------------------------------------------------------
+ */
+ $menu-icon-color: $white;
+
+ $borderRadius : 3px;
+
+ $off-canvas-width: 90%;
+
+/**
+ * 5.0 Media Queries
+ * ----------------------------------------------------------------------------
+ */
+
+  $small-range: (0em, 40em); /* 0, 640px */
+  $medium-range: (40.063em, 64em); /* 641px, 1024px */
+  $large-range: (64.063em, 90em); /* 1025px, 1440px */
+  $xlarge-range: (90.063em, 120em); /* 1441px, 1920px */
+  $xxlarge-range: (120.063em); /* 1921px */
+

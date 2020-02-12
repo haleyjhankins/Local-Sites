@@ -1,0 +1,102 @@
+/**
+ * Colors
+ * ----------------------------------------------------------------------------
+**/
+
+.primary-color-bg {
+	background-color: $primaryColor;
+}
+
+.alt-color1-bg {
+	background-color: $altColor1;
+}
+
+.alt-color2-bg {
+	background-color: $altColor2;
+}
+
+.secondary-color-bg {
+	background-color: $secondaryColor;
+}
+
+.white-bg {
+	background-color: $white;
+}
+
+.red-bg {
+	background-color: $red;
+}
+
+.black-bg {
+	background-color: $black;
+	p {
+		color: $white;
+	}
+}
+
+.black-rgba-bg {
+	background: $rgbaBlack;
+}
+
+.light-grey-bg {
+	background: $lightGrey;
+}
+
+.grey-bg {
+	background: $grey;
+}
+
+.dark-grey-bg {
+	background-color: $darkGrey;
+}
+
+.transparent-bg {
+	background: transparent;
+}
+
+.primary-text {
+	color: $primaryColor;
+	h1,h2,h3,h4,h5,h6,p {
+		color: $primaryColor;
+	}
+}
+
+.secondary-text {
+	color: $secondaryColor;
+	h1,h2,h3,h4,h5,h6,p {
+		color: $secondaryColor;
+	}
+}
+
+.red-text {
+	color: $red;
+	h1,h2,h3,h4,h5,h6,p {
+		color: $red;
+	}
+}
+
+.alt2-text {
+	color: $altColor2;
+}
+
+.black-text {
+	color: $black;
+	h1,h2,h3,h4,h5,h6,p {
+		color: $black;
+	}
+}
+
+.grey-text {
+	color: $grey;
+	h1,h2,h3,h4,h5,h6,p, li, a {
+		color: $grey;
+	}
+}
+
+.white, .white h1, .white h2, .white h3, .white h4, .white h5, .white h6, .white p, .white li, .white li a {
+	color: $white;
+}
+
+.white-bg {
+	background-color: $white;
+}

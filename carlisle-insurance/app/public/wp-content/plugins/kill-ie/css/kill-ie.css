@@ -1,0 +1,118 @@
+#sxtp_bg{
+	display:none;
+	position:fixed;
+	_position:absolute; /* hack for IE 6*/
+	height:100%;
+	width:100%;
+	top:0;
+	left:0;
+	background:#000000; 
+	z-index:100;
+}
+
+#sxtp_main{
+	display:none;
+	background-color:#fff;
+	position:fixed;
+	_position:absolute; /* hack for IE 6*/
+	width:500px;
+	top:240px;
+	border:5px solid #2f2f2f;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	z-index:200;
+	margin:0;
+	padding:0;
+	color:#333333;
+	text-align:left;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:15px;
+}
+
+#sxtp_main #sxtp_close{
+	float:right;
+	margin:9px 10px 0 0;
+	display:none;
+}
+
+#sxtp_main #sxtp_close #sxtp_cbtn{
+	width:16px;
+	height:16px;
+	background:url(../images/close.png) left no-repeat;
+	text-indent:-99999px;
+	display:block;
+}
+
+#sxtp_main #sxtp_msg{
+	padding:12px 10px;
+	width:440px;
+}
+
+#sxtp_main #sxtp_form{
+	background-color:#E3F3FF;
+	border-bottom:1px dotted #60BBFF;
+	border-top:1px dotted #60BBFF;
+	padding:20px 0px;
+	text-align:center;
+}
+
+#sxtp_main #sxtp_form #sxtp_email, 
+#sxtp_main #sxtp_form #sxtp_name{
+	font-size:13px;
+	font-weight:normal;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding:9px 4px;
+	border:1px solid #C4C4C4;
+	color:#627C8F;
+	width:170px;
+	margin:0 6px 0 0;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#sxtp_main #sxtp_form #sxtp_submit{
+	background:url(../images/submit.png) center top no-repeat;
+	width:100px;
+	height:35px;
+	padding:0px;
+	margin:0px;
+	text-indent:-9999px;
+	border:0;
+	cursor:pointer;
+}
+
+#sxtp_main #sxtp_form #sxtp_submit:hover{
+	background-position:center bottom !important;
+}
+
+#sxtp_main #sxtp_counter{
+	padding:10px;
+	text-align:right;
+	font-size:11px;
+	color:#0084B4;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+#sxtp_error{
+	padding:16px;
+}
+
+#sxtp_error h2{
+	color:#CF2626;
+	font-weight:normal;
+	font-size:28px;
+	padding:0px;
+	margin:0px;
+}
+
+#sxtp_error p{
+	font-size:13px;
+	line-height:22px;
+	margin:10px 0 0 0;
+}
+
+#sxtp_error a{
+	color:#339FCF;
+}

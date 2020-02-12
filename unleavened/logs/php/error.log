@@ -1,0 +1,18 @@
+[12-Feb-2020 14:33:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/unleavened/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:33:27 UTC] PHP Stack trace:
+[12-Feb-2020 14:33:27 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/unleavened/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:33:27 UTC] PHP   2. do_action() /Users/development/Local Sites/unleavened/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:33:27 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/unleavened/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:33:27 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/unleavened/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:33:27 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/unleavened/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:33:27 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/unleavened/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:33:27 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/unleavened/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:33:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/unleavened/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:33:27 UTC] PHP Stack trace:
+[12-Feb-2020 14:33:27 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/unleavened/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:33:27 UTC] PHP   2. do_action() /Users/development/Local Sites/unleavened/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:33:27 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/unleavened/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:33:27 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/unleavened/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:33:27 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/unleavened/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:33:27 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/unleavened/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:33:27 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/unleavened/app/public/wp-includes/functions.php:4552

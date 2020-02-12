@@ -1,0 +1,60 @@
+@mixin flex() {
+  display: flex;
+}
+
+@mixin flex-center() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex {
+  @include flex;
+}
+
+.flex-center {
+  @include flex;
+  align-items: center;
+  justify-content: center;
+
+  @include breakpoint(small down) {
+    display: block;
+  }
+}
+
+.flex-between {
+  @include flex;
+  align-items: center;
+  justify-content: space-between;
+
+  @include breakpoint(small down) {
+    display: block;
+  }
+}
+
+.push-down-single { margin-bottom: 1rem!important; }
+.push-down-double { margin-bottom: 2rem!important; }
+.push-down-triple { margin-bottom: 3rem!important; }
+
+.push-up-single { margin-top: 1rem!important; }
+.push-up-double { margin-top: 2rem!important; }
+.push-up-triple { margin-top: 3rem!important; }
+
+////////////////////////////////////////////////////////////////////////////////
+// Media query mixin
+// $breakpoints sass-map is defined in _settings.scss
+////////////////////////////////////////////////////////////////////////////////
+
+@mixin smaller-than($point-name) {
+  $width: map-get($breakpoints, $point-name);
+  @media (max-width: $width) {
+    @content;
+  }
+}
+
+@mixin larger-than($point-name) {
+  $width: map-get($breakpoints, $point-name);
+  @media (min-width: $width) {
+    @content;
+  }
+}

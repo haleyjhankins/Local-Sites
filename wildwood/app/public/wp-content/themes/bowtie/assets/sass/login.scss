@@ -1,0 +1,53 @@
+////////////////////////////////////////////////////////////////////////////////
+// This is the Sass file that allows you to build a custom login-styled page that
+// matches your brand/site colors. These are some starter styles, so feel free to
+// add/remove whatever suits your project needs. Errors? Pull requests are welcome!
+// https://github.com/ZeekInteractive/bowtie/issues
+////////////////////////////////////////////////////////////////////////////////
+
+// Page background color/image
+body.login {
+	background: #5E5A59;
+}
+
+.login h1 a {
+	background-image: url('../images/logo.svg');
+	background-size: contain;
+	height: 45px;
+	width: 150px;
+}
+
+// Login button styling
+#wp-submit {
+	background: #a7c059;
+	border: none;
+	border-radius: 0;
+	box-shadow: none;
+	text-shadow: none;
+	text-transform: uppercase;
+	transition: all 300ms ease-in-out;
+
+  &:hover {
+    background: darken(#a7c059, 10%);
+    border: none;
+    box-shadow: none;
+  }
+}
+
+// Text styling for 'lost your password'
+.login #nav a {
+	color: #6F6A6C;
+
+  &:hover {
+    color: #6F6A6C;
+  }
+}
+
+// Text styling for 'back to bowtie'
+.login #backtoblog a {
+	color: #6F6A6C;
+
+  &:hover {
+    color: #6F6A6C;
+  }
+}

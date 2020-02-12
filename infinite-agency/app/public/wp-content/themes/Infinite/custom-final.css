@@ -1,0 +1,1807 @@
+body {
+  font-family: "brandon-grotesque", sans-serif; }
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "brandon-grotesque", sans-serif;
+  color: #5c5956;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin-bottom: 0;
+  margin-top: 0; }
+
+h1.page-title {
+  font-size: 70px;
+  line-height: 70px;
+  letter-spacing: 6px; }
+
+h1 {
+  font-size: 50px;
+  line-height: 50px; }
+
+h2 {
+  font-size: 36px;
+  line-height: 36px; }
+
+h3 {
+  font-size: 24px;
+  line-height: 24px; }
+
+p,
+ul {
+  font-family: "brandon-grotesque", sans-serif;
+  font-size: 22px;
+  line-height: 30px;
+  color: #5c5956; }
+
+.green {
+  color: #a7c25b; }
+
+.white {
+  color: white; }
+
+.grey-bg {
+  background-color: #5c5956; }
+
+.eames {
+  font-family: "Eames-Light-Italic";
+  font-weight: 100; }
+
+.container {
+  overflow: hidden;
+  position: relative;
+  padding-bottom: 80px; }
+
+.single-work .container {
+  padding-bottom: 0; }
+
+.white-bottom {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/dividers_white.png');
+  background-position: center 0;
+  height: 24px;
+  margin: -24px auto 0;
+  position: relative;
+  width: 100%; }
+
+.grey-bottom {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/dividers_grey.png');
+  background-position: center 0;
+  height: 24px;
+  margin: -24px auto 0;
+  position: relative;
+  width: 100%; }
+
+.clear-bottom {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/clear-bottom.png');
+  background-position: center 0;
+  height: 24px;
+  margin: -24px auto 0;
+  position: relative;
+  width: 100%; }
+
+.green-bottom {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/green-bottom.png');
+  background-position: center 0;
+  height: 24px;
+  margin: 0 auto;
+  position: relative;
+  width: 100%; }
+
+div.grey-bottom.we-are {
+  height: 24px;
+  overflow: hidden; }
+
+section,
+div.middle {
+  width: 100%;
+  position: relative; }
+
+section .outer,
+.home-loader .outer,
+div.middle .outer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: table; }
+
+section .outer .inner,
+.home-loader .outer .inner,
+div.middle .outer .inner {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center; }
+
+.page a,
+.page a:hover,
+.single a,
+.single a:hover {
+  color: #a7c25b !important; }
+
+hr {
+  border: none !important;
+  border-bottom: 1px solid #989898 !important;
+  padding: 0 40px !important; }
+
+ul.full {
+  width: 94% !important;
+  margin-left: 6% !important; }
+
+#sidebar2 .textwidget,
+#sidebar3 .textwidget,
+#sidebar4 .textwidget,
+#sidebar5 .textwidget,
+#sidebar6 .textwidget {
+  background-color: #fffefe; }
+
+#sidebar3 .textwidget img,
+#sidebar4 .textwidget img,
+#sidebar5 .textwidget img {
+  width: 100%; }
+
+#sidebar5 .textwidget p {
+  margin-bottom: 0; }
+
+.textwidget ul,
+#main ul {
+  width: 48% !important;
+  float: left;
+  margin-left: 2% !important;
+  margin-top: 0;
+  display: inline-block; }
+
+.textwidget ul:first-child,
+#main ul:first-child {
+  margin-left: 10% !important;
+  width: 40% !important; }
+
+.textwidget ul li,
+#main ul li {
+  font-size: 12px;
+  line-height: 15px;
+  margin-bottom: 0;
+  color: #656565; }
+
+#main article ul li {
+  font-size: 14px;
+  line-height: 18px; }
+
+.home-loader {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #5c5956;
+  z-index: 2;
+  opacity: 1;
+  transition: opacity 1s;
+  margin-top: -80px; }
+
+.home-loader h1 {
+  margin-top: 24px;
+  margin-bottom: 0; }
+
+.loaded {
+  opacity: 0; }
+
+.loaded-index {
+  z-index: 0; }
+
+
+.fader {
+  opacity: 1 !important;
+  transition: all 0.5s; }
+
+.twentyfive {
+  height: 25px; }
+
+/*
+ * **********************************
+ *
+ * Header
+ *
+ * **********************************
+ */
+#menu-main li.active a {
+  color: #a7c25b !important; }
+
+.header-wrapper {
+  background-color: white;
+  position: fixed;
+  width: 100%;
+  z-index: 999;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
+  height: 80px; }
+
+.site-logo {
+  padding-top: 22px; }
+
+.site-logo img {
+  max-width: 100%; }
+
+ul.top-nav li {
+  float: right;
+  display: inline-block;
+  padding: 27px 15px;
+  text-transform: uppercase; }
+
+ul.top-nav > li > a {
+  font-size: 14px;
+  font-family: "brandon-grotesque", sans-serif !important;
+  color: #656565 !important;
+  font-weight: 900;
+  letter-spacing: 2px; }
+
+.top-nav > li > a:hover {
+  color: #a7c25b !important; }
+
+.header-phone {
+  text-align: right;
+  padding: 50px 0; }
+
+.header-phone a,
+.header-phone a:hover {
+  font-size: 33px;
+  color: #a7c25b;
+  font-weight: bold; }
+
+#menu-mobile li a {
+  font-family: "brandon-grotesque", sans-serif;
+  color: #a7c25b;
+  text-transform: uppercase;
+  font-weight: 900;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 30px; }
+
+/*
+ * **********************************
+ *
+ * Top Section
+ *
+ * **********************************
+ */
+.content-wrapper {
+  position: relative;
+  top: 80px;
+  right: 0;
+  transition: right 0.5s; }
+
+.content-wrapper-open {
+  right: 100% !important;
+  transition: right 0.5s !important; }
+
+#top-section {
+  padding: 20px 0 40px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top; }
+
+.page #top-section {
+  padding: 40px 0; }
+
+#top-section {
+  position: relative;
+  max-height: 400px;
+  overflow: hidden;
+  padding: 0;
+  background: none; }
+
+.page #top-section {
+  padding: 0 !important; }
+
+.page #main {
+  padding-top: 10px;
+  padding-bottom: 10px; }
+
+.sub-section {
+  padding-left: 20px; }
+
+#object {
+  visibility: hidden; }
+
+#top-section {
+  height: 400px; }
+
+#top-section h1 {
+  text-align: left;
+  color: white; }
+
+#top-section .outer {
+  z-index: 3;
+  top: 0;
+  position: absolute;
+  max-height: 400px !important; }
+
+#work-video {
+  position: relative;
+  left: 0;
+  width: 100%;
+  height: auto; }
+
+/*
+ * ****** SINGLE WORK PAGES *******
+ */
+.single-work #content section {
+  padding: 20px 0; }
+
+.single-work #content section:nth-child(2) {
+  padding-top: 40px; }
+
+.single-work #content p {
+  margin-bottom: 0; }
+
+.single-work #content .columns img {
+  width: 100%; }
+
+.single-work #content .columns {
+  padding-bottom: 0.625em;
+  padding-top: 0.625em; }
+
+.single-work #content .columns:last-child {
+  padding-bottom: 0; }
+
+/*
+ * *********************************
+ *
+ * Home Page
+ *
+ * *********************************
+ */
+.bubble-left {
+  margin-right: -20px;
+  margin-left: 20px; }
+
+div.infinite-arrow-projects.image-center {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/projects.png') no-repeat;
+  width: 174px;
+  height: 56px;
+  margin: 0 auto; }
+
+div.infinite-arrow-services.image-center {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/services.png') no-repeat;
+  width: 174px;
+  height: 56px;
+  margin: 0 auto; }
+
+div.infinite-arrow-culture.image-center {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/services.png') no-repeat;
+  width: 174px;
+  height: 56px;
+  margin: 0 auto; }
+
+div.infinite-arrow-community.image-center {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/community.png') no-repeat;
+  width: 194px;
+  height: 56px;
+  margin: 0 auto; }
+
+a.uppercase.white {
+  font-size: 20px;
+  letter-spacing: 0px;
+  margin: 0px 0px 0px -15px !important;
+  line-height: 1px;
+  top: 5px !important;
+  padding-top: -10px !important;
+  position: relative;
+  font-weight: 600;
+  color: white !important; }
+
+a.uppercase.green {
+  color: #5c5956 !important;
+  font-size: 20px;
+  letter-spacing: 0px;
+  margin: 0px 0px 0px -15px !important;
+  line-height: 1px;
+  top: 5px !important;
+  padding-top: -10px !important;
+  position: relative;
+  font-weight: 600; }
+
+.home .container {
+  padding-bottom: 0 !important; }
+
+.home section.one h3 {
+  letter-spacing: 3px; }
+
+.home section.nine .row .infinite-arrow-community h2 {
+  margin-bottom: 60px; }
+
+.home section.one {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/011.jpg') no-repeat center bottom;
+  background-color: black;
+  height: 800px;
+  background-position: 50% 0px;
+  background-size: cover; }
+
+.home section.two {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/021.jpg') no-repeat center bottom;
+  background-color: black;
+  height: 800px;
+  background-position: 50% 0px;
+  background-size: cover; }
+
+
+.home section.four {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/031.jpg') no-repeat center bottom;
+  background-color: black;
+  height: 800px;
+  background-position: 50% 0px;
+  background-size: cover; }
+
+
+.home section.six {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/041.jpg') no-repeat center bottom;
+  background-color: black;
+  height: 800px;
+  background-position: 50% 0px;
+  background-size: cover; }
+
+
+.home section.eight {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/051.jpg') no-repeat center bottom;
+  background-color: black;
+  height: 800px;
+  background-position: 50% 0px;
+  background-size: cover; }
+
+.circles-creative {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/2013/08/the-infinite-agency-dallas-we-are-nothing-special-circles-creative.png');
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  float: none;
+  display: block;
+  margin-bottom: -100px; }
+
+.circles-social {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/2013/08/the-infinite-agency-dallas-we-are-nothing-special-circles-social.png');
+  background-size: 100%;
+  width: 200px;
+  height: 200px;
+  float: left;
+  position: relative;
+  left: -18px; }
+
+.circles-motive {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/2013/08/the-infinite-agency-dallas-we-are-nothing-special-circles-motive.png');
+  background-size: 100%;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  float: none;
+  float: none;
+  position: relative;
+  left: 240px; }
+
+.circles-creative {
+  background: url('https://theinfiniteagency.com/wp-content/uploads/2013/08/the-infinite-agency-dallas-we-are-nothing-special-circles-creative.png');
+  background-size: 100%;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  float: none;
+  display: block;
+  margin-bottom: -100px; }
+
+/*
+ * ****** ADDITIONS FOR SCROLL *********
+ */
+.home .container,
+.home .main {
+  height: 100%;
+  width: 100%; }
+
+.home section {
+  margin-top: -80px; }
+
+.onepage-pagination li a:before {
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px; }
+
+.onepage-pagination li a.active:before {
+  border: 1px solid rgba(0, 0, 0, 0.4); }
+
+section.nine footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0; }
+
+/*
+ * ****** ANIMATIONS FOR SCROLL *********
+ */
+.slidedown {
+  opacity: 0;
+  transition: 3s; }
+
+section.active .slidedown {
+  opacity: 1;
+  animation-name: slideDown;
+  -webkit-animation-name: slideDown;
+  animation-duration: 2s;
+  -webkit-animation-duration: 2s;
+  animation-timing-function: ease;
+  -webkit-animation-timing-function: ease;
+  visibility: visible !important; }
+
+.slideleft {
+  opacity: 0;
+  transition: 1s; }
+
+section.active .slideleft {
+  opacity: 1;
+  animation-name: slideLeft;
+  -webkit-animation-name: slideLeft;
+  animation-duration: 1s;
+  -webkit-animation-duration: 1s;
+  animation-timing-function: ease;
+  -webkit-animation-timing-function: ease;
+  visibility: visible !important; }
+
+.expandopen {
+  opacity: 0;
+  transition: 1s; }
+
+section.active .expandopen {
+  opacity: 1;
+  animation-name: expandOpen;
+  -webkit-animation-name: expandOpen;
+  animation-duration: 1.2s;
+  -webkit-animation-duration: 1.2s;
+  animation-timing-function: ease-out;
+  -webkit-animation-timing-function: ease-out;
+  visibility: visible !important; }
+
+.slideright {
+  opacity: 0;
+  transition: 2s; }
+
+section.active .slideright {
+  opacity: 1;
+  animation-name: slideRight;
+  -webkit-animation-name: slideRight;
+  animation-duration: 1.5s;
+  -webkit-animation-duration: 1.5s;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-timing-function: ease-in-out;
+  visibility: visible !important; }
+
+.slideexpandup {
+  opacity: 0;
+  transition: 2s; }
+
+section.active .slideexpandup {
+  opacity: 1;
+  animation-name: slideExpandUp;
+  -webkit-animation-name: slideExpandUp;
+  animation-duration: 2s;
+  -webkit-animation-duration: 2s;
+  animation-timing-function: ease-out;
+  -webkit-animation-timing-function: ease -out;
+  visibility: visible !important; }
+
+.bigentrance {
+  opacity: 0;
+  transition: opacity 2s; }
+
+section.active .bigentrance {
+  opacity: 1;
+  animation-name: bigEntrance;
+  -webkit-animation-name: bigEntrance;
+  animation-duration: 2s;
+  -webkit-animation-duration: 2s;
+  animation-timing-function: ease-out;
+  -webkit-animation-timing-function: ease-out;
+  visibility: visible !important; }
+
+section.active .pulses {
+  animation-name: pulse;
+  -webkit-animation-name: pulse;
+  animation-duration: 1s;
+  -webkit-animation-duration: 1s;
+  animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite; }
+
+section.active .pullup {
+  animation-name: pullUp;
+  -webkit-animation-name: pullUp;
+  animation-duration: 2.6s;
+  -webkit-animation-duration: 2.6s;
+  animation-timing-function: ease-out;
+  -webkit-animation-timing-function: ease-out;
+  transform-origin: 50% 100%;
+  -ms-transform-origin: 50% 100%;
+  -webkit-transform-origin: 50% 100%; }
+
+/*
+ * **********************************
+ *
+ * Work Page
+ *
+ * **********************************
+ */
+.work {
+  min-height: 1500px; }
+  .work li {
+    text-decoration: none;
+    list-style: none; }
+  .work .work-cat-list li {
+    display: inline-block;
+    float: left;
+    padding: 0 8px;
+    border-right: none;
+    font-size: 15px;
+    line-height: 15px;
+    text-transform: uppercase;
+    font-family: "brandon-grotesque", sans-serif;
+    font-size: 13px;
+    margin-bottom: 20px;
+    margin-top: 20px; }
+  .work li.work-item img {
+    width: 100%; }
+  .work-item {
+    cursor: pointer;  }
+  .work .work-cat-list li a {
+    display: inline-block;
+    color: #5c5956 !important; }
+  .work .work-cat-list li a:hover {
+    color: #a7c25b !important; }
+  .work .work-cat-list li span {
+    display: inline-block; }
+  .work ul li section {
+    padding-top: 130px;
+    padding-bottom: 130px; }
+  .work ul li section p {
+    margin-bottom: 0px; }
+  .work li.work-item {
+    margin-bottom: 0.12em;
+    padding-left: 0.12em;
+    padding-right: 0;
+    overflow: hidden; }
+  .work section.work-thumb {
+    background-color: transparent;
+    transition: background-color 0.5s;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%; }
+  .work section.work-thumb p,
+  .work section.work-thumb p a {
+    color: transparent !important;
+    transition: color 0.5s;
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    margin: 10px 0 10px 0;
+    line-height: 22px; }
+  .work section.work-thumb:hover {
+    background-color: #5c5956;
+    transition: background-color 0.5s; }
+  .work section.work-thumb:hover p,
+  .work section.work-thumb:hover p a {
+    color: white !important;
+    transition: color 0.5s; }
+  .work section.work-thumb:hover p a {
+    pointer-events: none;
+    font-weight: 300; }
+  .work section.work-thumb hr {
+    border: 0;
+    height: 1px;
+    width: 0px;
+    border-bottom: none !important;
+    position: relative;
+    display: block;
+    margin: 15px auto 10px;
+    background-color: transparent;
+    transition: width 0.5s;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box; }
+  .work section.work-thumb:hover hr {
+    width: 80px;
+    border-bottom: 1px solid #989898 !important;
+    transition: width 0.5s; }
+
+.single-work section div.blank {
+  min-height: 200px; }
+
+/*
+ * **********************************
+ *
+ * Services Page
+ *
+ * **********************************
+ */
+  .services section#top-section {
+    background-color: #5c5956 !important; }
+  .services .twentyfive {
+    height: 25px; }
+  .services section.two {
+    background-color: #5c5956;
+    padding: 100px 0; }
+  .services section.three,
+  .services section.five,
+  .services section.seven {
+    padding: 100px 0; }
+  .services section.four .outer,
+  .services section.six .outer,
+  .services section.eight .outer {
+    margin-top: -24px; }
+  .services section.four {
+    background: url('/wp-content/uploads/creative-lawyer-advertising-agency-dallas.png') no-repeat;
+    background-size: cover;
+    height: 300px; }
+  .services section.six {
+    background: url('/wp-content/uploads/Interactive-Example.png') no-repeat;
+    background-size: cover;
+    height: 300px; }
+  .services section.eight {
+    background: url('/wp-content/uploads/digital-marketing-agency-in-dallas.png') no-repeat;
+    background-size: cover;
+    height: 300px; }
+  .services section.nine {
+    background-color: #a7c25b; }
+  .services section.ten {
+    background: url('https://theinfiniteagency.com/wp-content/uploads/services-slider.jpg') no-repeat;
+    background-size: cover; }
+  .services .green-rectangle {
+    padding: 10px 0; }
+  .services .royalSlider section {
+    height: 100%; }
+  .services .royalSlider section h1,
+  .services .royalSlider section p {
+    text-align: left;
+    color: white; }
+  .services .rsUni,
+  .services .rsUni .rsOverflow,
+  .services .rsUni .rsSlide,
+  .services .rsUni .rsVideoFrameHolder,
+  .services .rsUni .rsThumbs {
+    background: transparent;
+    -webkit-backface-visibility: hidden; }
+  .services .rsArrowRight .rsArrowIcn {
+    background: url('https://theinfiniteagency.com/wp-content/uploads/right-arrow.png') no-repeat !important; }
+  .services .rsArrowLeft .rsArrowIcn {
+    background: url('https://theinfiniteagency.com/wp-content/uploads/left-arrow.png') no-repeat !important; }
+  .services .royalSlider .royalCaption {
+    width: 100%;
+    height: 100%; }
+  .services .rsContainer {
+    -webkit-backface-visibility: hidden; }
+
+/*
+ * **********************************
+ *
+ * Community Page
+ *
+ * **********************************
+ */
+/*
+ * COMMUNITY PAGE
+ */
+/*
+ * FILTER
+ */
+ul#dcsns-filter.filter {
+  float: right;
+  margin-right: 20px; }
+
+.dcsns-toolbar ul#dcsns-filter.filter li {
+  float: left;
+  padding: 0 8px;
+  border-right: none;
+  font-size: 15px;
+  line-height: 15px;
+  text-transform: uppercase;
+  font-family: "brandon-grotesque", sans-serif;
+  font-size: 13px; }
+
+.wall-outer .dcsns-toolbar {
+  margin-bottom: 20px; }
+
+.wall-outer .dcsns-toolbar .filter {
+  padding: 0;
+  margin: 0; }
+
+.dcsns-toolbar ul#dcsns-filter.filter li:last-child {
+  border-right: none; }
+
+ul#dcsns-filter.filter li a {
+  background-color: transparent !important;
+  color: #5c5956 !important; }
+
+ul#dcsns-filter.filter li a.iso-active {
+  color: #a7c25b !important; }
+
+.wall-outer .dcsns-toolbar .filter .link-all {
+  padding: 4px 3px 0 3px !important;
+  text-shadow: none;
+  font-weight: normal; }
+
+#social-stream-338 {
+  clear: both; }
+
+span.twitter-user {
+  display: none; }
+
+span.section-text {
+  color: white !important;
+  font-family: "brandon-grotesque", sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  letter-spacing: 1px;
+  line-height: 18px; }
+
+span.section-text {
+  text-transform: uppercase; }
+
+span.section-text a {
+  color: #cccccc; }
+
+span.section-intro {
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  color: white !important;
+  font-weight: 300;
+  font-size: 20px; }
+
+span.section-intro span a {
+  color: #868585;
+  font-weight: 300;
+  font-size: 20px; }
+
+span.twitter-user a strong {
+  display: none; }
+
+.dcsns-instagram {
+  max-height: 370px; }
+
+.dcsns-instagram .section-thumb {
+  max-height: 315px !important; }
+
+.stream li.dcsns-twitter .section-intro a,
+.stream li.dcsns-twitter .section-intro a:hover {
+  font-size: 12px; }
+
+li.isotope-item {
+  background-color: #d4d4d4;
+  width: 32%;
+  margin-right: 1%;
+  margin-bottom: 1%; }
+
+li.isotope-item .icon {
+  float: left;
+  padding: 10px;
+  height: 35px; }
+
+li.isotope-item .section-intro {
+  float: right;
+  padding: 15px; }
+
+li.isotope-item.dcsns-instagram .section-intro a {
+  display: none; }
+
+li.isotope-item .inner {
+  background-color: #5c5956; }
+
+li.isotope-item.dcsns-instagram {
+  height: 372px; }
+
+li.isotope-item.dcsns-twitter  .inner {
+  padding: 30px; }
+
+.dcwss.dc-wall .stream li {
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  background: #a7c159; }
+
+.stream li.dcsns-twitter .section-intro,
+.filter .f-twitter a:hover,
+.wall-outer .dcsns-toolbar .filter .f-twitter a.iso-active {
+  background-color: transparent !important; }
+
+.dcwss.dc-wall .stream li .inner {
+  margin: 0 !important; }
+
+.dcwss.dc-wall .stream li {
+  padding: 0; }
+
+.dcwss.dc-wall .stream li .section-thumb img {
+  border: none;
+  padding: 0;
+  background: transparent;
+  width: 100%;
+  margin-bottom: 0; }
+
+.dcwss.dc-wall .stream li .section-thumb {
+  margin-right: 0; }
+
+li.isotope-item {
+  background-color: #d4d4d4;
+  width: 32%;
+  margin-right: 1%;
+  margin-bottom: 1%; }
+
+.dcwss.dc-wall .stream li .section-thumb {
+  float: left;
+  margin: 0;
+  width: 100%;
+  max-width: 100% !important; }
+
+.dcwss.dc-wall .stream li a {
+  color: #a7c159 !important;
+  text-decoration: none; }
+
+.dcwss.dc-wall .stream li a:hover {
+  color: #a7c159 !important;
+  text-decoration: none; }
+
+.dcwss.dc-wall .stream li .section-intro {
+  padding: 21px 15px 19px 21px !important; }
+
+.dcwss.dc-wall .stream li .section-intro {
+  color: white;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: "brandon-grotesque", sans-serif; }
+
+.section-intro a {
+  display: none; }
+
+.dcsns-facebook .inner {
+  padding: 30px; }
+
+.dcsns-instagram img {
+  pointer-events: none; }
+
+.dcsns-instagram a {
+  pointer-events: none; }
+
+.community pre {
+  background-color: white;
+  border: none; }
+
+/*
+ * *********************************
+ *
+ * Culture Page
+ *
+ * *********************************
+ */
+.culture {
+    /*
+   * VIDEO PLAYER
+   */ }
+  .culture .green-rectangle h1 {
+    text-align: center;
+    font-size: 50px;
+    line-height: 50px;
+    padding: 25px 0; }
+  .culture section.four .green-bg {
+    min-height: 274px;
+    padding: 0 15px; }
+  .culture .twentyfive {
+    height: 25px; }
+  .culture .green-content-container {
+    background-color: #a7c25b !important;
+    padding: 0px 0; }
+  .culture p.green-quote {
+    margin-bottom: 0;
+    text-align: right;
+    text-transform: uppercase; }
+  .culture .rsUni .rsSlide {
+    background: #a7c25b; }
+  .culture .quote-text-green {
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: justify; }
+  .culture section.one {
+    background: url(uploads/2013/08/the-infinite-agency-dallas-culture-header.jpg);
+    height: 330px;
+    background-position: 50% 0px; }
+
+
+  .culture section.two, html.touch .culture section.two {
+    background: url('/wp-content/uploads/the-infinite-agency-home-section3-top.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 50% 0px;
+    padding: 200px 15px; }
+  .culture section.three {
+    background-color: #5c5956;
+    padding: 100px 0;
+    background-position: 50% 0px; }
+  .culture section.five {
+    background: url('/wp-content/themes/Infinite/images/team/jon.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed;
+    background-attachment: fixed; }
+  .culture section.captain {
+    background: url('/wp-content/themes/Infinite/images/team/captain.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed;
+    background-attachment: fixed; }
+  .culture section.six {
+    background: url('/wp-content/themes/Infinite/images/team/flip.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.seven {
+    background: url("/wp-content/themes/Infinite/images/team/don.jpg");
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.eight {
+    background: url('/wp-content/themes/Infinite/images/team/swaim.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.nine {
+    background: url('/wp-content/themes/Infinite/images/team/wade.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.ten {
+    background: url('/wp-content/themes/Infinite/images/team/josh.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.eleven {
+    background-image: url('/wp-content/themes/Infinite/images/team/rico.jpg');
+    background-repeat: no-repeat;
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twelve {
+    background: url('/wp-content/themes/Infinite/images/team/jordan.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.thirteen {
+    background: url('/wp-content/themes/Infinite/images/team/tim.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.fourteen {
+    background: url('/wp-content/themes/Infinite/images/team/susie.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.fifteen {
+    background: url('/wp-content/themes/Infinite/images/team/mike.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.sixteen {
+    background: url('/wp-content/themes/Infinite/images/team/jaymes.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.seventeen {
+    background: url('/wp-content/themes/Infinite/images/team/colin.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.eighteen {
+    background: url('/wp-content/themes/Infinite/images/team/cody.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.nineteen {
+    background: url('/wp-content/themes/Infinite/images/team/alex.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twenty {
+    background: url('/wp-content/themes/Infinite/images/team/sierra.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twentyone {
+    background: url('/wp-content/themes/Infinite/images/team/carly.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twentytwo {
+    background: url('/wp-content/themes/Infinite/images/team/claudia.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twentythree {
+    background: url('/wp-content/themes/Infinite/images/team/jennifer.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twentyfour {
+    background: url('/wp-content/themes/Infinite/images/team/blank.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twentyfive {
+    background: url('/wp-content/themes/Infinite/images/team/will.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twentysix {
+    background: url('/wp-content/themes/Infinite/images/team/jessica.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twentyseven {
+    background: url('/wp-content/themes/Infinite/images/team/nanci.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture section.twentyeight {
+    background: url('/wp-content/themes/Infinite/images/team/jason.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed; }
+  .culture .culture-img {
+    height: 200px; }
+
+    html.touch .culture section {
+    	background-attachment: scroll !important;
+    	background-position: -500px center;
+    }
+
+
+.page-id-419 .culture section.five {
+  	background: url('/wp-content/themes/Infinite/images/team/new/jon.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed;
+}
+
+.page-id-419 .culture section.six {
+  	background: url('/wp-content/themes/Infinite/images/team/new/flip.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed;
+}
+
+.page-id-419 .culture section.seven {
+  	background: url('/wp-content/themes/Infinite/images/team/new/don.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed;
+}
+
+.page-id-419 .culture section.fifteen {
+  	background: url('/wp-content/themes/Infinite/images/team/new/mike.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed;
+}
+
+.page-id-419 .culture section.eight {
+  	background: url('/wp-content/themes/Infinite/images/team/new/swaim.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed;
+}
+
+.page-id-419 .culture section.nine {
+  	background: url('/wp-content/themes/Infinite/images/team/new/wade.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed;
+}
+
+.page-id-419 .culture section.ten {
+  	background: url('/wp-content/themes/Infinite/images/team/new/joshua.jpg');
+    height: 1400px;
+    background-size: cover;
+    background-position: 50% 0px;
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
+
+  .culture .culture-profile {
+        /*
+     * height: 800px;
+     * background: url('https://theinfiniteagency.com/wp-content/themes/infinite/img/flip.jpg');
+     */
+
+   }
+  .culture .profile-id-box {
+    margin-top: 30%;
+    width: 360px;
+    background-color: rgba(255, 255, 255, 0.85);
+    padding: 30px; }
+  .culture .profile-id-box.right {
+    float: right; }
+  .culture .profile-id-box h3 {
+    font-family: 'Eames-Light-Italic';
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: #5c5956;
+    font-size: 36px;
+    line-height: 33px;
+    margin: 0 0 5px;
+    text-align: left; }
+  .culture .profile-id-box h4 {
+    font-family: "brandon-grotesque", sans-serif;
+    text-transform: uppercase;
+    color: #5c5956;
+    font-weight: 600;
+    font-size: 19px;
+    margin: 0 0 25px 0;
+    line-height: 17px;
+    text-align: left; }
+  .culture .profile-id-box p {
+    font-family: "brandon-grotesque", sans-serif;
+/*    text-transform: uppercase;
+*/    font-weight: 300;
+    color: #5c5956;
+    font-size: 16px;
+    text-align: left;
+    margin-bottom: 12px;
+    line-height: 19px;
+    letter-spacing: 1px; }
+  .culture .social-id {
+    width: 42px;
+    height: 42px;
+    float: left;
+    margin-right: 8px; }
+  .culture .social-id img {
+    -webkit-transition: margin-top 0.5s, -webkit-transform 0.5s 0.5s;
+    -moz-transition: margin-top 0.5s, -moz-transform 0.5s 0.5s; }
+  .culture .social-id img:hover {
+    margin-top: 5px;
+    -webkit-transition: margin-top 0.5s;
+    -moz-transition: margin-top 0.5s; }
+  .culture .portfolio-title {
+    font-size: 20px;
+    font-weight: 900;
+    font-style: normal;
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 2px; }
+  .culture .portfolio-title-wrap h2 {
+    text-align: left;
+    font-family: 'Eames-Light-Italic';
+    font-style: normal;
+    text-transform: uppercase; }
+  .culture .portfolio-title-wrap h3 {
+    text-align: left;
+    text-transform: lowercase; }
+  .culture .video-player {
+    position: relative;
+    padding-bottom: 56.25%;
+        /*
+     * 16:9
+     */
+    height: 0;
+    margin-bottom: 30px; }
+  .culture .video-player iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; }
+  .culture .video {
+    float: left;
+    padding: 0 1.25%;
+    width: 20%; }
+  .culture .video > p {
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    letter-spacing: 1px;
+    margin: 5px 0; }
+  .culture .video-player {
+    cursor: pointer; }
+
+/*
+ * **********************************
+ *
+ * Contact Form
+ *
+ * **********************************
+ */
+.contact section.three {
+  padding-top: 50px; }
+
+.wpcf7 br {
+  display: none !important;
+  height: none !important; }
+
+input {
+  font-family: "brandon-grotesque", sans-serif;
+  font-size: 15px; }
+
+.wpcf7 input[type="text"],
+.wpcf7 input[type="tel"],
+.wpcf7 input[type="email"],
+.wpcf7 textarea,
+.wpcf7 select {
+  background-color: white !important;
+  box-shadow: none !important;
+  padding: 20px;
+  color: #abadb1;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  height: 57px; }
+
+input[type="text"]:focus,
+input[type="tel"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+  border-color: #a7c25b; }
+
+.wpcf7 select {
+  padding-left: 30px;
+  font-size: 13px;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0px !important;
+  height: 25px;
+  border: 1px solid #cccccc !important;
+  -webkit-rtl-ordering: none !important; }
+
+.wpcf7 textarea {
+  resize: none; }
+
+.wpcf7 textarea {
+  height: 150px !important; }
+
+.wpcf7 input[type="email"] {
+  padding: 20px;
+  color: #abadb1; }
+
+input[type="submit"] {
+  background-color: #a7c25b;
+  border: none;
+  color: white;
+  width: 100%;
+  text-transform: uppercase;
+  float: right;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  margin-top: 10px; }
+
+div.wpcf7-validation-errors {
+  border: 2px solid #a7c25b !important;
+  background: white;
+  position: relative;
+  z-index: 9;
+  margin-top: 42px !important; }
+
+#sidebar2 .textwidget p:last-child {
+  float: right;
+  margin-top: 10px; }
+
+a.textwidget-button {
+  float: none;
+  height: 60px;
+  display: block; }
+
+.page-sidebar {
+  margin-top: -65px; }
+
+
+.map-info {
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 85px 25px;
+  margin-top: -440px;
+}
+
+.map-info h2 {
+	font-size: 22px;
+	font-weight: 100;
+}
+
+.map-info p {
+	margin-bottom: 0px;
+}
+
+.map-info p a, .map-info p a:hover {
+	color: #5C5956 !important;
+}
+
+/*
+ * **********************************
+ *
+ * Footer
+ *
+ * **********************************
+ */
+footer {
+  position: relative;
+  padding: 0;
+  background-color: white;
+  bottom: 0px;
+  padding-bottom: 80px;
+  margin-top: 30px !important;
+  height: 200px; }
+
+.page-template-page-culture-php footer {
+  margin-top: 0px !important; }
+
+.single-work footer {
+  margin-top: 80px !important; }
+
+.page-template-page-work-php footer {
+  top: 0;
+  padding-bottom: 0; }
+
+.footer_bottom {
+  padding: 0 !important; }
+
+.footer_holder {
+  background-color: white; }
+
+.footer-contact {
+  text-align: center;
+  display: block;
+  padding: 45px 0;
+  border-bottom: 1px solid #a7c25b; }
+
+.footer-contact a {
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #a7c25b;
+  font-weight: 600;
+  letter-spacing: 2px;
+  margin: 0 10px;
+  font-family: "brandon-grotesque", sans-serif; }
+
+.footer-contact a span {
+  color: #a7c25b;
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 600;
+  padding: 10px 15px;
+  border: 5px solid #a7c25b;
+  border-radius: 5px;
+  margin-right: 10px; }
+
+.footer-details {
+  text-align: center;
+  display: block;
+  padding: 20px 0; }
+
+.footer-details p {
+  text-transform: uppercase;
+  color: #5c5956;
+  text-align: center !important;
+  font-size: 14px;
+  font-weight: 300;
+  margin-bottom: -7px;
+  margin-top: 0;
+  line-height: 30px;
+  font-family: "brandon-grotesque", sans-serif; }
+
+.footer-details p span {
+  font-style: normal;
+  font-weight: 600; }
+
+.footer-details {
+  text-align: center;
+  display: block;
+  padding: 20px 0; }
+
+@media all and (max-width: 767px) {
+  #main article ul {
+    width: 94% !important;
+    margin-left: 6% !important;
+    display: block !important;
+    margin-bottom: 0 !important; }
+
+  .mobile-nav-container {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    width: 100% !important; }
+
+  .mobile-nav-icon {
+    display: block !important;
+    background-color: white;
+    padding-top: 29px !important; }
+
+  .site-logo {
+    padding-bottom: 10px;
+    padding-top: 27px; }
+
+  .site-logo img {
+    max-width: 234px; }
+
+  .header-wrapper {
+    background-color: white; }
+
+  .header-phone {
+    padding: 20px 0; }
+
+  .call-to-action h2 {
+    text-align: center; }
+
+  .call-to-action {
+    padding: 0 34px; }
+
+  .right-call {
+    float: center; }
+
+  .left-copyright {
+    float: center; }
+
+  .right-copyright {
+    float: center; }
+
+  .copyright p {
+    text-align: center; }
+
+  /*
+   * Page
+   */  .page-sidebar {
+    margin-top: 0; }
+
+  .footer-contact a {
+    margin: 0 5px; }
+
+  .footer-contact {
+    padding: 22px 0;
+    margin-left: 10px;
+    margin-right: 10px; }
+
+  .footer-details p {
+    font-size: 12px !important; }
+
+    html.touch .culture section.team-item {
+  height: 625px;
+  background-size: contain;
+  background-position: 25% 0px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  position: static;
+}
+
+    html.touch .culture section.five {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/jon.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.captain {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/captainm.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.six {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/flip.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.seven {
+      background: url("/wp-content/themes/Infinite/images/team/mobile/don.jpg") no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.eight {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/swaim.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.nine {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/wade.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.ten {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/josh.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.eleven {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/rico.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.twelve {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/jordan.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.thirteen {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/tim.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.fourteen {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/susie.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.fifteen {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/mike.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.sixteen {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/jaymes.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.seventeen {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/colin.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.eighteen {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/cody.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.nineteen {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/alex.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.twenty {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/sierra.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.twentyone {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/carly.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.twentytwo {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/claudia.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch culture section.twentythree {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/jennifer.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.twentyfour {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/blank.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.twentyfive {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/will.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.twentysix {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/jessica.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.twentyseven {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/nanci.jpg') no-repeat center center;
+      height: 960px; }
+    html.touch .culture section.twentyeight {
+      background: url('/wp-content/themes/Infinite/images/team/mobile/jason.jpg') no-repeat center center;
+      height: 960px; }
+    .culture .profile-id-box {
+      position: relative;
+      width: 100%;
+      margin-top: 67%;
+      bottom: 0; }
+
+  .culture .video {
+    width: 100%;
+    padding-bottom: 5px; } }
+
+@media all and (max-width: 600px) {
+
+	.home-loader {
+		display: none;
+	}
+
+	.map-info {
+		background-color: rgba(255, 255, 255, 0.7);
+		padding: 172px 25px;
+		margin-top: -503px;
+	}
+
+  h1.page-title {
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 6px; }
+
+  h1 {
+    font-size: 30px;
+    line-height: 30px;
+  }
+
+  h2 {
+  font-size: 28px;
+  line-height: 28px; }
+
+  h3 {
+    font-size: 20px;
+    line-height: 20px; }
+
+  p,
+  ul {
+    font-family: "brandon-grotesque", sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    color: #5c5956; }
+
+  .home section {
+    height: 600px !important; }
+
+  .home section.three {
+    height: 1230px !important; }
+
+  .home section.five {
+    height: 1200px !important; }
+
+  .home section.seven {
+    height: 930px !important; }
+
+  .home section.nine {
+    height: 930px !important; }
+
+  .culture section.two {
+    background-attachment: scroll; }
+
+  .services .rsUni,
+  .services .rsUni .rsOverflow,
+  .services .rsUni .rsSlide,
+  .services .rsUni .rsVideoFrameHolder,
+  .services .rsUni .rsThumbs {
+    height: 590px !important; }
+
+  .dcsns-toolbar ul#dcsns-filter.filter li {
+    padding: 0 2px; } }
+
+
+.profile-trigger {
+  width: 40%;
+  height: 1400px;
+  position: absolute;
+  cursor: pointer;
+}
+
+section.team-item {
+  height: 1400px;
+  background-size: cover;
+  background-position: 60% 0px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  position: static;
+}
+
+.staff-swap {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 0px;
+  background-attachment: fixed;
+  z-index: 2;
+  display: none;
+}
+
+.zi5 {
+  position: relative;
+  z-index: 5!important;
+}
+
+@media all and (max-width: 1080px) {
+section.team-item {
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@media all and (max-width: 1920px) {
+section.team-item {
+  background: no-repeat center center fixed
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+

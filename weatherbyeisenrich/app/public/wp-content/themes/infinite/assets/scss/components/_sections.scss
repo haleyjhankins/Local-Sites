@@ -1,0 +1,13 @@
+/**
+ * Section Builder styles
+ * ----------------------------------------------------------------------------
+**/
+
+.section-content {
+  // Why is this here?? It add additional padding to each column in the section builder
+  // padding: 15px;
+}
+
+.equalize-this .columns {
+  overflow: hidden;
+}

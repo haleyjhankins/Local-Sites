@@ -1,0 +1,16 @@
+/**
+ * Progress styles
+ * ----------------------------------------------------------------------------
+**/
+
+.progress {
+  background: $white;
+  border: 1px solid $lightGrey;
+  .meter {
+    background: $primaryColor;
+  }
+}
+
+.progress.success .meter {
+  background: $black;
+}

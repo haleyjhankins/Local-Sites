@@ -1,0 +1,1099 @@
+[12-Feb-2020 20:43:40 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:40 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:40 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:40 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:40 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:40 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:40 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:40 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:40 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:40 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:40 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:40 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:40 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:40 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:40 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:40 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:40 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:40 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:40 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:40 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:40 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:40 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:40 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:40 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:40 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:40 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:40 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:40 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:40 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:40 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:40 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:40 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:40 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:40 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:40 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:40 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:40 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:40 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:40 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:40 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:41 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:41 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:41 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:41 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:41 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:41 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:41 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:41 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:41 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:41 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:41 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:41 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:41 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:41 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:41 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:41 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:41 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:41 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:41 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:41 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:41 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:41 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:41 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:41 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:41 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:41 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:41 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:41 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:41 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:41 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:41 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:41 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:41 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:41 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:41 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:41 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:41 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:41 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:41 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:41 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:41 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:41 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:41 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:41 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:41 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:41 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:41 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:41 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:41 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:41 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:41 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:41 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:41 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:41 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:41 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:41 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:41 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:41 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:41 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:41 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:41 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:41 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:41 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:41 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:41 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:41 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:41 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:41 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:41 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:41 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:41 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:41 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:41 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:41 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:41 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:41 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:41 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:41 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:41 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:41 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:47 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:48 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:48 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:48 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:48 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:48 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:48 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:48 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:48 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:48 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:48 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:48 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:48 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:48 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:48 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:48 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:48 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:43:53 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:43:53 UTC] PHP Stack trace:
+[12-Feb-2020 20:43:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[12-Feb-2020 20:43:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[12-Feb-2020 20:43:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[12-Feb-2020 20:43:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[12-Feb-2020 20:43:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[12-Feb-2020 20:43:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[12-Feb-2020 20:43:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[12-Feb-2020 20:43:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[12-Feb-2020 20:44:21 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:44:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:44:21 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/index.php:0
+[12-Feb-2020 20:44:21 UTC] PHP   2. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/index.php:10
+[12-Feb-2020 20:44:21 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/admin.php:34
+[12-Feb-2020 20:44:21 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:44:21 UTC] PHP   5. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:44:21 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:44:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:44:21 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/index.php:0
+[12-Feb-2020 20:44:21 UTC] PHP   2. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/index.php:10
+[12-Feb-2020 20:44:21 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/admin.php:34
+[12-Feb-2020 20:44:21 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:44:21 UTC] PHP   5. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:44:21 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:44:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:44:21 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/index.php:0
+[12-Feb-2020 20:44:21 UTC] PHP   2. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/index.php:10
+[12-Feb-2020 20:44:21 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/admin.php:34
+[12-Feb-2020 20:44:21 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:44:21 UTC] PHP   5. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:44:21 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:44:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:44:21 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/index.php:0
+[12-Feb-2020 20:44:21 UTC] PHP   2. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/index.php:10
+[12-Feb-2020 20:44:21 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/admin.php:34
+[12-Feb-2020 20:44:21 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:44:21 UTC] PHP   5. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:44:21 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:44:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:44:21 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:44:21 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:44:21 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:44:21 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:44:21 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:44:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:44:21 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:44:21 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:44:21 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:44:21 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:44:21 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:44:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:44:21 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:44:21 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:44:21 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:44:21 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:44:21 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:44:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:44:21 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:44:21 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:44:21 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:44:21 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:44:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:44:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:44:21 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:44:21 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:44:21 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:44:21 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:44:21 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:44:21 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:44:21 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:45:59 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:45:59 UTC] PHP Stack trace:
+[12-Feb-2020 20:45:59 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:45:59 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:45:59 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:45:59 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:45:59 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:45:59 UTC] PHP Stack trace:
+[12-Feb-2020 20:45:59 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:45:59 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:45:59 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:45:59 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:45:59 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:45:59 UTC] PHP Stack trace:
+[12-Feb-2020 20:45:59 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:45:59 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:45:59 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:45:59 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:45:59 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:45:59 UTC] PHP Stack trace:
+[12-Feb-2020 20:45:59 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:45:59 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:45:59 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:45:59 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:45:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:45:59 UTC] PHP Stack trace:
+[12-Feb-2020 20:45:59 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:45:59 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:45:59 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:45:59 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:45:59 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:45:59 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:45:59 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:45:59 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:45:59 UTC] PHP Stack trace:
+[12-Feb-2020 20:45:59 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-cron.php:0
+[12-Feb-2020 20:45:59 UTC] PHP   2. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-cron.php:44
+[12-Feb-2020 20:45:59 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:45:59 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:45:59 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:45:59 UTC] PHP Stack trace:
+[12-Feb-2020 20:45:59 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-cron.php:0
+[12-Feb-2020 20:45:59 UTC] PHP   2. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-cron.php:44
+[12-Feb-2020 20:45:59 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:45:59 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:45:59 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:45:59 UTC] PHP Stack trace:
+[12-Feb-2020 20:45:59 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-cron.php:0
+[12-Feb-2020 20:45:59 UTC] PHP   2. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-cron.php:44
+[12-Feb-2020 20:45:59 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:45:59 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:45:59 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:45:59 UTC] PHP Stack trace:
+[12-Feb-2020 20:45:59 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-cron.php:0
+[12-Feb-2020 20:45:59 UTC] PHP   2. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-cron.php:44
+[12-Feb-2020 20:45:59 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:45:59 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"wp-core","name":"wp-includes","slug":"wp-includes","ver":"5.3.2","sig":"v1:833291d125af196451633e8eaab1cc247c096340f5bac51044ce089388d6ebc6"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"wp-core","name":"wp-admin","slug":"wp-admin","ver":"5.3.2","sig":"v1:08cc10a8bd794092fb44bffd7e96aadfc8a0f7ed55fd712011c5c1ad2ca3d04d"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine System","slug":"mu-plugin.php","ver":"3.2.2","sig":"v1:0610b6df432114ceed9e12ead1914c19af6dd6bf91bbb3ad4cabf5ebbc9502d5"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"Force Strong Passwords - WPE Edition","slug":"slt-force-strong-passwords.php","ver":"1.6.4","sig":"v1:47cdb56f45d33c73a1a9ff15e35dd71ea72a79b728c1b5f608b7b84906bb9e70"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine Seamless Login Plugin","slug":"wpe-wp-sign-on-plugin.php","ver":"1.5.1","sig":"v1:32ba637c986b4cec8f154eff3d3d3374e2a4a3a767d904b2daaa71abe81dbd86"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine Security Auditor","slug":"wpengine-security-auditor.php","ver":"1.0.8","sig":"v1:cd2e068d3967655c0e34da64c8789c7a4c0a94e931f328a00c4ccc857d3c3f28"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Advanced Custom Fields: Repeater Field","slug":"acf-repeater/acf-repeater.php","ver":"1.1.1","sig":"v1:d7a902f7dd2b6a10cf04723720ced995732c303cebc3a648f9e9f866841a5dc7"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Admin Color Schemes","slug":"admin-color-schemes/admin-color-schemes.php","ver":"2.2","sig":"v1:ddd3218c32003cdeffddfbbe2899406c66a06503fc5aaa28aae894f2470c78cd"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Advanced Custom Fields","slug":"advanced-custom-fields/acf.php","ver":"4.4.11","sig":"v1:927c4dac039a59754fcac62d72449291d9600c776595cbba95e01bcae4b3375c"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Contact Form 7","slug":"contact-form-7/wp-contact-form-7.php","ver":"4.6.1","sig":"v1:b697d224017e03a8c87222698f46c0554222a1a72a549dfdce710670648bd43a"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Infinite Plugin","slug":"infinite-plugin/infinite-plugin.php","ver":"1.0","sig":"v1:db14a7237734ef980ffecc22e4cefaf494d055bd965f1535a8b440d5daadd1f3"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Media File Renamer","slug":"media-file-renamer/media-file-renamer.php","ver":"3.2.2","sig":"v1:086c19b3def3ecc160321ccb979b2177d19a92a671a966c432c8b62936a799c9"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"New RoyalSlider","slug":"new-royalslider/newroyalslider.php","ver":"3.3.4","sig":"v1:f8b676ef255664087078ceb092eea64271966cef3bd23c0322f2648207ff131a"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Redirect Editor","slug":"redirect-editor/redirect-editor.php","ver":"1.3","sig":"v1:4a222249f200dc7af09e19cc8f00df2a277d70b7b3d5ac5905870ad19b2045f1"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"UpdraftPlus - Backup/Restore","slug":"updraftplus/updraftplus.php","ver":"1.12.32","sig":"v1:68f92c1d182215c359516192cd911c0a586f548db1d9dc17140ec52cdc16f86a"}
+[12-Feb-2020 20:46:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Wordpress SASS","slug":"wordpress-sass/wordpress_sass.php","ver":"3.3.05","sig":"v1:282576877f2d93c8ce925b9672243dfa8b8b235159b90432f4cd33ecc8580bf7"}
+[12-Feb-2020 20:46:05 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Yoast SEO","slug":"wordpress-seo/wp-seo.php","ver":"4.3","sig":"v1:52d657160079863de94a0d74cdc6a709013e1aef2a05c6e57bd59f697ee29b7e"}
+[12-Feb-2020 20:46:05 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"WordPress Social Stream","slug":"wordpress-social-stream/dcwp_social_stream.php","ver":"1.5.2","sig":"v1:3fcd679f9a05b053cffab5ad319b6d32ebe7e99232db8f1593a10024ed7c6bbf"}
+[12-Feb-2020 20:46:05 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"WordPress Force HTTPS","slug":"wp-force-https/wordpress-force-https.php","ver":"0.1.3","sig":"v1:1c00c2f304e7d06accf0755aefd04ae671b35ddaed24d1a2e28044b56a77d6c3"}
+[12-Feb-2020 20:46:05 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"WP Migrate DB Pro","slug":"wp-migrate-db-pro/wp-migrate-db-pro.php","ver":"1.7.1","sig":"v1:dc65b988b8ed6f44422e87591dba54ce4fc3d19d8a4bbd63236f1527c102d33f"}
+[12-Feb-2020 20:46:05 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"Akismet Anti-Spam","slug":"akismet/akismet.php","ver":"3.3.4","sig":"v1:c5e7905f44620cff7d7a8cda0eed90b115cd533e81e991fe3e7040ae182bd1f5"}
+[12-Feb-2020 20:46:05 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"Coming Soon / Maintenance mode Ready!","slug":"coming-soon-maintenance-mode-ready/csp.php","ver":"0.4.5","sig":"v1:383637838304e9c7725c1ae1160c64e2663f8280298c06c599730754a020c3c1"}
+[12-Feb-2020 20:46:05 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"Jetpack by WordPress.com","slug":"jetpack/jetpack.php","ver":"4.6","sig":"v1:d297e72cbcfaba040c27335bf16303eb75c92193d2cc13e6b9f6609e3e34cf80"}
+[12-Feb-2020 20:46:05 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"OTW Portfolio Light","slug":"otw-portfolio-light/otw-portfolio-light.php","ver":"1.4","sig":"v1:35ad627ba6fb317838f9ac68f2d63525219be564e5dc33e4bf635621148e34df"}
+[12-Feb-2020 20:46:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:46:05 UTC] PHP Stack trace:
+[12-Feb-2020 20:46:05 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-cron.php:0
+[12-Feb-2020 20:46:05 UTC] PHP   2. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:46:05 UTC] PHP   3. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:46:05 UTC] PHP   4. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:46:05 UTC] PHP   5. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:46:05 UTC] PHP   6. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:46:05 UTC] PHP   7. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:46:05 UTC] PHP   8. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:46:15 UTC] PHP Warning:  Declaration of description_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:46:15 UTC] PHP Stack trace:
+[12-Feb-2020 20:46:15 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:46:15 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:46:15 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:46:15 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:46:15 UTC] PHP Warning:  Declaration of description_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:46:15 UTC] PHP Stack trace:
+[12-Feb-2020 20:46:15 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:46:15 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:46:15 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:46:15 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:46:15 UTC] PHP Warning:  Declaration of footer_links_walker::start_lvl(&$output, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:46:15 UTC] PHP Stack trace:
+[12-Feb-2020 20:46:15 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:46:15 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:46:15 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:46:15 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:46:15 UTC] PHP Warning:  Declaration of footer_links_walker::start_el(&$output, $item, $depth, $args) should be compatible with Walker_Nav_Menu::start_el(&$output, $item, $depth = 0, $args = NULL, $id = 0) in /Users/development/Local Sites/infinite-agency/app/public/wp-content/themes/Infinite/functions.php on line 0
+[12-Feb-2020 20:46:15 UTC] PHP Stack trace:
+[12-Feb-2020 20:46:15 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:0
+[12-Feb-2020 20:46:15 UTC] PHP   2. require() /Users/development/Local Sites/infinite-agency/app/public/wp-login.php:12
+[12-Feb-2020 20:46:15 UTC] PHP   3. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-load.php:37
+[12-Feb-2020 20:46:15 UTC] PHP   4. require_once() /Users/development/Local Sites/infinite-agency/app/public/wp-config.php:124
+[12-Feb-2020 20:46:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:46:15 UTC] PHP Stack trace:
+[12-Feb-2020 20:46:15 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:46:15 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:46:15 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:46:15 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:46:15 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:46:15 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:46:15 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:53:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:53:43 UTC] PHP Stack trace:
+[12-Feb-2020 20:53:43 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:53:43 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:53:43 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:53:43 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:53:43 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:53:43 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:53:43 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:54:16 UTC] auditor:event=wp_login {"user_id":5,"blog_id":1,"event":"wp_login","current_user_id":0,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 20:54:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:54:17 UTC] PHP Stack trace:
+[12-Feb-2020 20:54:17 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:54:17 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:54:17 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:54:17 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:54:17 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:54:17 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:54:17 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:54:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:54:20 UTC] PHP Stack trace:
+[12-Feb-2020 20:54:20 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:54:20 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:54:20 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:54:20 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:54:20 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:54:20 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:54:20 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:54:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:54:21 UTC] PHP Stack trace:
+[12-Feb-2020 20:54:21 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/admin-ajax.php:0
+[12-Feb-2020 20:54:21 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/admin-ajax.php:175
+[12-Feb-2020 20:54:21 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:54:21 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:54:21 UTC] PHP   5. wp_ajax_dashboard_widgets() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:54:21 UTC] PHP   6. wp_die() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/includes/ajax-actions.php:403
+[12-Feb-2020 20:54:21 UTC] PHP   7. _ajax_wp_die_handler() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:3291
+[12-Feb-2020 20:54:21 UTC] PHP   8. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:54:21 UTC] PHP   9. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:54:21 UTC] PHP  10. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:54:21 UTC] PHP  11. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:54:21 UTC] PHP  12. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:54:21 UTC] PHP  13. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:54:21 UTC] PHP  14. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:54:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:54:46 UTC] PHP Stack trace:
+[12-Feb-2020 20:54:46 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:54:46 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:54:46 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:54:46 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:54:46 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:54:46 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:54:46 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:55:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 20:55:13 UTC] PHP Stack trace:
+[12-Feb-2020 20:55:13 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 20:55:13 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 20:55:13 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 20:55:13 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 20:55:13 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 20:55:13 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 20:55:13 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:04:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:04:43 UTC] PHP Stack trace:
+[12-Feb-2020 21:04:43 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:04:43 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:04:43 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:04:43 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:04:43 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:04:43 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:04:43 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:04:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:04:45 UTC] PHP Stack trace:
+[12-Feb-2020 21:04:45 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:04:45 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:04:45 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:04:45 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:04:45 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:04:45 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:04:45 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:04:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:04:48 UTC] PHP Stack trace:
+[12-Feb-2020 21:04:48 UTC] PHP   1. {main}() /Users/development/Local Sites/infinite-agency/app/public/wp-admin/upload.php:0
+[12-Feb-2020 21:04:48 UTC] PHP   2. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:04:48 UTC] PHP   3. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:04:48 UTC] PHP   4. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:04:48 UTC] PHP   5. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:04:48 UTC] PHP   6. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:04:48 UTC] PHP   7. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:04:48 UTC] PHP   8. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:05:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:05:57 UTC] PHP Stack trace:
+[12-Feb-2020 21:05:57 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:05:57 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:05:57 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:05:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:05:57 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:05:57 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:05:57 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:06:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:06:46 UTC] PHP Stack trace:
+[12-Feb-2020 21:06:46 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:06:46 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:06:46 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:06:46 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:06:46 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:06:46 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:06:46 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:06:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:06:59 UTC] PHP Stack trace:
+[12-Feb-2020 21:06:59 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:06:59 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:06:59 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:06:59 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:06:59 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:06:59 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:06:59 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:07:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:07:22 UTC] PHP Stack trace:
+[12-Feb-2020 21:07:22 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:07:22 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:07:22 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:07:22 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:07:22 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:07:22 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:07:22 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:08:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:08:27 UTC] PHP Stack trace:
+[12-Feb-2020 21:08:27 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:08:27 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:08:27 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:08:27 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:08:27 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:08:27 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:08:27 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:08:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:08:43 UTC] PHP Stack trace:
+[12-Feb-2020 21:08:43 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:08:43 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:08:43 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:08:43 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:08:43 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:08:43 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:08:43 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:08:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:08:50 UTC] PHP Stack trace:
+[12-Feb-2020 21:08:50 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:08:50 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:08:50 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:08:50 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:08:50 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:08:50 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:08:50 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:09:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:09:32 UTC] PHP Stack trace:
+[12-Feb-2020 21:09:32 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:09:32 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:09:32 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:09:32 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:09:32 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:09:32 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:09:32 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:13:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:13:54 UTC] PHP Stack trace:
+[12-Feb-2020 21:13:54 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:13:54 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:13:54 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:13:54 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:13:54 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:13:54 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:13:54 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:15:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:15:16 UTC] PHP Stack trace:
+[12-Feb-2020 21:15:16 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:15:16 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:15:16 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:15:16 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:15:16 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:15:16 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:15:16 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:16:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:16:16 UTC] PHP Stack trace:
+[12-Feb-2020 21:16:16 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:16:16 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:16:16 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:16:16 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:16:16 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:16:16 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:16:16 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:16:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:16:28 UTC] PHP Stack trace:
+[12-Feb-2020 21:16:28 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:16:28 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:16:28 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:16:28 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:16:28 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:16:28 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:16:28 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:21:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:21:14 UTC] PHP Stack trace:
+[12-Feb-2020 21:21:14 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:21:14 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:21:14 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:21:14 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:21:14 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:21:14 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:21:14 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:22:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:22:03 UTC] PHP Stack trace:
+[12-Feb-2020 21:22:03 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:22:03 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:22:03 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:22:03 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:22:03 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:22:03 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:22:03 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:22:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:22:52 UTC] PHP Stack trace:
+[12-Feb-2020 21:22:52 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:22:52 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:22:52 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:22:52 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:22:52 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:22:52 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:22:52 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:22:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/infinite-agency/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 21:22:57 UTC] PHP Stack trace:
+[12-Feb-2020 21:22:57 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:0
+[12-Feb-2020 21:22:57 UTC] PHP   2. do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/load.php:947
+[12-Feb-2020 21:22:57 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 21:22:57 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 21:22:57 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 21:22:57 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 21:22:57 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/infinite-agency/app/public/wp-includes/functions.php:4552

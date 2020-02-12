@@ -1,0 +1,53 @@
+/**
+ * Font styles
+ * ----------------------------------------------------------------------------
+**/
+
+.primary-font {
+  font-family: $primaryFont;
+}
+
+.secondary-font {
+  font-family: $secondaryFont;
+}
+
+.body-font {
+  font-family: $bodyFont;
+}
+
+.xlarge-text {
+  font-weight: 400;
+  font-size: 144px;
+  line-height: 144px;
+  letter-spacing: .120rem;
+  text-transform: uppercase;
+
+}
+
+.large-text {
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 96px;
+  letter-spacing: .120rem;
+  text-transform: uppercase;
+}
+
+.medium-text {
+  font-weight: 300;
+  font-size: 60px;
+  line-height: 63px;
+  letter-spacing: .120rem;
+  text-transform: uppercase;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.lh-2 {
+  line-height: 2rem;
+}
+
+.nowrap {
+  white-space: nowrap;
+}

@@ -1,0 +1,55 @@
+////////////////////////////////////////////////////////////////////////////////
+// Color palette function
+////////////////////////////////////////////////////////////////////////////////
+
+$colors: (
+'accent': (
+  base: #F49B21
+),
+'primary': (
+  light: lighten(#5e5a59, 10),
+  base: #1B7D3E,
+  dark: darken(#5e5a59, 5),
+),
+ 'grey': (
+   dark: #333,
+   base: #999,
+   light: #ececec
+ ),
+ 'black': (
+   base: #000,
+   trans: transparentize(#000, .3)
+ ),
+ 'white': (
+   base: #fff,
+   trans: transparentize(#fff, .5)
+ ),
+ 'social': (
+   facebook: #3c5a9a,
+   twitter: #55acee,
+   google: #de4b39,
+   reddit: #cee3f8,
+   linkedin: #007bb5
+ )
+);
+
+@function color($color-name, $tone: base) {
+    @return map-get(map-get($colors, $color-name), $tone);
+}
+
+.bg-accent { background: color('accent')!important; }
+.bg-primary { background: color('primary')!important; }
+.bg-primary-light { background: color('primary','light')!important; }
+.bg-primary-dark { background: color('primary','dark')!important; }
+.bg-grey { background: color('grey')!important; }
+.bg-grey-light { background: color('grey','light')!important; }
+.bg-grey-dark { background: color('grey','dark')!important; }
+
+.text-white { background: color('white')!important; }
+.text-accent { background: color('accent')!important; }
+.text-primary { background: color('primary')!important; }
+.text-primary-light { background: color('primary','light')!important; }
+.text-primary-dark { background: color('primary','dark')!important; }
+.text-grey { background: color('grey')!important; }
+.text-grey-light { background: color('grey','light')!important; }
+.text-grey-dark { background: color('grey','dark')!important; }

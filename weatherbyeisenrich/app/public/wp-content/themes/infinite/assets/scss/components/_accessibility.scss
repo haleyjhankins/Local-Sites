@@ -1,0 +1,12 @@
+/**
+ * Accessibility styles
+ * ----------------------------------------------------------------------------
+**/
+
+#skip {
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	left: -10000px;
+	overflow: hidden;
+}

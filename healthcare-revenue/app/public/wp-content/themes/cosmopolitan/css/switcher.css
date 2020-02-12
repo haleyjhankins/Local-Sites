@@ -1,0 +1,65 @@
+/* COLOR CHANGER */
+#colorchanger { 
+	float:left; 
+}
+.colorbox { 
+	width:20px; 
+	height:20px;
+	float:left; 
+	margin:4px; 
+	cursor:pointer; 
+	display:block; 
+}
+.colorblue {
+	border:#999999 dotted 1px;
+	background-color:#036ea6; 
+}
+.colorred { 
+	border:#999999 dotted 1px;
+	background-color:#af070c; 
+}
+.colorpurple {
+	border:#999999 dotted 1px; 
+	background-color:#392d6c; 
+}
+.colororange { 
+	border:#999999 dotted 1px;
+	background-color:#ffa319; 
+}
+.colorgreen {
+	border:#999999 dotted 1px; 
+	background-color:#096f32; 
+}
+.colorteal {
+	border:#999999 dotted 1px; 
+	background-color:#03b4a6; 
+}
+.colorblack {
+	border:#999999 dotted 1px; 
+	background-color:#000; 
+}
+.colorrust {
+	border:#999999 dotted 1px;
+	background-color:#b44c03; 
+}
+.colorviolet {
+	border:#999999 dotted 1px; 
+	background-color:#b3035c; 
+}
+.colormauve {
+	border:#999999 dotted 1px;  
+	background-color:#543f78; 
+}
+.colorwhite { 
+	border:#999999 dotted 1px;
+	background-color:#f1f1f1;
+}
+.bgd1,.bgd2,.bgd3,.bgd4,.bgd5,.bgd6,.bgd7,.bgd8,.bgd9 { 
+	border:#999999 dotted 1px;
+	background-color:#f1f1f1;
+}
+.handle, .slide-out-div{z-index:999; height:360px}
+
+.switcher-themes a{float:left; width:40px; height:40px; display:block; text-decoration:none; font-size:12px; text-align:center; line-height:40px; border:dotted 1px #ccc}
+.switcher-themes a.light-theme{background:#fff; color:#333}
+.switcher-themes a.dark-theme{background:#111; color:#fff; margin-left:4px}

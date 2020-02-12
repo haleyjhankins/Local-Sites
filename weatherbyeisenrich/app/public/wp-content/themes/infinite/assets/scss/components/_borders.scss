@@ -1,0 +1,29 @@
+/**
+ * Border styles
+ * ----------------------------------------------------------------------------
+**/
+
+.border-primary {
+  border-color: $primaryColor !important;
+  color: $primaryColor !important;
+  &:hover {
+    color: $white !important;
+  }
+}
+
+.bt {
+  border-top: 1px solid $altColor2;
+}
+.bb {
+  border-bottom: 1px solid $altColor2;
+}
+.bl {
+  border-left: 1px solid $altColor2;
+}
+.br {
+  border-right: 1px solid $altColor2;
+}
+
+.border-white {
+	border-color: #fff;
+}

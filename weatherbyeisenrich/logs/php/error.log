@@ -1,0 +1,66 @@
+[12-Feb-2020 14:58:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:58:24 UTC] PHP Stack trace:
+[12-Feb-2020 14:58:24 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:58:24 UTC] PHP   2. do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:58:24 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:58:24 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:58:24 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:58:24 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:58:24 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:58:31 UTC] auditor:event=wp_login {"user_id":3,"blog_id":1,"event":"wp_login","current_user_id":0,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:58:44 UTC] auditor:event=wp_login {"user_id":3,"blog_id":1,"event":"wp_login","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:58:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:58:47 UTC] PHP Stack trace:
+[12-Feb-2020 14:58:47 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:58:47 UTC] PHP   2. do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:58:47 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:58:47 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:58:47 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:58:47 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:58:47 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:58:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:58:54 UTC] PHP Stack trace:
+[12-Feb-2020 14:58:54 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:58:54 UTC] PHP   2. do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:58:54 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:58:54 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:58:54 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:58:54 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:58:54 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:59:00 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"advanced-custom-fields/acf.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Hijacked","slug":"hijacked","ver":"1.0.0","sig":"v1:44121595414cfe5ed6ec9f9cef93e4ef2a29acc8f78a8a501946b09da0aae7d7"}
+[12-Feb-2020 14:59:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Hijacked Child","slug":"infinite","ver":"1.0-wpcom","sig":"v1:ecb4ca33904e0b6137020552ae02320a51d5190848777e53b72ccf0250ca8f05"}
+[12-Feb-2020 14:59:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Fifteen","slug":"twentyfifteen","ver":"1.8","sig":"v1:685c0574069192d186a827a57f456eab4d7601663894cf5a83f8e0d07eafcdb4"}
+[12-Feb-2020 14:59:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Fourteen","slug":"twentyfourteen","ver":"2.0","sig":"v1:ed5c1619c73d967888a2253380ea07c2963256ae03b119968c2d6512dd0bccd6"}
+[12-Feb-2020 14:59:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Seventeen","slug":"twentyseventeen","ver":"1.3","sig":"v1:cbf075d9977d82a3aafd5eef8cc1ed009ab56819e058d3c8404da01b7f6b7f30"}
+[12-Feb-2020 14:59:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Sixteen","slug":"twentysixteen","ver":"1.3","sig":"v1:a31a3ff9b350cfba943bae13139233ac6e95acc70d32a483341f73c85f756df6"}
+[12-Feb-2020 14:59:04 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Thirteen","slug":"twentythirteen","ver":"2.2","sig":"v1:3a5d8c326e8d2ce8a0bd5d4cbf9384c6f2b7f6c1fa69c8e2d15ee74d462a6cf7"}
+[12-Feb-2020 14:59:07 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"acf-repeater/acf-repeater.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:10 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"akismet/akismet.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:13 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"contact-form-7/wp-contact-form-7.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:15 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"contact-form-7-honeypot/honeypot.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:19 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"duplicate-page/duplicatepage.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:24 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"gravity-forms-google-analytics-event-tracking/gravity-forms-event-tracking.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:26 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"html-sitemap/html-sitemap.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:29 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"media-file-renamer/media-file-renamer.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:32 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"redirect-editor/redirect-editor.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:35 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"wp-migrate-db-pro/wp-migrate-db-pro.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:39 UTC] auditor:event=upgrader_process_complete_plugin {"action":"update","type":"plugin","bulk":true,"plugin":"wordpress-seo/wp-seo.php","blog_id":1,"event":"upgrader_process_complete_plugin","current_user_id":3,"remote_addr":"127.0.0.1"}
+[12-Feb-2020 14:59:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:59:46 UTC] PHP Stack trace:
+[12-Feb-2020 14:59:46 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:59:46 UTC] PHP   2. do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:59:46 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:59:46 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:59:46 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:59:46 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:59:46 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 15:00:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 15:00:06 UTC] PHP Stack trace:
+[12-Feb-2020 15:00:06 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:0
+[12-Feb-2020 15:00:06 UTC] PHP   2. do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/load.php:947
+[12-Feb-2020 15:00:06 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 15:00:06 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 15:00:06 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 15:00:06 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 15:00:06 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/weatherbyeisenrich/app/public/wp-includes/functions.php:4552

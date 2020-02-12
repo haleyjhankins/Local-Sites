@@ -1,0 +1,76 @@
+@mixin AlternateGothicNo3DRegular {
+    font-family: alternate-gothic-no-3-d, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@mixin AlternateGothicNo2DRegular {
+    font-family: alternate-gothic-no-2-d, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@mixin AlternateGothicNo1DRegular {
+    font-family: alternate-gothic-no-1-d, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@mixin FontSecondary() {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+} 
+
+.btn {
+    display: block;
+    border: 3px solid #4A4A4A;
+    min-height: 70px;
+    width: 350px;
+    padding: 5px 30px 0 30px;
+    text-align: center;
+    @include AlternateGothicNo3DRegular();
+    font-size: rem-calc(42px);
+    text-transform: uppercase;
+    color: #4A4A4A;
+
+    &.white {
+        color: #fff;
+        border: 3px solid #fff;
+        &:hover {
+            background: #fff;
+            color: #4a4a4a;
+        }
+    }
+
+    &:hover {
+        background: #4a4a4a;
+        color: #fff;
+    }
+
+}
+
+p, ul li, ol li {
+    @include FontSecondary();
+    font-size: rem-calc(20px);
+    line-height: rem-calc(32px);
+
+    &.accent {
+        font-weight: bold;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+    }
+
+}
+
+h1 {
+	font-size: 2rem;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 1.25rem;
+    font-weight: 700;
+    @include AlternateGothicNo3DRegular();
+    text-transform: uppercase;
+}

@@ -1,0 +1,285 @@
+/**
+ * Tab styles
+ * ----------------------------------------------------------------------------
+**/
+
+.home .slider-height {
+  height: 600px;
+  position: relative;
+  width: 100%;
+  // &:after {
+  //   content: '';
+  //   position: absolute;
+  //   height: 50px;
+  //   width: 30px;
+  //   border-radius: 30px;
+  //   border: 2px solid #fff;
+  //   bottom: 50px;
+  //   left: 50%;
+  //   margin-left: -17px;
+  // }
+
+  // &:before {
+  //   content: '';
+  //   position: absolute;
+  //   height: 2px;
+  //   width: 2px;
+  //   border-radius: 50%;
+  //   border: 2px solid #fff;
+  //   background-color: #fff;
+  //   bottom: 86px;
+  //   left: 50%;
+  //   margin-left: -4px;
+  // }
+}
+
+.slider__contact-button {
+  position: absolute;
+  bottom: 110px;
+  left: 50%;
+  margin-left: -75px;
+}
+
+.slider-height {
+  height: 400px;
+}
+
+.core-values {
+  margin-top: 110px;
+}
+
+
+// Slider Pagination color
+.slider, .core-values {
+  .slick-dots li.slick-active button:before, .slick-dots li button:before {
+    color: $white;
+  }
+  .slick-prev {
+    left: 0;
+    height: 30px;
+  }
+  .slick-next {
+    right: 0;
+    height: 30px;
+  }
+  .slick-dots {
+    position: absolute;
+    top: -80px;
+    list-style: none;
+    display: block;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    margin: 0;
+  }
+}
+.slider.slick-slider {
+  margin-bottom: 0px !important;
+}
+.slick-slider {
+  margin-bottom: 0px !important;
+}
+.specs__item {
+  height: 115px;
+}
+.slick-prev {
+  height: 30px;
+  margin-top: -15px;
+}
+.slick-next {
+  height: 30px;
+  margin-top: -15px;
+}
+.slick-next:before {
+  content: url('../img/right-arrow.png');
+}
+.slick-prev:before {
+  content: url('../img/left-arrow.png');
+}
+
+.slick-dots li.slick-active button:before, .slick-dots li button:before {
+  color: $black;
+}
+
+.slick-next {
+  right: -45px;
+  position: absolute;
+  display: block;
+  height: 20px;
+  width: 20px;
+  line-height: 0;
+  font-size: 0;
+  cursor: pointer;
+  background: transparent;
+  color: transparent;
+  top: 50%;
+  margin-top: -10px;
+  padding: 0;
+  border: none;
+  outline: none;
+  &:focus {
+    background: transparent !important;
+  }
+  &:hover {
+    background: transparent !important;
+  }
+
+}
+
+.slick-prev {
+  left: -45px;
+  position: absolute;
+  display: block;
+  height: 20px;
+  width: 20px;
+  line-height: 0;
+  font-size: 0;
+  cursor: pointer;
+  background: transparent;
+  color: transparent;
+  top: 50%;
+  margin-top: -10px;
+  padding: 0;
+  border: none;
+  outline: none;
+  &:focus {
+    background: transparent !important;
+  }
+  &:hover {
+    background: transparent !important;
+  }
+}
+
+.slick-dots {
+  position: absolute;
+  list-style: none;
+  display: flex !important;
+  flex-direction: row;
+  justift-content: space-between;
+  text-align: center;
+  padding: 0;
+  width: 100%;
+  margin-left: 0;
+  li {
+    display: flex;
+    flex: 1;
+    text-align: center;
+    width: auto;
+    /*height: 14px;*/
+
+  }
+  li button {
+    margin: 0 auto;
+    width: 14px;
+    height: auto;
+  }
+  li button:before {
+    font-size: 14px;
+    width: 14px;
+    height: 14px;
+    line-height: 16px;
+  }
+}
+
+.flex-pagination .slick-dots {
+  background: $black;
+  position: relative;
+  bottom: 0;
+  box-sizing: border-box;
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  li {
+    @include transition($transitionTime);
+    box-sizing: border-box;
+    color: transparent;
+    font: 0/0 a;
+    text-shadow: none;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: $darkGrey;
+    width: 75px;
+    height: 10px;
+    margin: 0 2px;
+    line-height: 1;
+    padding: 0;
+    cursor: pointer;
+    -webkit-transition: background .3s linear;
+    transition: background .3s linear;
+    &.slick-active {
+      background: $white;
+    }
+    button {
+      width: 100%;
+      &:before {
+        content: ' ' !important;
+        width: 100%;
+      }
+    }
+  }
+}
+
+.slick-dots li.slick-active .custom-pager {
+  color: $primaryColor;
+  font-weight: 700;
+}
+
+.custom-pager {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  color: #333333;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: $secondaryFont;
+  border-right: 1px solid #333;
+  padding: 0 10px;
+  cursor: pointer;
+  &:hover {
+    color: $primaryColor;
+  }
+}
+
+.slick-dots li:last-child .custom-pager {
+  border-right: none;
+}
+
+
+// Carousel
+
+.carousel-item {
+	position: relative;
+	img {
+		width: 100%;
+	}
+}
+
+.hover-content {
+  @include transition($transitionTime);
+  background: transparent;
+  color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+  padding: 0.9375rem;
+  h1,h2,h3,h4,h5,h6,p {
+    @include transition($transitionTime);
+    color: transparent !important;
+  }
+  &:hover {
+    @include transition($transitionTime);
+    background: $darkGrey;
+    h1,h2,h3,h4,h5,h6,p {
+      color: $white !important;
+    }
+  }
+
+}

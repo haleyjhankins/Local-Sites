@@ -1,0 +1,484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: functions.php:167
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: functions.php:168
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: functions.php:157
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#. Text in function
+#: comments.php:27
+#: comments.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "A custom widget for displaying your latest tweets."
+msgstr ""
+
+#. Text in echo
+#: portfolio_loop.php:128
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: loop2.php:11
+#: loop.php:8
+#: loop-archive.php:8
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: archive.php:23
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: loop2.php:44
+#: loop.php:36
+#: loop.php:108
+#: loop-archive.php:49
+msgid "By %1$s"
+msgstr ""
+
+#. Text in function
+#: single.php:37
+msgid "By <span>%1$s</span>"
+msgstr ""
+
+#. Text in function
+#: post-types.php:291
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: post-types.php:291
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:362
+msgid "Category (Leave Blank to show from all categories)"
+msgstr ""
+
+#. Text in echo
+#: loop2.php:55
+#: single.php:47
+#: loop.php:46
+#: loop.php:119
+#: loop-archive.php:60
+msgid "Comments "
+msgstr ""
+
+#. Text in echo
+#: comments.php:49
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Contact Us"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Contact widget"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Cosmopolitan - Contact Form"
+msgstr ""
+
+#. Text in function
+#: widgets.php:559
+msgid "Cosmopolitan - Flickr images"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Cosmopolitan - Latest Tweets"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Cosmopolitan - Latest Works"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Cosmopolitan Latest Blog Posts"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Cosmopolitan information widget"
+msgstr ""
+
+#. Text in function
+#: archive.php:15
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:455
+msgid "Description:"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Display custom content with icon and button"
+msgstr ""
+
+#. Text in function
+#: widgets.php:559
+msgid "Display images from flickr"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Display latest blog posts"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Display latest works (Portoflio)"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:52
+msgid "E-mail"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:128
+msgid "E-mail is required"
+msgstr ""
+
+#. Text in function
+#: post-types.php:291
+msgid "Edit Work"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:551
+msgid "Email Address:<br />"
+msgstr ""
+
+#. Text in echo
+#: 404.php:11
+msgid "Error 404: Page Not Found"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:79
+msgid "Flickr ID:"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:182
+msgid "Follow button caption"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:474
+msgid "Highlight link:"
+msgstr ""
+
+#. Text in echo
+#: the_breadcrumb.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:460
+msgid "Image:"
+msgstr ""
+
+#. Text in echo
+#: 404.php:28
+msgid "It seems the page you were trying to reach has been moved or does not exist any more. Please use our search form to find what you were looking for. If the problem persists, don\\'t hesitate to contact us."
+msgstr ""
+
+#. Text in echo
+#: widgets.php:465
+msgid "Link (optional):"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:470
+msgid "Link Title:"
+msgstr ""
+
+#. Text in echo
+#: comments.php:73
+msgid "Log out"
+msgstr ""
+
+#. Text in echo
+#: comments.php:71
+msgid "Logged in as"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:60
+msgid "Message"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:129
+msgid "Message is required"
+msgstr ""
+
+#. Text in function
+#: archive.php:17
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:48
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:127
+msgid "Name is required"
+msgstr ""
+
+#. Text in function
+#: comments.php:28
+#: comments.php:39
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:476
+msgid "No"
+msgstr ""
+
+#. Text in echo
+#: portfolio_loop.php:144
+msgid "No categories selected. To fix this, please login to your WP Admin area and set the categories you wan"
+msgstr ""
+
+#. Text in echo
+#: loop2.php:9
+#: loop.php:6
+#: loop-archive.php:6
+msgid "Not Found"
+msgstr ""
+
+#. Text in echo
+#: search.php:32
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:357
+msgid "Number of Posts to show"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:84
+msgid "Number of photos:"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:177
+msgid "Number of tweets (Keep < 20)"
+msgstr ""
+
+#. Text in function
+#: loop2.php:64
+#: loop.php:128
+#: loop-archive.php:69
+msgid "Permalink to %1$s"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:128
+msgid "Please provide a valid e-mail"
+msgstr ""
+
+#. Text in echo
+#: comments.php:91
+msgid "Post Comment"
+msgstr ""
+
+#. Text in echo
+#: loop2.php:49
+#: single.php:42
+#: loop.php:41
+#: loop.php:113
+#: loop-archive.php:54
+msgid "Posted in "
+msgstr ""
+
+#. Text in echo
+#: widgets.php:329
+msgid "Read More"
+msgstr ""
+
+#. Text in echo
+#: loop2.php:64
+#: loop.php:62
+#: loop.php:128
+#: loop-archive.php:69
+msgid "Read more"
+msgstr ""
+
+#. Text in echo
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: search.php:34
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: 404.php:24
+msgid "Sorry, the page or file you requested may have been moved or deleted."
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:56
+msgid "Subject"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:77
+msgid "Submit"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:555
+msgid "Success Message:<br />"
+msgstr ""
+
+#. Text in function
+#: widgets.php:481
+msgid "Thank you, e-mail sent."
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:40
+msgid "There was an error submitting the form."
+msgstr ""
+
+#. Text in echo
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: widgets.php:352
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:450
+#: widgets.php:167
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:547
+msgid "Title:<br />"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:172
+msgid "Twitter Username (e.g., weblusive)"
+msgstr ""
+
+#. Text in function
+#: archive.php:19
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:477
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: contact-form.php:1
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#. Text in echo
+#: contact-form.php:1
+msgid "You forgot to enter your message."
+msgstr ""
+
+#. Text in echo
+#: contact-form.php:1
+msgid "You forgot to enter your name."
+msgstr ""
+
+#. Text in echo
+#: functions.php:160
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: comments.php:60
+msgid "Your email address will not be shared or published. Required fields are marked *"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:44
+msgid "Your email address will not be shared."
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:78
+msgid "days"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:84
+msgid "hours"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:90
+msgid "minutes"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:96
+msgid "seconds"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:72
+msgid "weeks"
+msgstr ""
+

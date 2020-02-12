@@ -1,0 +1,38 @@
+/**
+ * Sub Navigation styles
+ * ----------------------------------------------------------------------------
+**/
+.subPage-nav {
+	text-align: center;
+	padding: 0 1rem;
+	margin: 0;
+}
+
+.subPage-nav li {
+	display: inline-block;
+	margin: 0 5px;
+
+	a {
+		@include transition(.3s);
+		font-size: 14px;
+		color: $black;
+
+		&:hover {
+			color: $secondaryColor;
+		}	
+	}
+
+	&:first-child {
+		margin-left: 0;
+	}
+
+	&:last-child {
+		margin-right: 0;
+	}
+
+	&.current_page_item {
+		a {
+			color: $secondaryColor
+		}
+	}
+}

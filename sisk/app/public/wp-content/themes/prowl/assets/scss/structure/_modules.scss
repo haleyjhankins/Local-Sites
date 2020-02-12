@@ -1,0 +1,755 @@
+/**
+ * Table of Contents for Kitchen Sink:
+ *
+ *  1.0 - Custom Elements
+ *  2.0 - Buttons
+ *  3.0 - Tabs & Accordions
+ *  4.0 - Forms
+ *  5.0 - Menu Elements
+ *  6.0 - UI Elements
+ *  7.0 - Accessibility
+ * ----------------------------------------------------------------------------
+* */
+
+/**
+ * 1.0 Custom Elements
+ * ----------------------------------------------------------------------------
+ */
+
+ // Carousel Shortcode
+ .carousel-item {
+  position: relative;
+  img {
+    width: 100%;
+  }
+ }
+
+// profile page
+
+.profile-image {
+  overflow: hidden;
+  position: relative;
+
+  &:after {
+    content: url(/assets/img/circle-mask.svg);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+    min-height: 100%;
+    width: 100%;
+    background: transparent;
+    overflow: hidden;
+  }
+  &:before {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 1;
+    min-height: 100%;
+    width: 100%;
+    background: transparent;
+    border: 1px solid $white;
+    overflow: hidden;
+  }
+
+}
+
+// end profile page
+
+// location landing page
+
+.location-banner {
+  max-height: 255px;
+  overflow: hidden;
+  img {
+    width: 100%;
+  }
+}
+
+.colored-banner {
+  @include transition($transitionTime);
+  width: 640px;
+  min-height: 100px;
+  position: relative;
+  top: -20px;
+  left: 50%;
+  margin-left: -320px;
+  z-index: 5;
+  p {
+    line-height: 24px;
+  }
+  &.colored-banner-primary {
+    svg path {
+      fill: $primaryColor;
+    }
+  }
+  &.colored-banner-secondary {
+    svg path {
+      @include transition($transitionTime);
+      fill: $secondaryColor;
+    }
+  }
+  svg {
+    position: absolute;
+    top: 0;
+    left: 0px;
+    width: 110%;
+    height: 100%;
+    margin-left: -5%;
+    // min-width: 100%;
+    // min-height: 100%;
+  }
+  .colored-banner-content {
+    position: relative;
+    height: 100%;
+    padding: 20px 20px 10px;
+  }
+  @media screen and (max-width: 640px) {
+    width: 90%;
+    margin-left: -45%;
+    top: 0;
+  }
+}
+
+// Carousel Hover effect
+
+.slide-event-item {
+  margin: 0.9375rem;
+  position: relative;
+}
+
+.hover-content {
+  @include transition($transitionTime);
+  background: transparent;
+  color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  height: 100%;
+  width: 100%;
+  padding: 0.9375rem;
+  h1,h2,h3,h4,h5,h6,p {
+    @include transition($transitionTime);
+    color: transparent !important;
+  }
+  &:hover {
+    @include transition($transitionTime);
+    background: $darkGrey;
+    h1,h2,h3,h4,h5,h6,p {
+      color: $white !important;
+    }
+  }
+
+}
+
+.event-photo {
+  overflow: hidden;
+  position: relative;
+  img {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+.is-registered {
+  &:after {
+    content: "Registered";
+    font-family: $bodyFont;
+    font-weight: bold;
+    color: $white;
+    text-transform: uppercase;
+    position: absolute;
+    top: 27px;
+    right: -40px;
+    width: 160px;
+    height: 30px;
+    padding: 5px 0;
+    border-top: 2px solid $white;
+    border-bottom: 2px solid $white;
+    background: $primaryColor;
+      -ms-transform: rotate(45deg); /* IE 9 */
+      -webkit-transform: rotate(45deg); /* Chrome, Safari, Opera */
+      transform: rotate(45deg);
+    }
+  }
+
+
+/**
+ * 2.0 Buttons
+ * ----------------------------------------------------------------------------
+ */
+
+ button, .button {
+  // border-style: none;
+  // border-width: 0px;
+  cursor: pointer;
+  font-family: $primaryFont;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  // margin: 0;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-align: center;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  display: inline-block;
+  font-size: 18px;
+  background-color: transparent;
+  border: 4px solid $black;
+  border-radius: 5px;
+  color: $black;
+  @include transition($transitionTime);
+  // padding-top: 1.125rem !important;
+  // padding-right: 0 !important;
+  // padding-bottom: 1.1875rem !important;
+  // padding-left: 0 !important;
+}
+
+button:hover, button:focus, .button:hover, .button:focus {
+  border-color: $black;
+  background-color: transparent;
+  color: $black;
+}
+
+.button.white-button {
+  border: 4px solid $white;
+  color: $white;
+
+  &:hover {
+    color: $white;
+  }
+}
+
+.button.secondary {
+  border: 2px solid $primaryColor;
+  background: $white;
+  // margin-bottom: 10px;
+  color: $primaryColor;
+  // padding-top: 1.125rem !important;
+  // padding-right: 2.25rem !important;
+  // padding-bottom: 1.1875rem !important;
+  // padding-left: 2.25rem !important;
+  @include transition($transitionTime);
+}
+
+.button.secondary:hover, .button.secondary:focus {
+  background: $primaryColor;
+  color: $white;
+}
+
+.button.purplebox-button {
+  border: 5px solid $white;
+  padding: 15px !important;
+  color: $white;
+}
+
+.large.button {
+  font-size: 26px;
+  line-height: 26px;
+}
+
+.small.button {
+  font-size: 18px;
+  line-height: 18px;
+}
+
+ul.button-group {
+  .button {
+    padding: 5px 10px !important;
+  }
+  li .button.secondary {
+    border: 2px solid $primaryColor;
+    background: $white;
+    margin-bottom: 10px;
+  }
+  li .button.secondary:hover, li .button.secondary:focus {
+    background: $primaryColor;
+  }
+}
+
+.dropdown.button:before, .dropdown.secondary.button:before {
+ border-color: $primaryColor transparent transparent transparent;
+}
+
+.dropdown.secondary.button:before {
+ border-color: $primaryColor transparent transparent transparent;
+}
+
+.dropdown.secondary.button:hover:before {
+ border-color: $white transparent transparent transparent;
+}
+
+.dropdown.button.small:before, button.dropdown.small:before {
+ border-color: $primaryColor transparent transparent transparent;
+ border-width: 0.35rem;
+}
+
+.secondary.dropdown.button {
+  padding: 10px 70px 10px 25px !important;
+}
+
+
+ /**
+ * 3.0 Tabs & Accordions
+ * ----------------------------------------------------------------------------
+ */
+
+ ul.side-nav {
+  list-style-type: none;
+  margin-bottom: 45px;
+  padding: 0;
+  li {
+    @include transition($transitionTime);
+    a:not(.button) {
+      color: $primaryColor;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 18px;
+      text-transform: uppercase;
+      padding: 5px 0;
+    }
+    border-top: 1px solid $darkGrey;
+    padding: 7px 0 7px 25px;
+    margin: 0;
+    cursor: pointer;
+  }
+  li:last-child {
+    border-bottom: 1px solid $darkGrey;
+  }
+  li:hover {
+    background-color: $lightGrey;
+    a:not(.button) {
+      color: $primaryColor;
+    }
+  }
+}
+
+.side-nav li a:hover:not(.button), .side-nav li a:focus:not(.button) {
+  color: $primaryColor;
+}
+
+.accordion dd a {
+  position: relative;
+
+}
+
+.accordion dd a:after {
+  content: '+';
+  font-weight: bold;
+  position: absolute;
+  line-height: 16px;
+  top:  50%;
+  right: 20px;
+  margin-top: -8px;
+  color: $primaryColor;
+}
+
+.accordion dd.icon-minus a:after {
+  content: '-';
+}
+
+.accordion dd > a {
+  color: $primaryColor;
+  background: $lightGrey;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  border-top: 3px solid $white;
+  padding-right: 35px;
+}
+
+.accordion dd:nth-child(2n) > a {
+  background: $grey;
+}
+
+.accordion dd:last-child > a {
+  border-bottom: 1px solid $darkGrey;
+}
+
+.tabs dd > a {
+  font-weight: 700;
+}
+
+.tabs dd > a, .tabs dd > a:hover {
+  color: $primaryColor;
+  padding: 10px;
+}
+
+.tabs:not(.vertical) dd.active a {
+  background: #ffffff;
+  border: 1px solid $darkGrey;
+  border-bottom-color: transparent;
+}
+
+.tabs-content:not(.vertical) > .content.active {
+  display: block;
+  float: none;
+  border-top: 1px solid $darkGrey;
+  padding: 5px;
+  padding-top: 40px;
+  margin-top: -2px;
+}
+
+ /**
+ * 4.0 Forms
+ * ----------------------------------------------------------------------------
+ */
+
+ .search-form {
+  border-top: 3px solid $darkGrey;
+  border-bottom: 3px solid $darkGrey;
+  background: $darkGrey;
+  overflow: hidden;
+  height: 0px;
+  width: 100%;
+  position: relative;
+  -webkit-transition: height .2s ease;
+  -moz-transition: height .2s ease;
+  -ms-transition: height .2s ease;
+  -o-transition: height .2s ease;
+  transition: height .2s ease;
+  input, input:focus {
+    max-width: 960px;
+    padding-left: 80px;
+    box-sizing: border-box;
+    display: block;
+    margin: auto;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    height: 70px;
+    background: $darkGrey url('assets/img/search.svg') 33px 34px no-repeat;
+    font-size: 18px;
+    line-height: 18px;
+    font-weight: bold;
+    font-style: italic;
+    color: $white;
+  }
+  input[type="submit"] {
+    border: 1px solid $secondaryColor;
+    clip: rect(0, 0, 0, 0);
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+}
+
+::-webkit-input-placeholder {
+  color: $white;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+  color: $white;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+  color: $white;
+}
+
+:-ms-input-placeholder {
+  color: $white;
+}
+
+.postfix.button {
+  padding: 0 !important;
+  background: $primaryColor;
+  color: $white;
+  text-transform: none;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.postfix.button:hover {
+  background: $secondaryColor;
+}
+
+
+ /**
+ * 5.0 Menu Elements
+ * ----------------------------------------------------------------------------
+ */
+
+// Fixed BG image fix
+.off-canvas-wrap, .inner-wrap, .left-off-canvas-menu, .right-off-canvas-menu {
+  -webkit-backface-visibility: inherit;
+}
+
+.menu-icon {
+  text-indent: 1.94444rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  display: block;
+  padding: 0;
+  color: $white;
+  position: relative;
+  transform: translate3d(0, 0, 0);
+  right: 0.9375rem;
+  span::after {
+    content: "";
+    position: absolute;
+    display: block;
+    height: 0;
+    top: 50%;
+    margin-top: -12px;//-0.44444rem;
+    left: 0.80556rem;
+    box-shadow: 0 0px 0 2px $menu-icon-color, 0 8px 0 2px $menu-icon-color, 0 16px 0 2px $menu-icon-color;
+    width: 24px;//0.88889rem;
+  }
+}
+
+.sub-nav {
+  dt {
+    text-transform: none;
+    color: $black;
+    font-size: 18px;
+    font-family: $primaryFont;
+  }
+  padding-top: 5px;
+}
+
+.sub-nav dd a {
+  font-weight: 300;
+}
+
+.sub-nav dd.active a {
+  background: $primaryColor !important;
+  border-radius: 20px;
+}
+
+ul.pagination li a {
+  border-radius: 0;
+  color: $black;
+  font-weight: 300 !important;
+}
+
+ul.pagination li.current a {
+  background: $primaryColor;
+}
+
+.breadcrumbs-wrap {
+  background-color: #f5f5f5;
+  position: relative;
+}
+
+ul.breadcrumbs {
+  margin-bottom: 0;
+  border-color: transparent;
+  li {
+    height: 100%;
+
+  }
+}
+
+.breadcrumbs > *:before {
+  content: "\f105";
+  color: $primaryColor;
+  margin: 0 0.75rem;
+  position: relative;
+  top: 0px;
+  font-size: 11px;
+  font-weight: 300;
+  font-family: FontAwesome;
+}
+
+.breadcrumbs >* a, .breadcrumbs  strong {
+  font-size: 17px;
+  line-height: 30px;
+  font-weight: 700;
+  text-transform: none;
+  color: $primaryColor;
+}
+
+ /**
+ * 6.0 UI Elements
+ * ----------------------------------------------------------------------------
+ */
+
+// Slider/carousel
+
+.slider-height {
+  height: 600px;
+}
+
+// Slider Pagination color
+.slider {
+  .slick-dots li.slick-active button:before, .slick-dots li button:before {
+    color: $white;
+  }
+  .slick-prev {
+    left: 5%;
+    height: 30px;
+  }
+  .slick-next {
+    right: 5%;
+    height: 30px;
+  }
+  .slick-dots {
+    position: absolute;
+    bottom: 20px;
+    list-style: none;
+    display: block;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    margin: 0;
+  }
+}
+.slider.slick-slider {
+  margin-bottom: 0px !important;
+}
+.slick-prev {
+  height: 30px;
+  margin-top: -15px;
+}
+.slick-next {
+  height: 30px;
+  margin-top: -15px;
+}
+.slick-next:before {
+  content: url('../img/right-arrow.png');
+}
+.slick-prev:before {
+  content: url('../img/left-arrow.png');
+}
+
+.slick-dots li.slick-active button:before, .slick-dots li button:before {
+  color: $black;
+}
+
+.slick-next {
+  right: -45px;
+}
+
+.slick-prev {
+  left: -45px;
+}
+
+.slick-dots {
+  position: absolute;
+  list-style: none;
+  display: block;
+  text-align: center;
+  padding: 0;
+  width: 100%;
+  margin-left: 0;
+  li {
+    text-align: center;
+    width: 14px;
+    height: 14px;
+  }
+  li button {
+    margin: 0 auto;
+    width: 14px;
+    height: 14px;
+  }
+  li button:before {
+    font-size: 14px;
+    width: 14px;
+    height: 14px;
+    line-height: 16px;
+  }
+}
+
+.flex-pagination .slick-dots {
+  background: $black;
+  position: relative;
+  bottom: 0;
+  box-sizing: border-box;
+  display: flex;
+  display: -webkit-flex;
+  display: -ms-flex;
+  li {
+    @include transition($transitionTime);
+    box-sizing: border-box;
+    color: transparent;
+    font: 0/0 a;
+    text-shadow: none;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background: $darkGrey;
+    width: 75px;
+    height: 10px;
+    margin: 0 2px;
+    line-height: 1;
+    padding: 0;
+    cursor: pointer;
+    -webkit-transition: background .3s linear;
+    transition: background .3s linear;
+    &.slick-active {
+      background: $white;
+    }
+    button {
+    width: 100%;
+      &:before {
+        content: ' ' !important;
+        width: 100%;
+      }
+    }
+  }
+}
+
+
+
+.alert-box .close {
+  color: $black;
+  opacity: 1;
+  font-weight: 300;
+}
+
+.progress {
+  background: $white;
+  border: 1px solid $lightGrey;
+  .meter {
+    background: $primaryColor;
+  }
+}
+
+.progress.success .meter {
+  background: $black;
+}
+
+.alert-box {
+  background-color: $primaryColor;
+  border-color: $secondaryColor;
+}
+
+.alert-box.success {
+  background-color: $green;
+}
+
+.alert-box.alert {
+  background-color: $red;
+}
+
+.section-1:before { // add triangles to sections with mixin
+ // @include triangleDownCenter(100px, 50px, $primaryColor);
+}
+
+.section-1:after { // add triangles to sections with mixin
+  //@include triangleUpCenter(80px, 30px, $black);
+}
+
+/**
+ * 7.0 Accessibility
+ * ----------------------------------------------------------------------------
+ */
+
+ #skip {
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  left: -10000px;
+  overflow: hidden;
+}

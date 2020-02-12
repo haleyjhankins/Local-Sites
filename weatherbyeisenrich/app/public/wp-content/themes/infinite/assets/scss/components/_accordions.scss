@@ -1,0 +1,42 @@
+/**
+ * Accordion styles
+ * ----------------------------------------------------------------------------
+**/
+
+.accordion dd a {
+  position: relative;
+
+}
+
+.accordion dd a:after {
+  content: '+';
+  font-weight: bold;
+  position: absolute;
+  line-height: 16px;
+  top:  50%;
+  right: 20px;
+  margin-top: -8px;
+  color: $primaryColor;
+}
+
+.accordion dd.icon-minus a:after {
+  content: '-';
+}
+
+.accordion dd > a {
+  color: $primaryColor;
+  background: $lightGrey;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  border-top: 3px solid $white;
+  padding-right: 35px;
+}
+
+.accordion dd:nth-child(2n) > a {
+  background: $grey;
+}
+
+.accordion dd:last-child > a {
+  border-bottom: 1px solid $darkGrey;
+}

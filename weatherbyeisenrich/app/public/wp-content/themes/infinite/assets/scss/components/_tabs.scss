@@ -1,0 +1,90 @@
+/**
+ * Tab styles
+ * ----------------------------------------------------------------------------
+**/
+
+.tabs {
+	margin-left: 0;
+	margin-bottom: 50px;
+	width: 100%;
+	box-sizing: border-box;
+
+	dd {
+		display: inline-block;
+		float: none;
+		// border: 1px solid #19586e;
+		// border-right: none;
+		height: 60px;
+		text-align: center;
+		line-height: 18px;
+		font-size: 16px;
+		vertical-align: middle;
+		box-sizing: border-box;
+
+		a {
+			box-sizing: border-box;
+			display: flex;
+			align-items: center;
+			align-content: center;
+			justify-content: center;
+			line-height: 30	px;
+			font-size: 20px;
+			font-family: $secondaryFont;
+			letter-spacing: .06em;
+			text-transform: uppercase;
+			background: #ececec;
+			color: #333333;
+			height: 50px;
+			vertical-align: middle;
+			border: 1px solid #fff;
+			border-right: none;
+			border-top: none;
+			padding: 30px 2rem;
+		}
+
+		&.active {
+			background: $altColor1 !important;
+			a {
+				background: $altColor1 !important;
+				color: #fff;
+			}
+		}
+
+		&:last-child {
+			border-right: 1px solid #fff;
+		}
+
+	}
+
+	&.tabs-4 {
+		dd {
+			width: 25%;
+			float: left;
+
+		}
+	}
+	&.tabs-3 {
+		dd {
+			width: 33.3%;
+			float: left;
+
+		}
+	}
+}
+
+.tabs-content {
+	margin-bottom: 0px !important;
+}
+
+
+
+.tabs-content:not(.vertical)>.content.active {
+	margin-top: 0px;
+	border: none;
+}
+
+.tabs-content > .content {
+	width: 100%;
+	padding-bottom: 0px !important;
+	line-height: 0px;
+}

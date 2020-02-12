@@ -1,0 +1,469 @@
+0000.000 (0) Opened log file at time: Fri, 31 Jan 2020 05:34:13 +0000 on http://www.healthcarerevenuesolutions.org
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.21 WP: 5.3.2 PHP: 7.2.26-1+ubuntu18.04.1+deb.sury.org+1 (apache2handler, Linux pod-112565 4.15.0-1040-gcp #42-Ubuntu SMP Wed Aug 7 15:17:54 UTC 2019 x86_64) MySQL: 5.7.28-31-log WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 46.2M | 26M) multisite: N openssl: OpenSSL 1.1.1d  10 Sep 2019 mcrypt: N LANG: C ZipArchive::addFile: Y
+0000.008 (0) Free space on disk containing Updraft's temporary directory: Unknown
+0000.013 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.017 (0) Semaphore (fd, wp_options) being initialised
+0000.027 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.037 (0) Set semaphore last lock (fd) time to 2020-01-31 05:34:13
+0000.039 (0) Semaphore lock (fd) complete
+0000.049 (0) Backup run: resumption=0, nonce=b0e947e854e8, file_nonce=b0e947e854e8 begun at=1580448853 (0s ago), job type=backup
+0000.054 (0) Scheduling a resumption (1) after 300 seconds (1580449153) in case this run gets aborted
+0000.069 (0) Checking if we have a zip executable available
+0000.075 (0) Creation of backups of directories: beginning
+0000.086 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.599 (0) Total entities for the zip file: 878 directories, 6218 files (0 skipped as non-modified), 79.9 MB
+0000.608 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.616 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.623 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.631 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.639 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.644 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (8.8 MB, 6218 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0001.473 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 600 files added (on-disk size: 2114.2 KB)
+0001.481 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 700 files added (on-disk size: 2114.2 KB)
+0001.488 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 800 files added (on-disk size: 2114.2 KB)
+0001.495 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 900 files added (on-disk size: 2114.2 KB)
+0001.502 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1000 files added (on-disk size: 2114.2 KB)
+0001.506 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.7 MB, 6218 files batched, 501 (1002) added so far); re-opening (prior size: 2114.2 KB)
+0002.338 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1100 files added (on-disk size: 5004.7 KB)
+0002.346 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1200 files added (on-disk size: 5004.7 KB)
+0002.353 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1300 files added (on-disk size: 5004.7 KB)
+0002.361 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1400 files added (on-disk size: 5004.7 KB)
+0002.368 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1500 files added (on-disk size: 5004.7 KB)
+0002.372 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.6 MB, 6218 files batched, 501 (1503) added so far); re-opening (prior size: 5004.7 KB)
+0002.759 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1600 files added (on-disk size: 6988.6 KB)
+0002.768 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1700 files added (on-disk size: 6988.6 KB)
+0002.776 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1800 files added (on-disk size: 6988.6 KB)
+0002.783 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 1900 files added (on-disk size: 6988.6 KB)
+0002.791 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2000 files added (on-disk size: 6988.6 KB)
+0002.795 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 6218 files batched, 501 (2004) added so far); re-opening (prior size: 6988.6 KB)
+0003.242 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2100 files added (on-disk size: 8373 KB)
+0003.249 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2200 files added (on-disk size: 8373 KB)
+0003.257 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2300 files added (on-disk size: 8373 KB)
+0003.264 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2400 files added (on-disk size: 8373 KB)
+0003.271 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2500 files added (on-disk size: 8373 KB)
+0003.275 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (14.9 MB, 6218 files batched, 501 (2505) added so far); re-opening (prior size: 8373 KB)
+0005.157 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2600 files added (on-disk size: 13904.6 KB)
+0005.165 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2700 files added (on-disk size: 13904.6 KB)
+0005.172 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2800 files added (on-disk size: 13904.6 KB)
+0005.180 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 2900 files added (on-disk size: 13904.6 KB)
+0005.187 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3000 files added (on-disk size: 13904.6 KB)
+0005.192 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (0.1 MB, 6218 files batched, 501 (3006) added so far); re-opening (prior size: 13904.6 KB)
+0005.391 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3100 files added (on-disk size: 14113.2 KB)
+0005.399 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3200 files added (on-disk size: 14113.2 KB)
+0005.406 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3300 files added (on-disk size: 14113.2 KB)
+0005.413 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3400 files added (on-disk size: 14113.2 KB)
+0005.420 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3500 files added (on-disk size: 14113.2 KB)
+0005.425 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.2 MB, 6218 files batched, 501 (3507) added so far); re-opening (prior size: 14113.2 KB)
+0005.732 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3600 files added (on-disk size: 15287.6 KB)
+0005.740 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3700 files added (on-disk size: 15287.6 KB)
+0005.747 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3800 files added (on-disk size: 15287.6 KB)
+0005.754 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 3900 files added (on-disk size: 15287.6 KB)
+0005.762 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4000 files added (on-disk size: 15287.6 KB)
+0005.767 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.6 MB, 6218 files batched, 501 (4008) added so far); re-opening (prior size: 15287.6 KB)
+0006.158 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4100 files added (on-disk size: 19164.7 KB)
+0006.165 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4200 files added (on-disk size: 19164.7 KB)
+0006.172 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4300 files added (on-disk size: 19164.7 KB)
+0006.184 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4400 files added (on-disk size: 19164.7 KB)
+0006.191 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4500 files added (on-disk size: 19164.7 KB)
+0006.196 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (7.2 MB, 6218 files batched, 501 (4509) added so far); re-opening (prior size: 19164.7 KB)
+0006.981 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4600 files added (on-disk size: 21584.8 KB)
+0006.989 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4700 files added (on-disk size: 21584.8 KB)
+0007.000 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4800 files added (on-disk size: 21584.8 KB)
+0007.008 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 4900 files added (on-disk size: 21584.8 KB)
+0007.016 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5000 files added (on-disk size: 21584.8 KB)
+0007.020 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3.4 MB, 6218 files batched, 501 (5010) added so far); re-opening (prior size: 21584.8 KB)
+0007.458 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5100 files added (on-disk size: 22658.1 KB)
+0007.466 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5200 files added (on-disk size: 22658.1 KB)
+0007.477 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5300 files added (on-disk size: 22658.1 KB)
+0007.485 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5400 files added (on-disk size: 22658.1 KB)
+0007.493 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5500 files added (on-disk size: 22658.1 KB)
+0007.498 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 6218 files batched, 501 (5511) added so far); re-opening (prior size: 22658.1 KB)
+0007.893 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5600 files added (on-disk size: 23302.2 KB)
+0007.901 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5700 files added (on-disk size: 23302.2 KB)
+0007.911 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5800 files added (on-disk size: 23302.2 KB)
+0007.919 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 5900 files added (on-disk size: 23302.2 KB)
+0007.927 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 6000 files added (on-disk size: 23302.2 KB)
+0007.931 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.7 MB, 6218 files batched, 501 (6012) added so far); re-opening (prior size: 23302.2 KB)
+0009.668 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 6100 files added (on-disk size: 28090.7 KB)
+0009.677 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip.tmp: 6200 files added (on-disk size: 28090.7 KB)
+0010.307 (0) Created plugins zip (0) - 28468.7 KB in 10.2 s (2786.5 KB/s) (sha1: 37aa21221d761c81d494383cae9bf6ca1fa9b79b, sha256: 6dc78eec3605888e7bbddcdf5be1efab2428da5bdd739bd45a4e5ac15494856b)
+0010.318 (0) Beginning creation of dump of themes (split every: 400 MB)
+0010.383 (0) Total entities for the zip file: 134 directories, 2398 files (0 skipped as non-modified), 19.2 MB
+0010.392 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0010.400 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0010.408 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0010.415 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0010.422 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0010.427 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.7 MB, 2398 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0011.071 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 600 files added (on-disk size: 5054.6 KB)
+0011.078 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 700 files added (on-disk size: 5054.6 KB)
+0011.085 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 800 files added (on-disk size: 5054.6 KB)
+0011.095 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 900 files added (on-disk size: 5054.6 KB)
+0011.102 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1000 files added (on-disk size: 5054.6 KB)
+0011.106 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.7 MB, 2398 files batched, 501 (1002) added so far); re-opening (prior size: 5054.6 KB)
+0011.608 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1100 files added (on-disk size: 6856.8 KB)
+0011.615 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1200 files added (on-disk size: 6856.8 KB)
+0011.623 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1300 files added (on-disk size: 6856.8 KB)
+0011.630 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1400 files added (on-disk size: 6856.8 KB)
+0011.639 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1500 files added (on-disk size: 6856.8 KB)
+0011.643 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.7 MB, 2398 files batched, 501 (1503) added so far); re-opening (prior size: 6856.8 KB)
+0012.139 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1600 files added (on-disk size: 8650.1 KB)
+0012.146 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1700 files added (on-disk size: 8650.1 KB)
+0012.155 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1800 files added (on-disk size: 8650.1 KB)
+0012.162 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 1900 files added (on-disk size: 8650.1 KB)
+0012.169 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 2000 files added (on-disk size: 8650.1 KB)
+0012.174 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.6 MB, 2398 files batched, 501 (2004) added so far); re-opening (prior size: 8650.1 KB)
+0012.895 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 2100 files added (on-disk size: 11327.1 KB)
+0012.903 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 2200 files added (on-disk size: 11327.1 KB)
+0012.911 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip.tmp: 2300 files added (on-disk size: 11327.1 KB)
+0013.867 (0) Created themes zip (0) - 14485.6 KB in 3.5 s (4087 KB/s) (sha1: 01fd830c898fd0d833eddde8685eaec102eb5900, sha256: e24120be6412111e268a69c471ab0109725bb9053172910fc6b3b0836c935ef0)
+0013.876 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0013.879 (0) Looking for candidates to backup in: /nas/content/live/healthcarerev/wp-content/uploads
+0013.882 (0) finding files: 2015: adding to list (1)
+0013.885 (0) finding files: js_composer: adding to list (2)
+0013.887 (0) finding files: revslider: adding to list (3)
+0013.890 (0) finding files: wp-migrate-db: adding to list (4)
+0013.893 (0) finding files: 2012: adding to list (5)
+0013.897 (0) finding files: us-assets: adding to list (6)
+0013.901 (0) finding files: 2017: adding to list (7)
+0013.904 (0) finding files: smile_fonts: adding to list (8)
+0013.907 (0) finding files: gravity_forms: adding to list (9)
+0013.911 (0) finding files: 2018: adding to list (10)
+0013.914 (0) finding files: 2014: adding to list (11)
+0013.917 (0) finding files: 2019: adding to list (12)
+0013.919 (0) finding files: 2013: adding to list (13)
+0013.922 (0) finding files: fonts: adding to list (14)
+0013.925 (0) finding files: 2020: adding to list (15)
+0013.927 (0) finding files: 2016: adding to list (16)
+0013.930 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0014.001 (0) Total entities for the zip file: 506 directories, 2678 files (0 skipped as non-modified), 211.4 MB
+0014.011 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0014.019 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0014.026 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0014.033 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0014.041 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0014.045 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (4.8 MB, 2678 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0014.620 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 600 files added (on-disk size: 5051.4 KB)
+0014.627 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 700 files added (on-disk size: 5051.4 KB)
+0014.634 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 800 files added (on-disk size: 5051.4 KB)
+0014.642 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 900 files added (on-disk size: 5051.4 KB)
+0014.649 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1000 files added (on-disk size: 5051.4 KB)
+0014.654 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (9 MB, 2678 files batched, 501 (1002) added so far); re-opening (prior size: 5051.4 KB)
+0015.389 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1100 files added (on-disk size: 14309.3 KB)
+0015.396 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1200 files added (on-disk size: 14309.3 KB)
+0015.403 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1300 files added (on-disk size: 14309.3 KB)
+0015.410 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1400 files added (on-disk size: 14309.3 KB)
+0015.415 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26.2 MB, 2678 files batched, 442 (1444) added so far); re-opening (prior size: 14309.3 KB)
+0016.848 (0) A useful amount of data was added after this amount of zip processing: 2.2 s (normalised: 2.1 s, rate: 12082.9 KB/s)
+0016.855 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.21958208084, normalised_time=2.11868911342, max_time=16.8512051105, data points known=1, old_max_bytes=26214400, new_max_bytes=125099306)
+0016.875 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1500 files added (on-disk size: 39236.5 KB)
+0016.883 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1600 files added (on-disk size: 39236.5 KB)
+0016.890 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1700 files added (on-disk size: 39236.5 KB)
+0016.898 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1800 files added (on-disk size: 39236.5 KB)
+0016.910 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 1900 files added (on-disk size: 39236.5 KB)
+0016.916 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (70.2 MB, 2678 files batched, 501 (1945) added so far); re-opening (prior size: 39236.5 KB)
+0018.663 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 2000 files added (on-disk size: 111111 KB)
+0018.670 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 2100 files added (on-disk size: 111111 KB)
+0018.678 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 2200 files added (on-disk size: 111111 KB)
+0018.685 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 2300 files added (on-disk size: 111111 KB)
+0018.692 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 2400 files added (on-disk size: 111111 KB)
+0018.699 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (77.9 MB, 2678 files batched, 501 (2446) added so far); re-opening (prior size: 111111 KB)
+0020.919 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 2500 files added (on-disk size: 190649.9 KB)
+0020.926 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip.tmp: 2600 files added (on-disk size: 190649.9 KB)
+0024.500 (0) Created uploads zip (0) - 213930.4 KB in 10.6 s (20248.9 KB/s) (sha1: 77acdafd3829acfd00c5dd5bf188a4dc3dfacc4c, sha256: 21c3bf1650fd7801ea7457184aa9d49bb60c9ac95dfdaf98589b9809082b7b66)
+0024.508 (0) Beginning backup of other directories found in the content directory (index: 0)
+0024.511 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0024.514 (0) Looking for candidates to backup in: /nas/content/live/healthcarerev/wp-content
+0024.517 (0) finding files: uploads: skipping: this is the uploads directory
+0024.521 (0) finding files: plugins: skipping: this is the plugins directory
+0024.524 (0) finding files: mu-plugins: adding to list (1)
+0024.527 (0) finding files: mysql.sql: skipping: excluded by options
+0024.530 (0) finding files: themes: skipping: this is the themes directory
+0024.533 (0) finding files: advanced-cache.php: adding to list (2)
+0024.537 (0) finding files: upgrade: skipping: excluded by options
+0024.539 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0024.542 (0) finding files: index.php: adding to list (3)
+0024.546 (0) finding files: backup-8364c: skipping: excluded by options (glob)
+0024.549 (0) finding files: updraft: skipping: this is the updraft directory
+0024.558 (0) Total entities for the zip file: 14 directories, 117 files (0 skipped as non-modified), 1.1 MB
+0024.565 (0) Zip: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0024.740 (0) Created others zip (0) - 640.1 KB in 0.2 s (3393.1 KB/s) (sha1: 1bb990e05c0372275f0dfbc8a06895a78c99432e, sha256: abcb5c08222743fb6543114c9124f3e62be3fdf119878fe2fb03bcaf699858e3)
+0024.755 (0) Saving backup status to database (elements: 8)
+0024.762 (0) Beginning creation of database dump (WordPress DB)
+0024.831 (0) Table wp_options: Total expected rows (approximate): 580
+0024.884 (0) Table wp_options: Total rows added: 589 in 0.05 seconds
+0024.889 (0) Table wp_options: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_options.table.gz - 119.2 KB)
+0024.901 (0) Table wp_users: Total expected rows (approximate): 3
+0024.906 (0) Table wp_users: Total rows added: 3 in 0.00 seconds
+0024.910 (0) Table wp_users: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_users.table.gz - 0.7 KB)
+0024.920 (0) Table wp_usermeta: Total expected rows (approximate): 71
+0024.925 (0) Table wp_usermeta: Total rows added: 71 in 0.00 seconds
+0024.929 (0) Table wp_usermeta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_usermeta.table.gz - 2.6 KB)
+0024.946 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0024.952 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0024.956 (0) Table wp_commentmeta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_commentmeta.table.gz - 0.3 KB)
+0024.968 (0) Table wp_comments: Total expected rows (approximate): 0
+0024.973 (0) Table wp_comments: Total rows added: 0 in 0.00 seconds
+0024.977 (0) Table wp_comments: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_comments.table.gz - 0.5 KB)
+0024.988 (0) Table wp_links: Total expected rows (approximate): 7
+0024.995 (0) Table wp_links: Total rows added: 7 in 0.00 seconds
+0024.999 (0) Table wp_links: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_links.table.gz - 0.6 KB)
+0025.011 (0) Table wp_postmeta: Total expected rows (approximate): 11349
+0025.187 (0) Table wp_postmeta: Total rows added: 12349 in 0.17 seconds
+0025.191 (0) Table wp_postmeta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_postmeta.table.gz - 209.1 KB)
+0025.204 (0) Table wp_posts: Total expected rows (approximate): 1807
+0025.350 (0) Table wp_posts: Total rows added: 1963 in 0.14 seconds
+0025.356 (0) Table wp_posts: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_posts.table.gz - 402.4 KB)
+0025.369 (0) Table wp_term_relationships: Total expected rows (approximate): 503
+0025.376 (0) Table wp_term_relationships: Total rows added: 503 in 0.00 seconds
+0025.382 (0) Table wp_term_relationships: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_term_relationships.table.gz - 1.6 KB)
+0025.395 (0) Table wp_term_taxonomy: Total expected rows (approximate): 16
+0025.401 (0) Table wp_term_taxonomy: Total rows added: 16 in 0.00 seconds
+0025.405 (0) Table wp_term_taxonomy: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0025.417 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0025.422 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0025.425 (0) Table wp_termmeta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_termmeta.table.gz - 0.3 KB)
+0025.436 (0) Table wp_terms: Total expected rows (approximate): 16
+0025.441 (0) Table wp_terms: Total rows added: 16 in 0.00 seconds
+0025.445 (0) Table wp_terms: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_terms.table.gz - 0.6 KB)
+0025.461 (0) Table wp_duplicator_packages: Total expected rows (approximate): 1
+0025.468 (0) Table wp_duplicator_packages: Total rows added: 1 in 0.00 seconds
+0025.471 (0) Table wp_duplicator_packages: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_duplicator_packages.table.gz - 1.4 KB)
+0025.484 (0) Table wp_iwp_backup_status: Total expected rows (approximate): 0
+0025.487 (0) Table wp_iwp_backup_status: Total rows added: 0 in 0.00 seconds
+0025.491 (0) Table wp_iwp_backup_status: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_iwp_backup_status.table.gz - 0.5 KB)
+0025.503 (0) Table wp_nf3_action_meta: Total expected rows (approximate): 86
+0025.509 (0) Table wp_nf3_action_meta: Total rows added: 86 in 0.00 seconds
+0025.513 (0) Table wp_nf3_action_meta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_action_meta.table.gz - 1.3 KB)
+0025.525 (0) Table wp_nf3_actions: Total expected rows (approximate): 4
+0025.531 (0) Table wp_nf3_actions: Total rows added: 4 in 0.00 seconds
+0025.535 (0) Table wp_nf3_actions: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_actions.table.gz - 0.5 KB)
+0025.547 (0) Table wp_nf3_field_meta: Total expected rows (approximate): 223
+0025.553 (0) Table wp_nf3_field_meta: Total rows added: 223 in 0.00 seconds
+0025.559 (0) Table wp_nf3_field_meta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_field_meta.table.gz - 2 KB)
+0025.571 (0) Table wp_nf3_fields: Total expected rows (approximate): 7
+0025.577 (0) Table wp_nf3_fields: Total rows added: 7 in 0.00 seconds
+0025.581 (0) Table wp_nf3_fields: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_fields.table.gz - 0.6 KB)
+0025.593 (0) Table wp_nf3_form_meta: Total expected rows (approximate): 108
+0025.598 (0) Table wp_nf3_form_meta: Total rows added: 108 in 0.00 seconds
+0025.602 (0) Table wp_nf3_form_meta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_form_meta.table.gz - 1.4 KB)
+0025.615 (0) Table wp_nf3_forms: Total expected rows (approximate): 0
+0025.620 (0) Table wp_nf3_forms: Total rows added: 1 in 0.00 seconds
+0025.623 (0) Table wp_nf3_forms: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_forms.table.gz - 0.4 KB)
+0025.635 (0) Table wp_nf3_object_meta: Total expected rows (approximate): 360
+0025.642 (0) Table wp_nf3_object_meta: Total rows added: 360 in 0.00 seconds
+0025.646 (0) Table wp_nf3_object_meta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_object_meta.table.gz - 2.6 KB)
+0025.656 (0) Table wp_nf3_objects: Total expected rows (approximate): 180
+0025.662 (0) Table wp_nf3_objects: Total rows added: 180 in 0.00 seconds
+0025.667 (0) Table wp_nf3_objects: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_objects.table.gz - 1.4 KB)
+0025.679 (0) Table wp_nf3_relationships: Total expected rows (approximate): 0
+0025.684 (0) Table wp_nf3_relationships: Total rows added: 0 in 0.00 seconds
+0025.687 (0) Table wp_nf3_relationships: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_relationships.table.gz - 0.4 KB)
+0025.702 (0) Table wp_redirection_404: Total expected rows (approximate): 972
+0025.724 (0) Table wp_redirection_404: Total rows added: 972 in 0.02 seconds
+0025.729 (0) Table wp_redirection_404: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_redirection_404.table.gz - 16.7 KB)
+0025.742 (0) Table wp_redirection_groups: Total expected rows (approximate): 2
+0025.748 (0) Table wp_redirection_groups: Total rows added: 2 in 0.00 seconds
+0025.751 (0) Table wp_redirection_groups: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_redirection_groups.table.gz - 0.4 KB)
+0025.764 (0) Table wp_redirection_items: Total expected rows (approximate): 28
+0025.771 (0) Table wp_redirection_items: Total rows added: 28 in 0.00 seconds
+0025.776 (0) Table wp_redirection_items: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_redirection_items.table.gz - 1.3 KB)
+0025.789 (0) Table wp_redirection_logs: Total expected rows (approximate): 0
+0025.795 (0) Table wp_redirection_logs: Total rows added: 0 in 0.00 seconds
+0025.799 (0) Table wp_redirection_logs: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_redirection_logs.table.gz - 0.4 KB)
+0025.812 (0) Table wp_revslider_css: Total expected rows (approximate): 84
+0025.819 (0) Table wp_revslider_css: Total rows added: 84 in 0.00 seconds
+0025.825 (0) Table wp_revslider_css: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_css.table.gz - 4 KB)
+0025.838 (0) Table wp_revslider_layer_animations: Total expected rows (approximate): 0
+0025.844 (0) Table wp_revslider_layer_animations: Total rows added: 0 in 0.00 seconds
+0025.848 (0) Table wp_revslider_layer_animations: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_layer_animations.table.gz - 0.3 KB)
+0025.861 (0) Table wp_revslider_navigations: Total expected rows (approximate): 0
+0025.866 (0) Table wp_revslider_navigations: Total rows added: 1 in 0.00 seconds
+0025.870 (0) Table wp_revslider_navigations: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_navigations.table.gz - 1.1 KB)
+0025.883 (0) Table wp_revslider_sliders: Total expected rows (approximate): 4
+0025.888 (0) Table wp_revslider_sliders: Total rows added: 5 in 0.00 seconds
+0025.892 (0) Table wp_revslider_sliders: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_sliders.table.gz - 3.7 KB)
+0025.903 (0) Table wp_revslider_slides: Total expected rows (approximate): 3
+0025.916 (0) Table wp_revslider_slides: Total rows added: 8 in 0.01 seconds
+0025.921 (0) Table wp_revslider_slides: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_slides.table.gz - 24.5 KB)
+0025.934 (0) Table wp_revslider_static_slides: Total expected rows (approximate): 4
+0025.940 (0) Table wp_revslider_static_slides: Total rows added: 5 in 0.00 seconds
+0025.944 (0) Table wp_revslider_static_slides: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_static_slides.table.gz - 0.4 KB)
+0025.956 (0) Table wp_rg_form: Total expected rows (approximate): 1
+0025.962 (0) Table wp_rg_form: Total rows added: 1 in 0.00 seconds
+0025.966 (0) Table wp_rg_form: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_form.table.gz - 0.4 KB)
+0025.980 (0) Table wp_rg_form_meta: Total expected rows (approximate): 1
+0025.986 (0) Table wp_rg_form_meta: Total rows added: 1 in 0.00 seconds
+0025.990 (0) Table wp_rg_form_meta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_form_meta.table.gz - 1.9 KB)
+0026.000 (0) Table wp_rg_form_view: Total expected rows (approximate): 3108
+0026.033 (0) Table wp_rg_form_view: Total rows added: 3108 in 0.03 seconds
+0026.038 (0) Table wp_rg_form_view: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_form_view.table.gz - 42 KB)
+0026.050 (0) Table wp_rg_incomplete_submissions: Total expected rows (approximate): 0
+0026.054 (0) Table wp_rg_incomplete_submissions: Total rows added: 0 in 0.00 seconds
+0026.058 (0) Table wp_rg_incomplete_submissions: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_incomplete_submissions.table.gz - 0.4 KB)
+0026.073 (0) Table wp_rg_lead: Total expected rows (approximate): 28
+0026.079 (0) Table wp_rg_lead: Total rows added: 28 in 0.00 seconds
+0026.082 (0) Table wp_rg_lead: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead.table.gz - 1.8 KB)
+0026.092 (0) Table wp_rg_lead_detail: Total expected rows (approximate): 111
+0026.099 (0) Table wp_rg_lead_detail: Total rows added: 111 in 0.00 seconds
+0026.103 (0) Table wp_rg_lead_detail: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead_detail.table.gz - 10.7 KB)
+0026.114 (0) Table wp_rg_lead_detail_long: Total expected rows (approximate): 11
+0026.121 (0) Table wp_rg_lead_detail_long: Total rows added: 11 in 0.00 seconds
+0026.125 (0) Table wp_rg_lead_detail_long: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead_detail_long.table.gz - 7.6 KB)
+0026.136 (0) Table wp_rg_lead_meta: Total expected rows (approximate): 0
+0026.140 (0) Table wp_rg_lead_meta: Total rows added: 0 in 0.00 seconds
+0026.143 (0) Table wp_rg_lead_meta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead_meta.table.gz - 0.4 KB)
+0026.154 (0) Table wp_rg_lead_notes: Total expected rows (approximate): 0
+0026.159 (0) Table wp_rg_lead_notes: Total rows added: 0 in 0.00 seconds
+0026.162 (0) Table wp_rg_lead_notes: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead_notes.table.gz - 0.4 KB)
+0026.172 (0) Table wp_strong_views: Total expected rows (approximate): 2
+0026.177 (0) Table wp_strong_views: Total rows added: 2 in 0.00 seconds
+0026.181 (0) Table wp_strong_views: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_strong_views.table.gz - 1.4 KB)
+0026.190 (0) Table wp_w3tc_cdn_queue: Total expected rows (approximate): 0
+0026.196 (0) Table wp_w3tc_cdn_queue: Total rows added: 0 in 0.00 seconds
+0026.199 (0) Table wp_w3tc_cdn_queue: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_w3tc_cdn_queue.table.gz - 0.4 KB)
+0026.212 (0) Table wp_wpmm_subscribers: Total expected rows (approximate): 0
+0026.217 (0) Table wp_wpmm_subscribers: Total rows added: 0 in 0.00 seconds
+0026.221 (0) Table wp_wpmm_subscribers: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_wpmm_subscribers.table.gz - 0.3 KB)
+0026.232 (0) Table wp_yikes_easy_mc_forms: Total expected rows (approximate): 0
+0026.237 (0) Table wp_yikes_easy_mc_forms: Total rows added: 0 in 0.00 seconds
+0026.241 (0) Table wp_yikes_easy_mc_forms: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_yikes_easy_mc_forms.table.gz - 0.4 KB)
+0026.258 (0) Table wp_yoast_seo_links: Total expected rows (approximate): 85
+0026.265 (0) Table wp_yoast_seo_links: Total rows added: 85 in 0.00 seconds
+0026.269 (0) Table wp_yoast_seo_links: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_yoast_seo_links.table.gz - 1.7 KB)
+0026.281 (0) Table wp_yoast_seo_meta: Total expected rows (approximate): 64
+0026.287 (0) Table wp_yoast_seo_meta: Total rows added: 64 in 0.00 seconds
+0026.290 (0) Table wp_yoast_seo_meta: finishing file (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_yoast_seo_meta.table.gz - 0.6 KB)
+0026.299 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_options.table.gz (1/48): adding to final database dump
+0026.334 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_users.table.gz (2/48): adding to final database dump
+0026.338 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_usermeta.table.gz (3/48): adding to final database dump
+0026.342 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_commentmeta.table.gz (4/48): adding to final database dump
+0026.346 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_comments.table.gz (5/48): adding to final database dump
+0026.350 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_links.table.gz (6/48): adding to final database dump
+0026.353 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_postmeta.table.gz (7/48): adding to final database dump
+0026.414 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_posts.table.gz (8/48): adding to final database dump
+0026.506 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_term_relationships.table.gz (9/48): adding to final database dump
+0026.511 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_term_taxonomy.table.gz (10/48): adding to final database dump
+0026.517 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_termmeta.table.gz (11/48): adding to final database dump
+0026.521 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_terms.table.gz (12/48): adding to final database dump
+0026.524 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_duplicator_packages.table.gz (13/48): adding to final database dump
+0026.530 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_iwp_backup_status.table.gz (14/48): adding to final database dump
+0026.534 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_action_meta.table.gz (15/48): adding to final database dump
+0026.538 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_actions.table.gz (16/48): adding to final database dump
+0026.542 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_field_meta.table.gz (17/48): adding to final database dump
+0026.546 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_fields.table.gz (18/48): adding to final database dump
+0026.550 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_form_meta.table.gz (19/48): adding to final database dump
+0026.553 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_forms.table.gz (20/48): adding to final database dump
+0026.555 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_object_meta.table.gz (21/48): adding to final database dump
+0026.560 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_objects.table.gz (22/48): adding to final database dump
+0026.564 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_nf3_relationships.table.gz (23/48): adding to final database dump
+0026.567 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_redirection_404.table.gz (24/48): adding to final database dump
+0026.576 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_redirection_groups.table.gz (25/48): adding to final database dump
+0026.580 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_redirection_items.table.gz (26/48): adding to final database dump
+0026.583 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_redirection_logs.table.gz (27/48): adding to final database dump
+0026.587 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_css.table.gz (28/48): adding to final database dump
+0026.591 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_layer_animations.table.gz (29/48): adding to final database dump
+0026.595 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_navigations.table.gz (30/48): adding to final database dump
+0026.599 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_sliders.table.gz (31/48): adding to final database dump
+0026.604 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_slides.table.gz (32/48): adding to final database dump
+0026.615 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_revslider_static_slides.table.gz (33/48): adding to final database dump
+0026.619 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_form.table.gz (34/48): adding to final database dump
+0026.623 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_form_meta.table.gz (35/48): adding to final database dump
+0026.627 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_form_view.table.gz (36/48): adding to final database dump
+0026.643 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_incomplete_submissions.table.gz (37/48): adding to final database dump
+0026.648 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead.table.gz (38/48): adding to final database dump
+0026.652 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead_detail.table.gz (39/48): adding to final database dump
+0026.657 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead_detail_long.table.gz (40/48): adding to final database dump
+0026.662 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead_meta.table.gz (41/48): adding to final database dump
+0026.666 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_rg_lead_notes.table.gz (42/48): adding to final database dump
+0026.669 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_strong_views.table.gz (43/48): adding to final database dump
+0026.672 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_w3tc_cdn_queue.table.gz (44/48): adding to final database dump
+0026.676 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_wpmm_subscribers.table.gz (45/48): adding to final database dump
+0026.679 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_yikes_easy_mc_forms.table.gz (46/48): adding to final database dump
+0026.682 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_yoast_seo_links.table.gz (47/48): adding to final database dump
+0026.686 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db-table-wp_yoast_seo_meta.table.gz (48/48): adding to final database dump
+0026.690 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db.gz: finished writing out complete database file (848 KB)
+0026.716 (0) Total database tables backed up: 48 (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db.gz, size: 877546, sha1: 5b4e504c00eaa6396e4444a1572adcdcc1a3701a, sha256: 02067ff7e4a02a2fdbf7219ff5d500a607b4bb131458d5448ee331776f0f241f)
+0026.732 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0026.735 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0026.737 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0026.739 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-others.zip: others: This file has not yet been successfully uploaded: will queue
+0026.742 (0) backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db.gz: db: This file has not yet been successfully uploaded: will queue
+0026.745 (0) Saving backup history. Total backup size: 252.3 MB
+0026.750 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0026.758 (0) Cloud backup selection (1/1): dropbox with instance (1/1) (last)
+0026.762 (0) Beginning dispatch of backup to remote (dropbox) (instance identifier s-32ac1c1bd45e936c5b824fcdb342f0c2)
+0026.765 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0026.774 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0026.967 (0) Dropbox: quota usage: used=120.2 MB, total=2048 MB, available=1927.8 MB
+0026.971 (0) Dropbox: Attempt to upload: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip to: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip
+0028.050 (0) Dropbox chunked upload: 3.6 % uploaded (AAAAAAAAAVp9ECiLdJ2SOg, 1048576, 8192 KB)
+0030.143 (0) Dropbox chunked upload: 32.4 % uploaded (AAAAAAAAAVp9ECiLdJ2SOg, 9437184, 10240 KB)
+0032.559 (0) Dropbox chunked upload: 68.3 % uploaded (AAAAAAAAAVp9ECiLdJ2SOg, 19922944, 10240 KB)
+0034.836 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAVp9ECiLdJ2SOg, 29151910, 10240 KB)
+0036.583 (0) Recording as successfully uploaded: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip
+0036.597 (0) Deleting local file: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip: OK
+0036.603 (0) Dropbox: File upload success (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-plugins.zip): 28468 KB in 9s (2955 KB/s)
+0036.827 (0) Dropbox: quota usage: used=148 MB, total=2048 MB, available=1900 MB
+0036.833 (0) Dropbox: Attempt to upload: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip to: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip
+0038.610 (0) Dropbox chunked upload: 70.7 % uploaded (AAAAAAAAAVtdrBMYSB2X-A, 10485760, 10240 KB)
+0040.595 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAVtdrBMYSB2X-A, 14833263, 10240 KB)
+0042.689 (0) Recording as successfully uploaded: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip
+0042.699 (0) Deleting local file: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip: OK
+0042.704 (0) Dropbox: File upload success (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-themes.zip): 14485 KB in 5s (2467 KB/s)
+0042.880 (0) Dropbox: quota usage: used=162.1 MB, total=2048 MB, available=1885.9 MB
+0042.884 (0) Dropbox: Attempt to upload: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip to: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip
+0044.673 (0) Dropbox chunked upload: 4.8 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 10485760, 10240 KB)
+0046.467 (0) Dropbox chunked upload: 9.6 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 20971520, 10240 KB)
+0048.485 (0) Dropbox chunked upload: 14.4 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 31457280, 10240 KB)
+0050.445 (0) Dropbox chunked upload: 19.1 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 41943040, 10240 KB)
+0052.353 (0) Dropbox chunked upload: 23.9 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 52428800, 10240 KB)
+0054.018 (0) Dropbox chunked upload: 28.7 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 62914560, 10240 KB)
+0056.204 (0) Dropbox chunked upload: 33.5 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 73400320, 10240 KB)
+0058.140 (0) Dropbox chunked upload: 38.3 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 83886080, 10240 KB)
+0060.056 (0) Dropbox chunked upload: 43.1 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 94371840, 10240 KB)
+0062.259 (0) Dropbox chunked upload: 47.9 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 104857600, 10240 KB)
+0064.528 (0) Dropbox chunked upload: 52.7 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 115343360, 10240 KB)
+0066.671 (0) Dropbox chunked upload: 57.4 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 125829120, 10240 KB)
+0068.786 (0) Dropbox chunked upload: 62.2 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 136314880, 10240 KB)
+0071.023 (0) Dropbox chunked upload: 67 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 146800640, 10240 KB)
+0073.316 (0) Dropbox chunked upload: 71.8 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 157286400, 10240 KB)
+0075.296 (0) Dropbox chunked upload: 76.6 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 167772160, 10240 KB)
+0077.738 (0) Dropbox chunked upload: 81.4 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 178257920, 10240 KB)
+0079.938 (0) Dropbox chunked upload: 86.2 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 188743680, 10240 KB)
+0081.921 (0) Dropbox chunked upload: 90.9 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 199229440, 10240 KB)
+0083.999 (0) Dropbox chunked upload: 95.7 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 209715200, 10240 KB)
+0086.282 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAVz-fqd5YyaLLg, 219064758, 10240 KB)
+0087.455 (0) Recording as successfully uploaded: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip
+0087.504 (0) Deleting local file: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip: OK
+0087.512 (0) Dropbox: File upload success (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-uploads.zip): 213930 KB in 44s (4793 KB/s)
+0087.700 (0) Dropbox: quota usage: used=371 MB, total=2048 MB, available=1677 MB
+0087.705 (0) Dropbox: Attempt to upload: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-others.zip to: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-others.zip
+0088.739 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAV2nY5PArw9qaA, 655459, 10240 KB)
+0089.989 (0) Recording as successfully uploaded: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-others.zip
+0089.997 (0) Deleting local file: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-others.zip: OK
+0089.999 (0) Dropbox: File upload success (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-others.zip): 640 KB in 2s (278 KB/s)
+0090.164 (0) Dropbox: quota usage: used=371.6 MB, total=2048 MB, available=1676.4 MB
+0090.168 (0) Dropbox: Attempt to upload: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db.gz to: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db.gz
+0091.199 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAAV6kJWtN1KFP1g, 877546, 10240 KB)
+0092.808 (0) Recording as successfully uploaded: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db.gz
+0092.817 (0) Deleting local file: backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db.gz: OK
+0092.823 (0) Dropbox: File upload success (backup_2020-01-31-0534_ERISA_Recovery_b0e947e854e8-db.gz): 856 KB in 2s (322 KB/s)
+0092.847 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0092.853 (0) Number of backup sets in history: 1; groups (db): 1
+0092.857 (0) Examining (for databases) backup set with group_id=0, nonce=b0e947e854e8, datestamp=1580448853 (Jan 31 2020 05:34:13)
+0092.861 (0) This backup set is the backup set just made, so will not be deleted.
+0092.861 (0) Number of backup sets in history: 1; groups (files): 1
+0092.865 (0) Examining (for files) backup set with nonce=b0e947e854e8, datestamp=1580448853 (Jan 31 2020 05:34:13)
+0092.865 (0) This backup set is the backup set just made, so will not be deleted.
+0092.869 (0) This backup set is the backup set just made, so will not be deleted.
+0092.869 (0) This backup set is the backup set just made, so will not be deleted.
+0092.869 (0) This backup set is the backup set just made, so will not be deleted.
+0092.869 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0092.873 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0092.882 (0) Resume backup (b0e947e854e8, 0): finish run
+0092.895 (0) Decremented the semaphore (fd) by 1
+0092.901 (0) Semaphore (fd) unlocked
+0092.905 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0092.916 (0) No email will/can be sent - the user has not configured an email address.
+0092.921 (0) The backup apparently succeeded and is now complete

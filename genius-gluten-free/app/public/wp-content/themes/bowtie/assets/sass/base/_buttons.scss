@@ -1,0 +1,27 @@
+input[type="submit"],
+input[type="button"] {
+  @include button;
+}
+
+.button {
+  padding: 1em 1.5em 0.8em;
+  line-height: 1em;
+  font-family: $fonts-tertiary;
+  text-transform: uppercase;
+  font-weight: 700;
+  background: color('accent');
+  color: #fff;
+  border-radius: 0.5em;
+  transition: none;
+
+  &.button--hollow {
+    background: transparent;
+    border: 3px solid color('accent');
+    color: color('accent');
+
+    &:hover {
+      background: color('accent');
+      color: #fff;
+    }
+  }
+}

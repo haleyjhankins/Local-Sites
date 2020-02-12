@@ -1,0 +1,101 @@
+/*-----------------------------------------------------------------------------------*/
+/*	Start Global CSS
+/*-----------------------------------------------------------------------------------*/
+
+body{
+	background-image:url(../images/page-bg.jpg);
+	background-position:top left;
+	background-repeat:repeat;
+	background-color:#5d924b;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:13px;
+	color:#ffffff;
+	padding:0px;
+	margin:0px;
+	text-align:center;
+}
+
+img{
+	border:0;
+}
+
+a{
+	border:0;
+	text-decoration:none;
+	outline:none;
+}
+
+.container{
+	width:780px;
+	margin:0px auto;
+	text-align:left;
+}
+
+.clear{
+	clear:both;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*	Main Content
+/*-----------------------------------------------------------------------------------*/
+
+#main-content{
+	background-image:url(../images/main-bg.jpg);
+	background-position:center -40px;
+	background-repeat:no-repeat;
+	min-height:430px;
+	padding:290px 0 0 0;
+}
+
+#main-content h1{
+	font-size:22px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#ffffff;
+	font-weight:normal;
+	text-align:center;
+	font-style:italic;
+	border-top:1px dashed #FFC18F;
+	border-bottom:1px dashed #FFC18F;
+	padding:30px 0px;
+	margin:0 0 30px 0;
+}
+
+#main-content p{
+	line-height:22px;
+	margin:0 0 20px 0;
+	color:#FFC18F;
+	text-indent:20px;
+}
+
+#left{
+	float:left;
+	width:370px;
+	margin:0 40px 0 0;
+}
+
+#right{
+	float:left;
+	width:370px;
+}
+
+/*-----------------------------------------------------------------------------------*/
+/*	Browser List
+/*-----------------------------------------------------------------------------------*/
+
+#browser-wrapper{
+	border-top:1px dashed #FFC18F;
+	border-bottom:1px dashed #FFC18F;
+	margin:15px 0 0 0;
+	padding:15px 0px;
+}
+
+.browser{
+	margin:0 25px 0 0;
+	padding:0px;
+	outline:0px;
+}
+
+#upgrade{
+	text-align:center;
+	margin:15px 0 0 0;
+}

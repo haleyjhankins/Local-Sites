@@ -1,0 +1,433 @@
+// Colors
+
+.primary-color-bg {
+  background-color: $primaryColor;
+}
+
+.alt-color1-bg {
+  background-color: $altColor1;
+}
+
+.alt-color2-bg {
+  background-color: $altColor2;
+}
+
+.secondary-color-bg {
+  background-color: $secondaryColor;
+}
+
+.white-bg {
+  background-color: $white;
+}
+
+.red-bg {
+  background-color: $red;
+}
+
+.black-bg {
+  background-color: $black;
+  p {
+    color: $white;
+  }
+}
+
+.black-rgba-bg {
+  background: $rgbaBlack;
+}
+
+.grey-bg {
+  background-color: $grey;
+}
+
+.dark-grey-bg {
+  background-color: $darkGrey;
+}
+
+.transparent-bg {
+  background: transparent;
+}
+
+.primary-text {
+  color: $primaryColor;
+  h1,h2,h3,h4,h5,h6,p {
+    color: $primaryColor;
+  }
+}
+
+.secondary-text {
+  color: $secondaryColor;
+  h1,h2,h3,h4,h5,h6,p {
+    color: $secondaryColor;
+  }
+}
+
+.red-text {
+  color: $red;
+  h1,h2,h3,h4,h5,h6,p {
+    color: $red;
+  }
+}
+
+.alt2-text {
+  color: $altColor2;
+}
+
+.black-text {
+  color: $black;
+  h1,h2,h3,h4,h5,h6,p {
+    color: $black;
+  }
+}
+
+.grey-text {
+  color: $grey;
+  h1,h2,h3,h4,h5,h6,p {
+    color: $grey;
+  }
+}
+
+.white, .white h1, .white h2, .white h3, .white h4, .white h5, .white h6, .white p {
+  color: $white;
+}
+
+.white-bg {
+  background-color: $white;
+}
+
+// Text
+
+.primary-font {
+  font-family: $primaryFont;
+}
+
+.secondary-font {
+  font-family: $secondaryFont;
+}
+
+.body-font {
+  font-family: $bodyFont;
+}
+
+.xlarge-text {
+  font-weight: 400;
+  font-size: 144px;
+  line-height: 144px;
+  letter-spacing: .120rem;
+  text-transform: uppercase;
+
+}
+
+.large-text {
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 96px;
+  letter-spacing: .120rem;
+  text-transform: uppercase;
+}
+
+.medium-text {
+  font-weight: 300;
+  font-size: 60px;
+  line-height: 63px;
+  letter-spacing: .120rem;
+  text-transform: uppercase;
+}
+
+
+
+.bold {
+  font-weight: 700;
+}
+
+
+// Spacing & Positioning
+
+.pl5 {
+  padding: 0 0 0 5px;
+}
+
+.pr5 {
+  padding: 0 5px 0 0;
+}
+
+.pd15 {
+  padding: .9375rem 0;
+}
+
+.pd25 {
+  padding: 25px 0;
+}
+
+.pd40 {
+  padding: 40px 0;
+}
+
+.pd50 {
+  padding: 50px 0;
+
+  @media screen and (max-width: 640px) {
+      padding: 25px 0;
+  }
+}
+
+.pd75 {
+  padding: 75px 0;
+}
+
+.pd100 {
+  padding: 100px 0;
+
+  @media screen and (max-width: 640px) {
+      padding: 50px 0;
+  }
+}
+
+.pd150 {
+  padding: 150px 0;
+
+  @media screen and (max-width: 640px) {
+      padding: 75px 0;
+  }
+}
+
+.pt25 {
+  padding-top: 25px;
+}
+
+.pt50 {
+  padding-top: 50px;
+}
+
+.pt75 {
+  padding-top: 75px;
+}
+
+.pt100 {
+  padding-top: 100px;
+}
+
+.pb0 {
+  padding-bottom: 0 !important;
+}
+
+.pb15 {
+  padding-bottom: .9375rem;
+}
+
+.pt15 {
+  padding-top: .9375rem;
+}
+
+.pt30 {
+  padding-top: 30px;
+}
+
+.pb25 {
+  padding-bottom: 25px;
+}
+
+.pb50 {
+  padding-bottom: 50px;
+}
+
+.pb75 {
+  padding-bottom: 75px;
+}
+
+.pb100 {
+  padding-bottom: 100px;
+}
+
+.m15 {
+  margin-left: .9375rem;
+  margin-right: .9375rem;
+}
+.mr15 {
+  margin-right: .9375rem !important;
+}
+
+.ml15 {
+  margin-left: .9375rem !important;
+}
+
+.mb0 {
+  margin-bottom: 0 !important;
+}
+
+.mb15 {
+  margin-bottom: .9375rem;
+}
+
+.mb40 {
+  margin-bottom: 40px;
+}
+
+.mb50 {
+  margin-bottom: 50px;
+}
+
+.mb80 {
+  margin-bottom: 80px;
+}
+
+.mt15 {
+  margin-top: .9375rem;
+}
+
+.mt80 {
+  margin-top: 80px;
+}
+
+.section-content {
+  padding: 15px;
+
+}
+
+.equalize-this .columns {
+  overflow: hidden;
+}
+
+.no-row:before, .no-row:after {
+  content: " ";
+  display: table;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.outer {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  display: table;
+}
+
+.outer .inner {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 0;
+}
+
+.full-background {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  z-index: -1;
+}
+
+// Backgrounds and Images
+
+.cover {
+  background-size: cover !important;
+}
+
+.fixed-bg {
+  background-attachment: fixed !important;
+}
+
+.full-img {
+  width: 100%;
+}
+
+//Borders
+
+.border-primary {
+  border-color: $primaryColor !important;
+  color: $primaryColor !important;
+  &:hover {
+    color: $white !important;
+  }
+}
+
+.bt {
+  border-top: 1px solid $altColor2;
+}
+.bb {
+  border-bottom: 1px solid $altColor2;
+}
+.bl {
+  border-left: 1px solid $altColor2;
+}
+.br {
+  border-right: 1px solid $altColor2;
+}
+
+
+// General
+
+.relative {
+  position: relative;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.no-height {
+  max-height: 0px !important;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.hover-click {
+  cursor: pointer;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.centered-list {
+  display: inline-block;
+  li {
+    display: inline-block;
+    float: none;
+    margin: 0 28px;
+  }
+  li:first-child {
+    margin-left: 0;
+  }
+  li:last-child {
+    margin-right: 0;
+
+  }
+}
+
+.no-click {
+  pointer-events: none;
+}
+
+
+.triangle-down {
+  @include triangleDownCenter(100px, 50px, $white);
+}
+
+.triangle-up {
+  @include triangleUpCenter(50px, 20px, $black);
+}
+
+.triangle-right:after {
+  @include triangleRight(50px, 20px, $black);
+}
+
+.transition {
+  @include transition($transitionTime)
+}
+
+
+
+
+
+

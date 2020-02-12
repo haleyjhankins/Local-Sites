@@ -1,0 +1,1058 @@
+[11-Feb-2020 17:50:38 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:38 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:38 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:38 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:38 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:38 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:38 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:38 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:38 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:38 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:38 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:38 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:38 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:38 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:38 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:38 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:38 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:38 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:38 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:38 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:38 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:38 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:38 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:38 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:38 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:38 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:38 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:38 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:38 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:38 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:38 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:38 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:38 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:39 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:39 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:39 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:39 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:39 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:39 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:39 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:39 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:39 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:39 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:39 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:39 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:39 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:39 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:39 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:39 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:39 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:39 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:39 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:39 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:39 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:39 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:39 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:39 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:39 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:39 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:39 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:39 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:39 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:39 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:39 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:39 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:39 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:39 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:39 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:39 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:39 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:39 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:39 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:39 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:39 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:39 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:39 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:39 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:39 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:39 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:39 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:39 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:39 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:39 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:39 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:39 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:39 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:39 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:39 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:39 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:39 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:39 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:39 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:39 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:39 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:39 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:39 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:39 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:39 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:39 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:43 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:43 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:43 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:43 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:43 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:43 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:43 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:43 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:43 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:43 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:43 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:43 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:43 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:43 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:43 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:43 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:43 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:43 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:43 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:43 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:43 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:43 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:43 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:43 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:43 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:43 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:43 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:43 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:43 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:43 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:43 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:43 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:43 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:44 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:44 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:44 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:44 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:44 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:47 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:47 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:47 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:47 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:47 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:47 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:47 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:47 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:47 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:47 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:50:48 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:50:48 UTC] PHP Stack trace:
+[11-Feb-2020 17:50:48 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 17:50:48 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 17:50:48 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 17:50:48 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 17:50:48 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 17:50:48 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 17:50:48 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 17:50:48 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 17:50:48 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:51:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 17:51:26 UTC] PHP Stack trace:
+[11-Feb-2020 17:51:26 UTC] PHP   1. {main}() /Users/development/Local Sites/healthcare-revenue/app/public/wp-admin/index.php:0
+[11-Feb-2020 17:51:26 UTC] PHP   2. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-admin/index.php:10
+[11-Feb-2020 17:51:26 UTC] PHP   3. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-admin/admin.php:34
+[11-Feb-2020 17:51:26 UTC] PHP   4. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-load.php:37
+[11-Feb-2020 17:51:26 UTC] PHP   5. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-config.php:125
+[11-Feb-2020 17:51:26 UTC] PHP   6. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:51:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 17:51:26 UTC] PHP Stack trace:
+[11-Feb-2020 17:51:26 UTC] PHP   1. {main}() /Users/development/Local Sites/healthcare-revenue/app/public/wp-admin/index.php:0
+[11-Feb-2020 17:51:26 UTC] PHP   2. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-admin/index.php:10
+[11-Feb-2020 17:51:26 UTC] PHP   3. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-admin/admin.php:34
+[11-Feb-2020 17:51:26 UTC] PHP   4. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-load.php:37
+[11-Feb-2020 17:51:26 UTC] PHP   5. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-config.php:125
+[11-Feb-2020 17:51:26 UTC] PHP   6. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:51:26 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 17:51:26 UTC] PHP Stack trace:
+[11-Feb-2020 17:51:26 UTC] PHP   1. {main}() /Users/development/Local Sites/healthcare-revenue/app/public/wp-admin/index.php:0
+[11-Feb-2020 17:51:26 UTC] PHP   2. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-admin/index.php:10
+[11-Feb-2020 17:51:26 UTC] PHP   3. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-admin/admin.php:34
+[11-Feb-2020 17:51:26 UTC] PHP   4. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-load.php:37
+[11-Feb-2020 17:51:26 UTC] PHP   5. require_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-config.php:125
+[11-Feb-2020 17:51:26 UTC] PHP   6. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 17:51:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[11-Feb-2020 17:51:44 UTC] PHP Stack trace:
+[11-Feb-2020 17:51:44 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:0
+[11-Feb-2020 17:51:44 UTC] PHP   2. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:947
+[11-Feb-2020 17:51:44 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 17:51:44 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 17:51:44 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 17:51:44 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 17:51:44 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine System","slug":"mu-plugin.php","ver":"3.2.2","sig":"v1:0610b6df432114ceed9e12ead1914c19af6dd6bf91bbb3ad4cabf5ebbc9502d5"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"Force Strong Passwords - WPE Edition","slug":"slt-force-strong-passwords.php","ver":"1.6.4","sig":"v1:47cdb56f45d33c73a1a9ff15e35dd71ea72a79b728c1b5f608b7b84906bb9e70"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine Seamless Login Plugin","slug":"wpe-wp-sign-on-plugin.php","ver":"1.4.0","sig":"v1:d56e936b9eba34c4c6adf1e7ba6d751b7512bce129a822a9b6c0a82e4f483f73"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine Security Auditor","slug":"wpengine-security-auditor.php","ver":"1.0.8","sig":"v1:cd2e068d3967655c0e34da64c8789c7a4c0a94e931f328a00c4ccc857d3c3f28"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Akismet Anti-Spam","slug":"akismet/akismet.php","ver":"4.1.3","sig":"v1:5236c81c586fd8e5c3161d045a838b36dce09537223a5c9f62b96792ce486707"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Better Search Replace","slug":"better-search-replace/better-search-replace.php","ver":"1.3.3","sig":"v1:cc1bf830006e6720cf8d10df433cf16a75e97e1cc6897ac340acb14f9cf1bce0"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"CallRail Phone Call Tracking","slug":"callrail-phone-call-tracking/callrail.php","ver":"0.4.2","sig":"v1:47c562812301979d7778a13c9cbe7f90c9cd47c0fa896b1a95c7674ac5fc1ed9"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Classic Editor","slug":"classic-editor/classic-editor.php","ver":"1.5","sig":"v1:8df1584d577e702b0751b47c394875a8ab9e40c1db5a56b22de2fd77f6a2e8f8"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Contact Form 7","slug":"contact-form-7/wp-contact-form-7.php","ver":"5.1.6","sig":"v1:3a83eec7add22f04e4704aa5a88447d13eec76e789572ff49289fd5222203abc"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Flamingo","slug":"flamingo/flamingo.php","ver":"2.1.1","sig":"v1:de07f7864e116a307a8249fb3647ab2ac742b02f82b12dbc60760fa0b8e86330"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"WPBakery Page Builder","slug":"js_composer/js_composer.php","ver":"5.4.7","sig":"v1:d41014ad5a39a31abfa25335a98cd7fb14576817ecf6247fd61f42b0918d8588"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Leadpages Connector","slug":"leadpages/leadpages.php","ver":"2.3.9","sig":"v1:651cc2e1d580eda1d3d85d43035f147a531689ac79939a7026fa38120fe1ea7a"}
+[11-Feb-2020 17:51:44 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Lucky Orange | Chat, heatmaps, polls, visitor recordings, live analytics.","slug":"lucky-orange/lucky_wordpress.php","ver":"1.98","sig":"v1:0d82dbcf51281182199812d15ea4ce587fef3d529dd7dd88377116810451593e"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Slider Revolution","slug":"revslider/revslider.php","ver":"5.4.7.2","sig":"v1:f0035a5935b412279f5805ed7e4eb1990af8d39394380d9800bcf83590d2edb0"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"UpdraftPlus - Backup/Restore","slug":"updraftplus/updraftplus.php","ver":"2.16.21.1","sig":"v1:2b7945ab42e88f251097f84c4ed8d6aa231d1768e7c6e6876e64c37e4bbaacf5"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Header Builder","slug":"us-header-builder/us-header-builder.php","ver":"2.0.6","sig":"v1:d46129d03f7a0bf0e92c4638d0fcea241285f32d6dab34c6a8defc56657056f7"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"All-in-One WP Migration","slug":"all-in-one-wp-migration/all-in-one-wp-migration.php","ver":"7.15","sig":"v1:6c7eaba9582c6979332726ca57ccd42e7d692e888b5026af172dece8b92d617e"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"Gravity Forms","slug":"gravityforms/gravityforms.php","ver":"2.2.5","sig":"v1:4d9fb7767a612bd2e59b7095be0cbab915406e622ba02497fbab57ac75957de8"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"Gravity Forms (nl)","slug":"gravityforms-nl/gravityforms-nl.php","ver":"2.9.3","sig":"v1:648f53566dfb8d3fe8ea6b287ae8effa3ed5995bbde59534957d498937347430"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"InfiniteWP - Client","slug":"iwp-client/init.php","ver":"1.9.4.5","sig":"v1:9cd99d8d6a092472f283918ff15b62fe39073776e9875eb70a7e58f40d822fa8"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Impreza Child","slug":"Impreza-child","ver":"1.0","sig":"v1:d1f5d4acb7f184c50c88a69940c80a0bf91fbb22df90eaab4e87fc273219039a"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Impreza","slug":"Impreza","ver":"4.10.3","sig":"v1:ce50b7bd7809dc2ea27d555863460ffe2c8701a899c5476f97b99841fc5a079d"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Cosmopolitan","slug":"cosmopolitan","ver":"1.0","sig":"v1:da105fb0e97e1d463b8f2f85d877baeefc81ce7944081cd15a50cf43f1e9f486"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Fifteen","slug":"twentyfifteen","ver":"1.9","sig":"v1:901da645adadd2c96a536a48ed2477f2edddc35889e47202914dce65e8970b73"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Fourteen","slug":"twentyfourteen","ver":"2.1","sig":"v1:5282d1e46e482d08c50f36ef284672aae095837829fbc16f4ff0245c3af44637"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Seventeen","slug":"twentyseventeen","ver":"1.4","sig":"v1:e3cf9d3da2061450c579b4beb00e16fd71dd4b14397d90b44819c77fb4707af6"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Sixteen","slug":"twentysixteen","ver":"1.4","sig":"v1:41edac743d584e696960a465c8be5e593189b504585a67ce0ef557e4ad485f4a"}
+[11-Feb-2020 17:51:45 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Thirteen","slug":"twentythirteen","ver":"2.3","sig":"v1:59d00e79fa37e6011b5d61a9e2069b4186da9c8244e9cdf9594ef59338806b04"}
+[11-Feb-2020 17:51:46 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"wp-core","name":"wp-includes","slug":"wp-includes","ver":"5.3.2","sig":"v1:833291d125af196451633e8eaab1cc247c096340f5bac51044ce089388d6ebc6"}
+[11-Feb-2020 17:51:46 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"wp-core","name":"wp-admin","slug":"wp-admin","ver":"5.3.2","sig":"v1:eb87ddc7d12c55f2764cbd5edef50303a764a39a470a4c80df9d14ad1ac24e8f"}
+[11-Feb-2020 17:51:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[11-Feb-2020 17:51:47 UTC] PHP Stack trace:
+[11-Feb-2020 17:51:47 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:0
+[11-Feb-2020 17:51:47 UTC] PHP   2. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:947
+[11-Feb-2020 17:51:47 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 17:51:47 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 17:51:47 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 17:51:47 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 17:51:47 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 17:51:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[11-Feb-2020 17:51:58 UTC] PHP Stack trace:
+[11-Feb-2020 17:51:58 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:0
+[11-Feb-2020 17:51:58 UTC] PHP   2. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:947
+[11-Feb-2020 17:51:58 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 17:51:58 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 17:51:58 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 17:51:58 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 17:51:58 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 17:52:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[11-Feb-2020 17:52:12 UTC] PHP Stack trace:
+[11-Feb-2020 17:52:12 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:0
+[11-Feb-2020 17:52:12 UTC] PHP   2. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:947
+[11-Feb-2020 17:52:12 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 17:52:12 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 17:52:12 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 17:52:12 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 17:52:12 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 17:52:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[11-Feb-2020 17:52:20 UTC] PHP Stack trace:
+[11-Feb-2020 17:52:20 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:0
+[11-Feb-2020 17:52:20 UTC] PHP   2. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/load.php:947
+[11-Feb-2020 17:52:20 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 17:52:20 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 17:52:20 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 17:52:20 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 17:52:20 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.php:4552
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:53 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 18:00:53 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:53 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:53 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:53 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:53 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:53 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:53 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:53 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:53 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:53 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2758
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/operations.class.php on line 2762
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/revslider/includes/output.class.php on line 3706
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. include_once() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:360
+[11-Feb-2020 18:00:54 UTC] WordPress database error Server shutdown in progress for query UPDATE `wp_options` SET `option_value` = '' WHERE `option_name` = 'revslider_change_database' made by include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, RevSliderFront::createDBTables, update_option
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=10716 in /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php on line 2030
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:392
+[11-Feb-2020 18:00:54 UTC] PHP  10. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 18:00:54 UTC] PHP  11. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 18:00:54 UTC] PHP  12. UpdraftPlus_Addons_Migrator_RemoteSend->plugins_loaded() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 18:00:54 UTC] PHP  13. UpdraftPlus_Options::get_updraft_option() /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/updraftplus/includes/class-remote-send.php:40
+[11-Feb-2020 18:00:54 UTC] PHP  14. get_option() /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/updraftplus/options.php:42
+[11-Feb-2020 18:00:54 UTC] PHP  15. wpdb->get_row() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/option.php:100
+[11-Feb-2020 18:00:54 UTC] PHP  16. wpdb->query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:2569
+[11-Feb-2020 18:00:54 UTC] PHP  17. wpdb->_do_query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:1918
+[11-Feb-2020 18:00:54 UTC] PHP  18. mysqli_query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:2030
+[11-Feb-2020 18:00:54 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = 'updraft_restore_in_progress' LIMIT 1 made by include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), include_once('/plugins/updraftplus/updraftplus.php'), UpdraftPlus->block_updates_during_restore_progress, UpdraftPlus->check_restore_progress, get_site_option, get_network_option, get_option
+[11-Feb-2020 18:00:54 UTC] WordPress database error Server shutdown in progress for query SELECT option_value FROM wp_options WHERE option_name = 'classic-editor-allow-users' LIMIT 1 made by include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Classic_Editor::init_actions, Classic_Editor::get_settings, get_option
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=10717 in /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php on line 2030
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:392
+[11-Feb-2020 18:00:54 UTC] PHP  10. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 18:00:54 UTC] PHP  11. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 18:00:54 UTC] PHP  12. Classic_Editor::init_actions() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 18:00:54 UTC] PHP  13. Classic_Editor::get_settings() /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/classic-editor/classic-editor.php:42
+[11-Feb-2020 18:00:54 UTC] PHP  14. get_option() /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/classic-editor/classic-editor.php:252
+[11-Feb-2020 18:00:54 UTC] PHP  15. wpdb->get_row() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/option.php:100
+[11-Feb-2020 18:00:54 UTC] PHP  16. wpdb->query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:2569
+[11-Feb-2020 18:00:54 UTC] PHP  17. wpdb->_do_query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:1918
+[11-Feb-2020 18:00:54 UTC] PHP  18. mysqli_query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:2030
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=10718 in /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php on line 2030
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:392
+[11-Feb-2020 18:00:54 UTC] PHP  10. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 18:00:54 UTC] PHP  11. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 18:00:54 UTC] PHP  12. Classic_Editor::init_actions() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 18:00:54 UTC] PHP  13. Classic_Editor::get_settings() /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/classic-editor/classic-editor.php:42
+[11-Feb-2020 18:00:54 UTC] PHP  14. get_option() /Users/development/Local Sites/healthcare-revenue/app/public/wp-content/plugins/classic-editor/classic-editor.php:251
+[11-Feb-2020 18:00:54 UTC] PHP  15. wpdb->get_row() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/option.php:100
+[11-Feb-2020 18:00:54 UTC] PHP  16. wpdb->query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:2569
+[11-Feb-2020 18:00:54 UTC] PHP  17. wpdb->_do_query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:1918
+[11-Feb-2020 18:00:54 UTC] PHP  18. mysqli_query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:2030
+[11-Feb-2020 18:00:54 UTC] WordPress database error Server shutdown in progress for query SELECT  t.*, tt.* FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id WHERE tt.taxonomy IN ('nav_menu') AND tt.count > 0 ORDER BY t.name ASC  made by include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php'), include('phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php'), WP_CLI\bootstrap, WP_CLI\Bootstrap\LaunchRunner->process, WP_CLI\Runner->start, WP_CLI\Runner->load_wordpress, require('wp-settings.php'), do_action('after_setup_theme'), WP_Hook->do_action, WP_Hook->apply_filters, us_theme_setup, us_get_option, usof_get_option, usof_defaults, us_config, require('/themes/Impreza/framework/config/theme-options.php'), us_get_nav_menus, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms
+[11-Feb-2020 18:00:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=10715 in /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php on line 2030
+[11-Feb-2020 18:00:54 UTC] PHP Stack trace:
+[11-Feb-2020 18:00:54 UTC] PHP   1. {main}() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:0
+[11-Feb-2020 18:00:54 UTC] PHP   2. include() /Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar:4
+[11-Feb-2020 18:00:54 UTC] PHP   3. include() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/php/boot-phar.php:11
+[11-Feb-2020 18:00:54 UTC] PHP   4. WP_CLI\bootstrap() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/wp-cli.php:27
+[11-Feb-2020 18:00:54 UTC] PHP   5. WP_CLI\Bootstrap\LaunchRunner->process() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/bootstrap.php:74
+[11-Feb-2020 18:00:54 UTC] PHP   6. WP_CLI\Runner->start() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Bootstrap/LaunchRunner.php:23
+[11-Feb-2020 18:00:54 UTC] PHP   7. WP_CLI\Runner->load_wordpress() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1158
+[11-Feb-2020 18:00:54 UTC] PHP   8. require() phar:///Applications/Local.app/Contents/Resources/extraResources/bin/wp-cli/wp-cli.phar/vendor/wp-cli/wp-cli/php/WP_CLI/Runner.php:1237
+[11-Feb-2020 18:00:54 UTC] PHP   9. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-settings.php:523
+[11-Feb-2020 18:00:54 UTC] PHP  10. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 18:00:54 UTC] PHP  11. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 18:00:54 UTC] PHP  12. wp_widgets_init() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 18:00:54 UTC] PHP  13. do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/widgets.php:1765
+[11-Feb-2020 18:00:54 UTC] PHP  14. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:478
+[11-Feb-2020 18:00:54 UTC] PHP  15. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 18:00:54 UTC] PHP  16. WP_Widget_Factory->_register_widgets() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 18:00:54 UTC] PHP  17. WP_Widget_Text->_register() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-widget-factory.php:112
+[11-Feb-2020 18:00:54 UTC] PHP  18. WP_Widget_Text->_register_one() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-widget.php:251
+[11-Feb-2020 18:00:54 UTC] PHP  19. wp_add_inline_script() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/widgets/class-wp-widget-text.php:58
+[11-Feb-2020 18:00:54 UTC] PHP  20. wp_scripts() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.wp-scripts.php:128
+[11-Feb-2020 18:00:54 UTC] PHP  21. WP_Scripts->__construct() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/functions.wp-scripts.php:23
+[11-Feb-2020 18:00:54 UTC] PHP  22. WP_Scripts->init() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class.wp-scripts.php:142
+[11-Feb-2020 18:00:54 UTC] PHP  23. do_action_ref_array() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class.wp-scripts.php:167
+[11-Feb-2020 18:00:54 UTC] PHP  24. WP_Hook->do_action() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/plugin.php:544
+[11-Feb-2020 18:00:54 UTC] PHP  25. WP_Hook->apply_filters() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:312
+[11-Feb-2020 18:00:54 UTC] PHP  26. wp_default_packages() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/class-wp-hook.php:288
+[11-Feb-2020 18:00:54 UTC] PHP  27. wp_register_tinymce_scripts() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/script-loader.php:896
+[11-Feb-2020 18:00:54 UTC] PHP  28. script_concat_settings() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/script-loader.php:49
+[11-Feb-2020 18:00:54 UTC] PHP  29. get_site_option() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/script-loader.php:2812
+[11-Feb-2020 18:00:54 UTC] PHP  30. get_network_option() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/option.php:1154
+[11-Feb-2020 18:00:54 UTC] PHP  31. get_option() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/option.php:1289
+[11-Feb-2020 18:00:54 UTC] PHP  32. wpdb->get_row() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/option.php:100
+[11-Feb-2020 18:00:54 UTC] PHP  33. wpdb->query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:2569
+[11-Feb-2020 18:00:54 UTC] PHP  34. wpdb->_do_query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:1918
+[11-Feb-2020 18:00:54 UTC] PHP  35. mysqli_query() /Users/development/Local Sites/healthcare-revenue/app/public/wp-includes/wp-db.php:2030

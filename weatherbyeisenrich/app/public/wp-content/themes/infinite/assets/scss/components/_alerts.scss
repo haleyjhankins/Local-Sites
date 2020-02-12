@@ -1,0 +1,23 @@
+/**
+ * Alert styles
+ * ----------------------------------------------------------------------------
+**/
+
+.alert-box .close {
+  color: $black;
+  opacity: 1;
+  font-weight: 300;
+}
+
+.alert-box {
+  background-color: $primaryColor;
+  border-color: $secondaryColor;
+}
+
+.alert-box.success {
+  background-color: $green;
+}
+
+.alert-box.alert {
+  background-color: $red;
+}

@@ -1,0 +1,60 @@
+[12-Feb-2020 14:42:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/sisk/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:42:20 UTC] PHP Stack trace:
+[12-Feb-2020 14:42:20 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:42:20 UTC] PHP   2. do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:42:20 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:42:20 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:42:20 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:42:20 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:42:20 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:42:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/sisk/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:42:32 UTC] PHP Stack trace:
+[12-Feb-2020 14:42:32 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:42:32 UTC] PHP   2. do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:42:32 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:42:32 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:42:32 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:42:32 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:42:32 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:42:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/sisk/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:42:41 UTC] PHP Stack trace:
+[12-Feb-2020 14:42:41 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:42:41 UTC] PHP   2. do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:42:41 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:42:41 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:42:41 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:42:41 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:42:41 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:43:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/sisk/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:43:47 UTC] PHP Stack trace:
+[12-Feb-2020 14:43:47 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:43:47 UTC] PHP   2. do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:43:47 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:43:47 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:43:47 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:43:47 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:43:47 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine System","slug":"mu-plugin.php","ver":"3.2.2","sig":"v1:0610b6df432114ceed9e12ead1914c19af6dd6bf91bbb3ad4cabf5ebbc9502d5"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"Force Strong Passwords - WPE Edition","slug":"slt-force-strong-passwords.php","ver":"1.6.4","sig":"v1:47cdb56f45d33c73a1a9ff15e35dd71ea72a79b728c1b5f608b7b84906bb9e70"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine Seamless Login Plugin","slug":"wpe-wp-sign-on-plugin.php","ver":"1.5.1","sig":"v1:32ba637c986b4cec8f154eff3d3d3374e2a4a3a767d904b2daaa71abe81dbd86"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"mu-plugin","name":"WP Engine Security Auditor","slug":"wpengine-security-auditor.php","ver":"1.0.8","sig":"v1:cd2e068d3967655c0e34da64c8789c7a4c0a94e931f328a00c4ccc857d3c3f28"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Advanced Custom Fields: Repeater Field","slug":"acf-repeater/acf-repeater.php","ver":"1.0.1","sig":"v1:34754a4131f6da8a3ffaa00f915d446d2ee6b01ea6040dea6ed8b3ffaa2a6942"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"active-plugin","name":"Advanced Custom Fields","slug":"advanced-custom-fields/acf.php","ver":"4.4.11","sig":"v1:927c4dac039a59754fcac62d72449291d9600c776595cbba95e01bcae4b3375c"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"Akismet Anti-Spam","slug":"akismet/akismet.php","ver":"3.3.4","sig":"v1:c5e7905f44620cff7d7a8cda0eed90b115cd533e81e991fe3e7040ae182bd1f5"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"WP Maintenance Mode","slug":"wp-maintenance-mode/wp-maintenance-mode.php","ver":"2.0.9","sig":"v1:3fb819bb4830d359688a429b0a8069948fbcd7c391effcee55e5d8b10043e2dc"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"installed-plugin","name":"WP Migrate DB Pro","slug":"wp-migrate-db-pro/wp-migrate-db-pro.php","ver":"1.4.1","sig":"v1:928b5523b94a2336681e740c4c810c535b52f5f6742200a5e88cff420f92eaeb"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Prowl","slug":"prowl","ver":"1.0-wpcom","sig":"v1:54344e51e969d3a5d9bf0746278bccd5e6ed231cc1e10aaadaf7ce1780bf57e3"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Fifteen","slug":"twentyfifteen","ver":"2.0","sig":"v1:c0d5ce6a626394ffa7715ed65e35f2ea3d9e562d3e2a2b30978c6ce8acbc51de"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Fourteen","slug":"twentyfourteen","ver":"2.2","sig":"v1:cbde6808361c289bcdd9abe29f2f02100c81d44ffb024ed2fd90c4bd06f2f1b2"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Seventeen","slug":"twentyseventeen","ver":"1.6","sig":"v1:1f22bb7a1f4b9c82438aaacdc2c860037d12be99abc7e69d83b030db24b31177"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Sixteen","slug":"twentysixteen","ver":"1.5","sig":"v1:29a6f31fdfcf1d7c12d298f3f9636c17204a930fb37e3c276d9145cbf70f233d"}
+[12-Feb-2020 14:43:47 UTC] auditor:scan=fingerprint {"blog_id":1,"kind":"theme","name":"Twenty Thirteen","slug":"twentythirteen","ver":"2.4","sig":"v1:ffd892a20a31c50d2cd9f47158a4b68a2e6988816badf49114b104cf4d3df3ae"}
+[12-Feb-2020 14:44:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /Users/development/Local Sites/sisk/app/public/wp-content/mu-plugins/wpengine-common/plugin.php on line 1073
+[12-Feb-2020 14:44:10 UTC] PHP Stack trace:
+[12-Feb-2020 14:44:10 UTC] PHP   1. shutdown_action_hook() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:0
+[12-Feb-2020 14:44:10 UTC] PHP   2. do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/load.php:947
+[12-Feb-2020 14:44:10 UTC] PHP   3. WP_Hook->do_action() /Users/development/Local Sites/sisk/app/public/wp-includes/plugin.php:478
+[12-Feb-2020 14:44:10 UTC] PHP   4. WP_Hook->apply_filters() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:312
+[12-Feb-2020 14:44:10 UTC] PHP   5. wp_ob_end_flush_all() /Users/development/Local Sites/sisk/app/public/wp-includes/class-wp-hook.php:288
+[12-Feb-2020 14:44:10 UTC] PHP   6. ob_end_flush() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
+[12-Feb-2020 14:44:10 UTC] PHP   7. WpeCommon->filter_html_output() /Users/development/Local Sites/sisk/app/public/wp-includes/functions.php:4552
