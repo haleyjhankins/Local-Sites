@@ -38,6 +38,7 @@ window.location = "/browser-upgrade";
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo get_template_directory_uri(); ?>/assets/img/icons/apple-touch-icon-72x72-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" href="<?php echo get_template_directory_uri(); ?>/assets/img/icons/apple-touch-icon-precomposed.png">
 	<script src="//use.typekit.net/oba1ygq.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	<script>try{Typekit.load();}catch(e){}</script>
 	<?php wp_head(); ?>
 
@@ -70,44 +71,7 @@ window.location = "/browser-upgrade";
 				</div>
 			</div>
 
-			<header class="site-header pv2" role="banner">
-				<div class="row" data-equalizer>
-					<div class="large-5 medium-6 columns small-6 site-logo left" data-equalizer-watch>
-						<div class="outer">
-							<div class="inner">
-								<a href="<?php bloginfo( 'url' ); ?>"><img src="/wp-content/themes/infinite/assets/img/logo.png" alt="logo"></a>
-							</div>
-						</div>
-					</div>
 
-					<nav class="main-navigation right" role="navigation" data-equalizer-watch>
-						<div class="outer">
-							<div class="inner">
-								<div>
-								<ul class="dib xmv">
-									<!-- <li>
-										<span class="ft3"><a href="/getaquote/">GET A HOME &amp; AUTO QUOTE</a></span>
-									</li>
-									<li><span class="ph1 lh1-5">|</span></li>-->
-									<li>
-										<span class="ft3"><a href="/clients/">CLIENTS</a></span>
-										<!-- <ul class="sub-menu">
-											<li><a href="https://portal.csr24.com/default.asp?ak=2184195&" target="_blank">Portal</a></li>
-										</ul> -->
-									</li>
-									<li><span class="ph1 lh1-5">|</span></li>
-									<li><a class="ft3" id="trigger-overlay-word" href="#">MENU</a></li>
-									<li>
-										<a class="menu-icon" id="trigger-overlay" href="#"><span></span></a>
-									</li>
-								</ul>
-								</div>
-
-							</div>
-						</div>
-					</nav><!-- #site-navigation -->
-				</div>
-			</header><!-- #masthead -->
 
 			<div class="site-content">
 

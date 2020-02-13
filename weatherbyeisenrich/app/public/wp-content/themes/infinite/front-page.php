@@ -37,7 +37,10 @@ get_header(); ?>
 </section>
 
 
+
 <?php get_template_part( 'content-parts/content', 'section' ); ?>
+
+<?php get_template_part( 'content-parts/content', 'testimonials' ); ?> 
 
 <?php get_template_part('content-parts/content', 'minimal-form'); ?>
 
